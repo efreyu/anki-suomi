@@ -1,6 +1,5 @@
 import genanki
 import json
-from gtts import gTTS
 import os
 import sys
 import generators.gen_utils as utils
@@ -96,6 +95,20 @@ def gen_verbs_old():
 
 def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
 
+    """
+    Making card structure that contains ver conjugations with images and audio
+    Question: Base verb and Image
+    {{Verb}} - {{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}
+    Answer: Conjugated form
+    <table>
+    <tr>
+    <td>{{Verb1}}</td>
+    <td>{{Audio1}}</td>
+    </tr>
+    ...
+    </table>
+    """
+
     # Create the model for the Anki cards
     model_id = 1234567890
     model = genanki.Model(
@@ -116,6 +129,44 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
             },
         ],
     )
+    model = genanki.Model(
+        model_id,
+        'Verb Conjugation Table with Image and Audio',
+        fields=[
+            {'name': 'Verb'},
+            {'name': 'Question'},
+            {'name': 'Image'},
+            {'name': 'Verb1'},
+            {'name': 'Audio1'},
+            {'name': 'Verb2'},
+            {'name': 'Audio2'},
+            {'name': 'Verb3'},
+            {'name': 'Audio3'},
+            {'name': 'Verb4'},
+            {'name': 'Audio4'},
+            {'name': 'Verb5'},
+            {'name': 'Audio5'},
+            {'name': 'Verb6'},
+            {'name': 'Audio6'},
+        ],
+        templates=[
+            {
+                'name': 'Verb Conjugation Card',
+                'qfmt': '{{Verb}} - {{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
+                'afmt': """
+                {{FrontSide}}<br><hr>
+                <table>
+                <tr><td>{{Verb1}}</td><td>{{Audio1}}</td></tr>
+                <tr><td>{{Verb2}}</td><td>{{Audio2}}</td></tr>
+                <tr><td>{{Verb3}}</td><td>{{Audio3}}</td></tr>
+                <tr><td>{{Verb4}}</td><td>{{Audio4}}</td></tr>
+                <tr><td>{{Verb5}}</td><td>{{Audio5}}</td></tr>
+                <tr><td>{{Verb6}}</td><td>{{Audio6}}</td></tr>
+                </table>
+            """,
+            },
+        ],
+    )
 
     # Create the deck
     deck_id = 987654321
@@ -129,6 +180,8 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         verbs = json.load(f)
 
     # Directory for media files (audio and images)
+    if os.path.exists('media'):
+        os.rmdir('media')
     media_folder = 'media'
     os.makedirs(media_folder, exist_ok=True)
 
@@ -138,8 +191,8 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
     # Add cards to the deck
     for verb_data in verbs:
         verb = verb_data['verb']
-        image_path = None
-        sanitized_image_filename = None
+        question = f"Conjugate the verb '{verb}'"
+        sanitized_image_filename = ""
 
         # Handle optional image
         if 'image' in verb_data:
@@ -149,28 +202,31 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
             utils.download_image(image_url, image_path)
             media_files.append(image_path)
 
-        for subject, form in verb_data['conjugations'].items():
-            audio_filename = f"{verb}_{subject}.mp3"
-            sanitized_audio_filename = utils.sanitize_filename(audio_filename)
+        # Generate conjugations and audio
+        conjugations = verb_data['conjugations']
+        conjugation_fields = []
+        for i, conjugation in enumerate(conjugations):
+            sanitized_audio_filename = utils.sanitize_filename(f"{verb}_conjugation_{i + 1}.mp3")
             audio_path = os.path.join(media_folder, sanitized_audio_filename)
-
-            # Generate audio
-            tts = gTTS(form, lang='fi')
-            tts.save(audio_path)
+            utils.generate_audio(conjugation, audio_path)
             media_files.append(audio_path)
+            conjugation_fields.extend([conjugation, f"[sound:{sanitized_audio_filename}]"])
 
-            # Add note
-            note = genanki.Note(
-                model=model,
-                fields=[
-                    verb,                             # Verb
-                    subject,                          # Full subject description (e.g., "Minä")
-                    form,                             # Answer (e.g., "nukun")
-                    f"[sound:{sanitized_audio_filename}]", # Audio reference
-                    f'<img src="{sanitized_image_filename}"/>',  # Image reference
-                ],
-            )
-            deck.add_note(note)
+        # Fill missing fields if there are fewer than 6 conjugations
+        while len(conjugation_fields) < 12:
+            conjugation_fields.extend(["", ""])
+
+        # Add note
+        note = genanki.Note(
+            model=model,
+            fields=[
+                verb,                       # Verb
+                question,                   # Question
+                f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
+                *conjugation_fields,        # Conjugations and audio
+            ],
+        )
+        deck.add_note(note)
 
     # Create the package and include media files
     package = genanki.Package(deck)

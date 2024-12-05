@@ -1,5 +1,6 @@
 import unicodedata
 import requests
+from gtts import gTTS
 
 def sanitize_filename(filename):
     """Normalize and replace special characters for ASCII-safe filenames."""
@@ -15,3 +16,7 @@ def download_image(url, filename):
                 f.write(chunk)
     else:
         print(f"Failed to download image from {url}")
+
+def generate_audio(text, filename, language='fi'):
+    tts = gTTS(text, lang=language)
+    tts.save(filename)

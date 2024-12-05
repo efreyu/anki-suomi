@@ -2,25 +2,31 @@
   {
     "verb": "nukkua",
     "image": "https://free-images.com/tn/6223/cat_sleeping_chair_animal.jpg",
-    "conjugations": {
-      "Minä": "nukun",
-      "Sinä": "nukut",
-      "Hän": "nukkuu",
-      "Me": "nukumme",
-      "Te": "nukutte",
-      "He": "nukkuvat"
-    }
+    "conjugations": [
+      "Minä nukun",
+      "Sinä nukut",
+      "Hän nukkuu",
+      "Me nukumme",
+      "Te nukutte",
+      "He nukkuvat"
+      ],
+    "translations": [
+      "I sleep", "You sleep", "He/She sleeps", "We sleep", "You sleep", "They sleep"
+    ]
   },
   {
     "verb": "mennä",
     "image": "https://free-images.com/tn/843e/walk_red_street_shoes.jpg",
-    "conjugations": {
-      "Minä": "menen",
-      "Sinä": "menet",
-      "Hän": "menee",
-      "Me": "menemme",
-      "Te": "menette",
-      "He": "menevät"
-    }
+    "conjugations": [
+      "Minä menen",
+      "Sinä menet",
+      "Hän menee",
+      "Me menemme",
+      "Te menette",
+      "He menevät"
+    ],
+    "translations": [
+      "I go", "You go", "He/She goes", "We go", "You go", "They go"
+    ]
   }
 ]
