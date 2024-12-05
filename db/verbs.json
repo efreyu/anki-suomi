@@ -1,6 +1,6 @@
 [
   {
-    "verb": "nukkua",
+    "verb": "Nukkua",
     "image": "https://free-images.com/tn/6223/cat_sleeping_chair_animal.jpg",
     "conjugations": [
       "Minä nukun",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "verb": "mennä",
+    "verb": "Mennä",
     "image": "https://free-images.com/tn/843e/walk_red_street_shoes.jpg",
     "conjugations": [
       "Minä menen",
@@ -27,6 +27,21 @@
     ],
     "translations": [
       "I go", "You go", "He/She goes", "We go", "You go", "They go"
+    ]
+  },
+  {
+    "verb": "Puhua (verbtype 1)",
+    "image": "https://free-images.com/tn/57c2/speak_talk_microphone_tin.jpg",
+    "conjugations": [
+      "Minä puhun",
+      "Sinä puhut",
+      "Hän puhuu",
+      "Me puhumme",
+      "Te puhutte",
+      "He puhuvat"
+    ],
+    "translations": [
+      "I speak", "you speak", "he/she speaks", "we speak", "you speak", "they speak"
     ]
   }
 ]

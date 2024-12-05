@@ -2,6 +2,7 @@ import genanki
 import json
 import os
 import sys
+import shutil
 import generators.gen_utils as utils
 
 
@@ -137,16 +138,22 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
             {'name': 'Question'},
             {'name': 'Image'},
             {'name': 'Verb1'},
+            {'name': 'Translate1'},
             {'name': 'Audio1'},
             {'name': 'Verb2'},
+            {'name': 'Translate2'},
             {'name': 'Audio2'},
             {'name': 'Verb3'},
+            {'name': 'Translate3'},
             {'name': 'Audio3'},
             {'name': 'Verb4'},
+            {'name': 'Translate4'},
             {'name': 'Audio4'},
             {'name': 'Verb5'},
+            {'name': 'Translate5'},
             {'name': 'Audio5'},
             {'name': 'Verb6'},
+            {'name': 'Translate6'},
             {'name': 'Audio6'},
         ],
         templates=[
@@ -156,12 +163,12 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
                 'afmt': """
                 {{FrontSide}}<br><hr>
                 <table>
-                <tr><td>{{Verb1}}</td><td>{{Audio1}}</td></tr>
-                <tr><td>{{Verb2}}</td><td>{{Audio2}}</td></tr>
-                <tr><td>{{Verb3}}</td><td>{{Audio3}}</td></tr>
-                <tr><td>{{Verb4}}</td><td>{{Audio4}}</td></tr>
-                <tr><td>{{Verb5}}</td><td>{{Audio5}}</td></tr>
-                <tr><td>{{Verb6}}</td><td>{{Audio6}}</td></tr>
+                <tr><td>{{Verb1}}</td><td> / {{Translate1}}</td><td>{{Audio1}}</td></tr>
+                <tr><td>{{Verb2}}</td><td> / {{Translate2}}</td><td>{{Audio2}}</td></tr>
+                <tr><td>{{Verb3}}</td><td> / {{Translate3}}</td><td>{{Audio3}}</td></tr>
+                <tr><td>{{Verb4}}</td><td> / {{Translate4}}</td><td>{{Audio4}}</td></tr>
+                <tr><td>{{Verb5}}</td><td> / {{Translate5}}</td><td>{{Audio5}}</td></tr>
+                <tr><td>{{Verb6}}</td><td> / {{Translate6}}</td><td>{{Audio6}}</td></tr>
                 </table>
             """,
             },
@@ -181,7 +188,7 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
 
     # Directory for media files (audio and images)
     if os.path.exists('media'):
-        os.rmdir('media')
+        shutil.rmtree('media')
     media_folder = 'media'
     os.makedirs(media_folder, exist_ok=True)
 
@@ -204,16 +211,18 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
 
         # Generate conjugations and audio
         conjugations = verb_data['conjugations']
+        translations = verb_data['translations']
         conjugation_fields = []
         for i, conjugation in enumerate(conjugations):
+            translate = translations[i]
             sanitized_audio_filename = utils.sanitize_filename(f"{verb}_conjugation_{i + 1}.mp3")
             audio_path = os.path.join(media_folder, sanitized_audio_filename)
             utils.generate_audio(conjugation, audio_path)
             media_files.append(audio_path)
-            conjugation_fields.extend([conjugation, f"[sound:{sanitized_audio_filename}]"])
+            conjugation_fields.extend([conjugation, translate, f"[sound:{sanitized_audio_filename}]"])
 
         # Fill missing fields if there are fewer than 6 conjugations
-        while len(conjugation_fields) < 12:
+        while len(conjugation_fields) < 6 * 3:
             conjugation_fields.extend(["", ""])
 
         # Add note
