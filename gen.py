@@ -23,7 +23,7 @@ generators = [
         "name": "generate_verbs",
         "call": gen_verbs.gen_verbs,
         "expected": True,
-        "args": [],
+        "args": ['Finnish_Verbs.apkg'],
     }
 ]
 
