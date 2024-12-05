@@ -1,0 +1,26 @@
+[
+  {
+    "verb": "nukkua",
+    "image": "https://free-images.com/tn/6223/cat_sleeping_chair_animal.jpg",
+    "conjugations": {
+      "Minä": "nukun",
+      "Sinä": "nukut",
+      "Hän": "nukkuu",
+      "Me": "nukumme",
+      "Te": "nukutte",
+      "He": "nukkuvat"
+    }
+  },
+  {
+    "verb": "mennä",
+    "image": "https://free-images.com/tn/843e/walk_red_street_shoes.jpg",
+    "conjugations": {
+      "Minä": "menen",
+      "Sinä": "menet",
+      "Hän": "menee",
+      "Me": "menemme",
+      "Te": "menette",
+      "He": "menevät"
+    }
+  }
+]
