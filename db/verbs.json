@@ -167,5 +167,285 @@
     "translations": [
       "I drink", "You drink", "He/She drinks", "We drink", "You drink", "They drink"
     ]
+  },
+  {
+    "verb": "Hymyillä (verbtype 3)",
+    "image": "",
+    "conjugations": [
+      "Minä hymyilen", "Sinä hymyilet", "Hän hymyilee", "Me hymyilemme", "Te hymyilette", "He hymyilevät"
+    ],
+    "translations": [
+      "I smile", "You smile", "He/She smiles", "We smile", "You smile", "They smile"
+    ]
+  },
+  {
+    "verb": "Nauraa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä nauran", "Sinä naurat", "Hän nauraa", "Me nauramme", "Te nauratte", "He nauravat"
+    ],
+    "translations": [
+      "I laugh", "You laugh", "He/She laughs", "We laugh", "You laugh", "They laugh"
+    ]
+  },
+  {
+    "verb": "Itkeä (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä itken", "Sinä itket", "Hän itkee", "Me itkemme", "Te itkette", "He itkevät"
+    ],
+    "translations": [
+      "I cry", "You cry", "He/She cries", "We cry", "You cry", "They cry"
+    ]
+  },
+  {
+    "verb": "Kuolla (verbtype 3)",
+    "image": "",
+    "conjugations": [
+      "Minä kuolen", "Sinä kuolet", "Hän kuolee", "Me kuolemme", "Te kuolette", "He kuolevat"
+    ],
+    "translations": [
+      "I die", "You die", "He/She dies", "We die", "You die", "They die"
+    ]
+  },
+  {
+    "verb": "Elää (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä elän", "Sinä elät", "Hän elää", "Me elämme", "Te elätte", "He elävät"
+    ],
+    "translations": [
+      "I live", "You live", "He/She lives", "We live", "You live", "They live"
+    ]
+  },
+  {
+    "verb": "Rakentaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä rakennan", "Sinä rakennat", "Hän rakentaa", "Me rakennamme", "Te rakennatte", "He rakentavat"
+    ],
+    "translations": [
+      "I build", "You build", "He/She builds", "We build", "You build", "They build"
+    ]
+  },
+  {
+    "verb": "Rikkoa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä rikon", "Sinä rikot", "Hän rikkoo", "Me rikomme", "Te rikotte", "He rikkovat"
+    ],
+    "translations": [
+      "I break", "You break", "He/She breaks", "We break", "You break", "They break"
+    ]
+  },
+  {
+    "verb": "Etsiä (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä etsin", "Sinä etsit", "Hän etsii", "Me etsimme", "Te etsitte", "He etsivät"
+    ],
+    "translations": [
+      "I search", "You search", "He/She searches", "We search", "You search", "They search"
+    ]
+  },
+  {
+    "verb": "Leikkiä (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä leikin", "Sinä leikit", "Hän leikkii", "Me leikimme", "Te leikitte", "He leikkivät"
+    ],
+    "translations": [
+      "I play (child's play)", "You play", "He/She plays", "We play", "You play", "They play"
+    ]
+  },
+  {
+    "verb": "Tappaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä tapan", "Sinä tapat", "Hän tappaa", "Me tapamme", "Te tapatte", "He tappavat"
+    ],
+    "translations": [
+      "I kill", "You kill", "He/She kills", "We kill", "You kill", "They kill"
+    ]
+  },
+  {
+    "verb": "Tanssia (verbtype 3)",
+    "image": "",
+    "conjugations": [
+      "Minä tanssin", "Sinä tanssit", "Hän tanssii", "Me tanssimme", "Te tanssitte", "He tanssivat"
+    ],
+    "translations": [
+      "I dance", "You dance", "He/She dances", "We dance", "You dance", "They dance"
+    ]
+  },
+  {
+    "verb": "Katsoa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä katson", "Sinä katsot", "Hän katsoo", "Me katsomme", "Te katsotte", "He katsovat"
+    ],
+    "translations": [
+      "I watch", "You watch", "He/She watches", "We watch", "You watch", "They watch"
+    ]
+  },
+  {
+    "verb": "Laittaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä laitan", "Sinä laitat", "Hän laittaa", "Me laitamme", "Te laitatte", "He laittavat"
+    ],
+    "translations": [
+      "I put", "You put", "He/She puts", "We put", "You put", "They put"
+    ]
+  },
+  {
+    "verb": "Tykätä (verbtype 4)",
+    "image": "",
+    "conjugations": [
+      "Minä tykkään", "Sinä tykkäät", "Hän tykkää", "Me tykkäämme", "Te tykkäätte", "He tykkäävät"
+    ],
+    "translations": [
+      "I like", "You like", "He/She likes", "We like", "You like", "They like"
+    ]
+  },
+  {
+    "verb": "Hypätä (verbtype 4)",
+    "image": "",
+    "conjugations": [
+      "Minä hyppään", "Sinä hyppäät", "Hän hyppää", "Me hyppäämme", "Te hyppäätte", "He hyppäävät"
+    ],
+    "translations": [
+      "I jump", "You jump", "He/She jumps", "We jump", "You jump", "They jump"
+    ]
+  },
+  {
+    "verb": "Avata (verbtype 4)",
+    "image": "",
+    "conjugations": [
+      "Minä avaan", "Sinä avaat", "Hän avaa", "Me avaamme", "Te avaatte", "He avaavat"
+    ],
+    "translations": [
+      "I open", "You open", "He/She opens", "We open", "You open", "They open"
+    ]
+  },
+  {
+    "verb": "Sulkea (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä suljen", "Sinä suljet", "Hän sulkee", "Me suljemme", "Te suljette", "He sulkevat"
+    ],
+    "translations": [
+      "I close", "You close", "He/She closes", "We close", "You close", "They close"
+    ]
+  },
+  {
+    "verb": "Unohtaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä unohdan", "Sinä unohdat", "Hän unohtaa", "Me unohdamme", "Te unohdatte", "He unohtavat"
+    ],
+    "translations": [
+      "I forget", "You forget", "He/She forgets", "We forget", "You forget", "They forget"
+    ]
+  },
+  {
+    "verb": "Muistaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä muistan", "Sinä muistat", "Hän muistaa", "Me muistamme", "Te muistatte", "He muistavat"
+    ],
+    "translations": [
+      "I remember", "You remember", "He/She remembers", "We remember", "You remember", "They remember"
+    ]
+  },
+  {
+    "verb": "Lähteä (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä lähden", "Sinä lähdet", "Hän lähtee", "Me lähdemme", "Te lähdette", "He lähtevät"
+    ],
+    "translations": [
+      "I leave", "You leave", "He/She leaves", "We leave", "You leave", "They leave"
+    ]
+  },
+  {
+    "verb": "Auttaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä autan", "Sinä autat", "Hän auttaa", "Me autamme", "Te autatte", "He auttavat"
+    ],
+    "translations": [
+      "I help", "You help", "He/She helps", "We help", "You help", "They help"
+    ]
+  },
+  {
+    "verb": "Pelata (verbtype 4)",
+    "image": "",
+    "conjugations": [
+      "Minä pelaan", "Sinä pelaat", "Hän pelaa", "Me pelaamme", "Te pelaatte", "He pelaavat"
+    ],
+    "translations": [
+      "I play", "You play", "He/She plays", "We play", "You play", "They play"
+    ]
+  },
+  {
+    "verb": "Rakastaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä rakastan", "Sinä rakastat", "Hän rakastaa", "Me rakastamme", "Te rakastatte", "He rakastavat"
+    ],
+    "translations": [
+      "I love", "You love", "He/She loves", "We love", "You love", "They love"
+    ]
+  },
+  {
+    "verb": "Ajaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä ajan", "Sinä ajat", "Hän ajaa", "Me ajamme", "Te ajatte", "He ajavat"
+    ],
+    "translations": [
+      "I drive", "You drive", "He/She drives", "We drive", "You drive", "They drive"
+    ]
+  },
+  {
+    "verb": "Odottaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä odotan", "Sinä odotat", "Hän odottaa", "Me odotamme", "Te odotatte", "He odottavat"
+    ],
+    "translations": [
+      "I wait", "You wait", "He/She waits", "We wait", "You wait", "They wait"
+    ]
+  },
+  {
+    "verb": "Opiskella (verbtype 3)",
+    "image": "",
+    "conjugations": [
+      "Minä opiskelen", "Sinä opiskelet", "Hän opiskelee", "Me opiskelemme", "Te opiskelette", "He opiskelevat"
+    ],
+    "translations": [
+      "I study", "You study", "He/She studies", "We study", "You study", "They study"
+    ]
+  },
+  {
+    "verb": "Ostaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä ostan", "Sinä ostat", "Hän ostaa", "Me ostamme", "Te ostatte", "He ostavat"
+    ],
+    "translations": [
+      "I buy", "You buy", "He/She buys", "We buy", "You buy", "They buy"
+    ]
+  },
+  {
+    "verb": "Kävellä (verbtype 3)",
+    "image": "",
+    "conjugations": [
+      "Minä kävelen", "Sinä kävelet", "Hän kävelee", "Me kävelemme", "Te kävelette", "He kävelevät"
+    ],
+    "translations": [
+      "I walk", "You walk", "He/She walks", "We walk", "You walk", "They walk"
+    ]
   }
 ]
