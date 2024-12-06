@@ -3,12 +3,7 @@
     "verb": "Nukkua",
     "image": "https://free-images.com/tn/6223/cat_sleeping_chair_animal.jpg",
     "conjugations": [
-      "Minä nukun",
-      "Sinä nukut",
-      "Hän nukkuu",
-      "Me nukumme",
-      "Te nukutte",
-      "He nukkuvat"
+      "Minä nukun", "Sinä nukut", "Hän nukkuu", "Me nukumme", "Te nukutte", "He nukkuvat"
       ],
     "translations": [
       "I sleep", "You sleep", "He/She sleeps", "We sleep", "You sleep", "They sleep"
@@ -18,12 +13,7 @@
     "verb": "Mennä",
     "image": "https://free-images.com/tn/843e/walk_red_street_shoes.jpg",
     "conjugations": [
-      "Minä menen",
-      "Sinä menet",
-      "Hän menee",
-      "Me menemme",
-      "Te menette",
-      "He menevät"
+      "Minä menen", "Sinä menet", "Hän menee", "Me menemme", "Te menette", "He menevät"
     ],
     "translations": [
       "I go", "You go", "He/She goes", "We go", "You go", "They go"
@@ -33,27 +23,17 @@
     "verb": "Puhua (verbtype 1)",
     "image": "https://free-images.com/tn/57c2/speak_talk_microphone_tin.jpg",
     "conjugations": [
-      "Minä puhun",
-      "Sinä puhut",
-      "Hän puhuu",
-      "Me puhumme",
-      "Te puhutte",
-      "He puhuvat"
+      "Minä puhun", "Sinä puhut", "Hän puhuu", "Me puhumme", "Te puhutte", "He puhuvat"
     ],
     "translations": [
-      "I speak", "you speak", "he/she speaks", "we speak", "you speak", "they speak"
+      "I speak", "you speak", "he/she speaks", "we speak", "you speak", "They speak"
     ]
   },
   {
     "verb": "Tehdä (verbtype 2)",
     "image": "https://free-images.com/tn/9b92/work_construction_work_craft.jpg",
     "conjugations": [
-      "Minä teen",
-      "Sinä teet",
-      "Hän tekee",
-      "Me teemme",
-      "Te teette",
-      "He tekevät"
+      "Minä teen", "Sinä teet", "Hän tekee", "Me teemme", "Te teette", "He tekevät"
     ],
     "translations": [
       "I do", "You do", "He/She does", "We do", "You do", "They do"
@@ -63,12 +43,7 @@
     "verb": "Sanoa (verbtype 1)",
     "image": "https://free-images.com/tn/c111/man_microphone_leading_guy.jpg",
     "conjugations": [
-      "Minä sanon",
-      "Sinä sanot",
-      "Hän sanoo",
-      "Me sanomme",
-      "Te sanotte",
-      "He sanovat"
+      "Minä sanon", "Sinä sanot", "Hän sanoo", "Me sanomme", "Te sanotte", "He sanovat"
     ],
     "translations": [
       "I say", "You say", "He/She says", "We say", "You say", "They say"
@@ -78,12 +53,7 @@
     "verb": "Haluta (verbtype 4)",
     "image": "https://free-images.com/tn/3dc7/gift_hand_give_beg.jpg",
     "conjugations": [
-      "Minä haluan",
-      "Sinä haluat",
-      "Hän haluaa",
-      "Me haluamme",
-      "Te haluatte",
-      "He haluavat"
+      "Minä haluan", "Sinä haluat", "Hän haluaa", "Me haluamme", "Te haluatte", "He haluavat"
     ],
     "translations": [
       "I want", "You want", "He/She wants", "We want", "You want", "They want"
@@ -93,12 +63,7 @@
     "verb": "Tietää (verbtype 1)",
     "image": "https://free-images.com/tn/c246/psychology_head_thoughts_males.jpg",
     "conjugations": [
-      "Minä tiedän",
-      "Sinä tiedät",
-      "Hän tietää",
-      "Me tiedämme",
-      "Te tiedätte",
-      "He tietävät"
+      "Minä tiedän", "Sinä tiedät", "Hän tietää", "Me tiedämme", "Te tiedätte", "He tietävät"
     ],
     "translations": [
       "I know", "You know", "He/She knows", "We know", "You know", "They know"
@@ -108,12 +73,7 @@
     "verb": "Ajatella (verbtype 3)",
     "image": "https://free-images.com/tn/cd03/thought_thoughts_think_idea.jpg",
     "conjugations": [
-      "Minä ajattelen",
-      "Sinä ajattelet",
-      "Hän ajattelee",
-      "Me ajattelemme",
-      "Te ajattelette",
-      "He ajattelevat"
+      "Minä ajattelen", "Sinä ajattelet", "Hän ajattelee", "Me ajattelemme", "Te ajattelette", "He ajattelevat"
     ],
     "translations": [
       "I think", "You think", "He/She thinks", "We think", "You think", "They think"
@@ -123,12 +83,7 @@
     "verb": "Nähdä (verbtype 2)",
     "image": "https://free-images.com/tn/f315/looking_glass_ocean_looking.jpg",
     "conjugations": [
-      "Minä näen",
-      "Sinä näet",
-      "Hän näkee",
-      "Me näemme",
-      "Te näette",
-      "He näkevät"
+      "Minä näen", "Sinä näet", "Hän näkee", "Me näemme", "Te näette", "He näkevät"
     ],
     "translations": [
       "I see", "You see", "He/She sees", "We see", "You see", "They see"
@@ -138,12 +93,7 @@
     "verb": "Kuulla (verbtype 3)",
     "image": "https://free-images.com/tn/ccd1/close_up_communication_deaf.jpg",
     "conjugations": [
-      "Minä kuulen",
-      "Sinä kuulet",
-      "Hän kuulee",
-      "Me kuulemme",
-      "Te kuulette",
-      "He kuulevat"
+      "Minä kuulen", "Sinä kuulet", "Hän kuulee", "Me kuulemme", "Te kuulette", "He kuulevat"
     ],
     "translations": [
       "I hear", "You hear", "He/She hears", "We hear", "You hear", "They hear"
@@ -153,12 +103,7 @@
     "verb": "Antaa (verbtype 1)",
     "image": "https://free-images.com/tn/ea7b/give_accept_euro_10.jpg",
     "conjugations": [
-      "Minä annan",
-      "Sinä annat",
-      "Hän antaa",
-      "Me annamme",
-      "Te annatte",
-      "He antavat"
+      "Minä annan", "Sinä annat", "Hän antaa", "Me annamme", "Te annatte", "He antavat"
     ],
     "translations": [
       "I give", "You give", "He/She gives", "We give", "You give", "They give"
@@ -168,12 +113,7 @@
     "verb": "Kirjoittaa (verbtype 1)",
     "image": "https://free-images.com/tn/d630/writing_write_person_paperwork.jpg",
     "conjugations": [
-      "Minä kirjoitan",
-      "Sinä kirjoitat",
-      "Hän kirjoittaa",
-      "Me kirjoitamme",
-      "Te kirjoitatte",
-      "He kirjoittavat"
+      "Minä kirjoitan", "Sinä kirjoitat", "Hän kirjoittaa", "Me kirjoitamme", "Te kirjoitatte", "He kirjoittavat"
     ],
     "translations": [
       "I write", "You write", "He/She writes", "We write", "You write", "They write"
@@ -183,15 +123,49 @@
     "verb": "Lukea (verbtype 1)",
     "image": "https://free-images.com/tn/377e/read_book_lecture_read.jpg",
     "conjugations": [
-      "Minä luen",
-      "Sinä luet",
-      "Hän lukee",
-      "Me luemme",
-      "Te luette",
-      "He lukevat"
-    ],
+      "Minä luen", "Sinä luet", "Hän lukee", "Me luemme", "Te luette", "He lukevat" ],
     "translations": [
       "I read", "You read", "He/She reads", "We read", "You read", "They read"
+    ]
+  },
+  {
+    "verb": "Olla (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä olen", "Sinä olet", "Hän on", "Me olemme", "Te olette", "He ovat"
+    ],
+    "translations": [
+      "I am", "You are", "He/She is", "We are", "You are", "They are"
+    ]
+  },
+  {
+    "verb": "Omistaa (verbtype 1)",
+    "image": "",
+    "conjugations": [
+      "Minä omistan", "Sinä omistat", "Hän omistaa", "Me omistamme", "Te omistatte", "He omistavat"
+    ],
+    "translations": [
+      "I have", "You have", "He/She has", "We have", "You have", "They have"
+    ]
+  },
+  {
+    "verb": "Syödä (verbtype 2)",
+    "image": "",
+    "conjugations": [
+      "Minä syön", "Sinä syöt", "Hän syö", "Me syömme", "Te syötte", "He syövät"
+    ],
+    "translations": [
+      "I eat", "You eat", "He/She eats", "We eat", "You eat", "They eat"
+    ]
+  },
+  {
+    "verb": "Juoda (verbtype 2)",
+    "image": "",
+    "conjugations": [
+      "Minä juon", "Sinä juot", "Hän juo", "Me juomme", "Te juotte", "He juovat"
+    ],
+    "translations": [
+      "I drink", "You drink", "He/She drinks", "We drink", "You drink", "They drink"
     ]
   }
 ]
