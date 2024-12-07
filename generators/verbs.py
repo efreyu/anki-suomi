@@ -114,26 +114,8 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
     model_id = 1234567890
     model = genanki.Model(
         model_id,
-        'Verb Conjugation with Image and Audio',
-        fields=[
-            {'name': 'Question'},
-            {'name': 'Answer'},
-            {'name': 'Audio'},
-            {'name': 'Image'},
-        ],
-        templates=[
-            {
-                'name': 'Conjugation Card',
-                'qfmt': '{{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
-                'afmt': '{{FrontSide}}<br><hr><br>{{Answer}}<br>{{Audio}}',
-            },
-        ],
-    )
-    model = genanki.Model(
-        model_id,
         'Verb Conjugation Table with Image and Audio',
         fields=[
-            {'name': 'Verb'},
             {'name': 'Question'},
             {'name': 'Image'},
             {'name': 'Verb1'},
@@ -158,7 +140,7 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         templates=[
             {
                 'name': 'Verb Conjugation Card',
-                'qfmt': '{{Verb}} - {{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
+                'qfmt': '{{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
                 'afmt': """
                 {{FrontSide}}<br><hr>
                 <table>
