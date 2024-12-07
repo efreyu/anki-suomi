@@ -1,0 +1,382 @@
+[
+  {
+    "verb": "Ajaa",
+    "image": "https://free-images.com/tn/2912/drive_safely_signs_in.jpg",
+    "conjugations": [
+      "Minä ajan", "Sinä ajat", "Hän ajaa", "Me ajamme", "Te ajatte", "He ajavat"
+    ],
+    "translations": [
+      "I drive", "You drive", "He/She drives", "We drive", "You drive", "They drive"
+    ]
+  },
+  {
+    "verb": "Alkaa",
+    "image": "",
+    "conjugations": [
+      "Minä alan", "Sinä alat", "Hän alkaa", "Me alamme", "Te alatte", "He alkavat"
+    ],
+    "translations": [
+      "I start", "You start", "He/She starts", "We start", "You start", "They start"
+    ]
+  },
+  {
+    "verb": "Antaa",
+    "image": "https://free-images.com/tn/ea7b/give_accept_euro_10.jpg",
+    "conjugations": [
+      "Minä annan", "Sinä annat", "Hän antaa", "Me annamme", "Te annatte", "He antavat"
+    ],
+    "translations": [
+      "I give", "You give", "He/She gives", "We give", "You give", "They give"
+    ]
+  },
+  {
+    "verb": "Asua",
+    "image": "",
+    "conjugations": [
+      "Minä asun", "Sinä asut", "Hän asuu", "Me asumme", "Te asutte", "He asuvat"
+    ],
+    "translations": [
+      "I live", "You live", "He/She lives", "We live", "You live", "They live"
+    ]
+  },
+  {
+    "verb": "Auttaa",
+    "image": "https://free-images.com/tn/28b2/help_matches_red_background.jpg",
+    "conjugations": [
+      "Minä autan", "Sinä autat", "Hän auttaa", "Me autamme", "Te autatte", "He auttavat"
+    ],
+    "translations": [
+      "I help", "You help", "He/She helps", "We help", "You help", "They help"
+    ]
+  },
+  {
+    "verb": "Etsiä",
+    "image": "https://free-images.com/tn/f37a/search_lens_autumn_leaves.jpg",
+    "conjugations": [
+      "Minä etsin", "Sinä etsit", "Hän etsii", "Me etsimme", "Te etsitte", "He etsivät"
+    ],
+    "translations": [
+      "I search", "You search", "He/She searches", "We search", "You search", "They search"
+    ]
+  },
+  {
+    "verb": "Herättää",
+    "image": "",
+    "conjugations": [
+      "Minä herätän", "Sinä herätät", "Hän herättää", "Me herätämme", "Te herätätte", "He herättävät"
+    ],
+    "translations": [
+      "I wake", "You wake", "He/She wakes", "We wake", "You wake", "They wake"
+    ]
+  },
+  {
+    "verb": "Hoitaa",
+    "image": "",
+    "conjugations": [
+      "Minä hoidan", "Sinä hoidat", "Hän hoitaa", "Me hoidamme", "Te hoidatte", "He hoitavat"
+    ],
+    "translations": [
+      "I take care of", "You take care of", "He/She takes care of", "We take care of", "You take care of", "They take care of"
+    ]
+  },
+  {
+    "verb": "Huutaa",
+    "image": "",
+    "conjugations": [
+      "Minä huudan", "Sinä huudat", "Hän huutaa", "Me huudamme", "Te huudatte", "He huutavat"
+    ],
+    "translations": [
+      "I shout", "You shout", "He/She shouts", "We shout", "You shout", "They shout"
+    ]
+  },
+  {
+    "verb": "Katsoa",
+    "image": "https://free-images.com/tn/b32f/man_looking_water_male.jpg",
+    "conjugations": [
+      "Minä katson", "Sinä katsot", "Hän katsoo", "Me katsomme", "Te katsotte", "He katsovat"
+    ],
+    "translations": [
+      "I watch", "You watch", "He/She watches", "We watch", "You watch", "They watch"
+    ]
+  },
+  {
+    "verb": "Kieltää",
+    "image": "",
+    "conjugations": [
+      "Minä kiellän", "Sinä kiellät", "Hän kieltää", "Me kiellämme", "Te kiellätte", "He kieltävät"
+    ],
+    "translations": [
+      "I deny", "You deny", "He/She denies", "We deny", "You deny", "They deny"
+    ]
+  },
+  {
+    "verb": "Kiertää",
+    "image": "",
+    "conjugations": [
+      "Minä kierrän", "Sinä kierrät", "Hän kiertää", "Me kierrämme", "Te kierrätte", "He kiertävät"
+    ],
+    "translations": [
+      "I go around", "You go around", "He/She goes around", "We go around", "You go around", "They go around"
+    ]
+  },
+  {
+    "verb": "Kirjoittaa",
+    "image": "https://free-images.com/tn/d630/writing_write_person_paperwork.jpg",
+    "conjugations": [
+      "Minä kirjoitan", "Sinä kirjoitat", "Hän kirjoittaa", "Me kirjoitamme", "Te kirjoitatte", "He kirjoittavat"
+    ],
+    "translations": [
+      "I write", "You write", "He/She writes", "We write", "You write", "They write"
+    ]
+  },
+  {
+    "verb": "Kysyä",
+    "image": "",
+    "conjugations": [
+      "Minä kysyn", "Sinä kysyt", "Hän kysyy", "Me kysymme", "Te kysytte", "He kysyvät"
+    ],
+    "translations": [
+      "I ask", "You ask", "He/She asks", "We ask", "You ask", "They ask"
+    ]
+  },
+  {
+    "verb": "Laajentaa",
+    "image": "",
+    "conjugations": [
+      "Minä laajennan", "Sinä laajennat", "Hän laajentaa", "Me laajennamme", "Te laajennatte", "He laajentavat"
+    ],
+    "translations": [
+      "I expand", "You expand", "He/She expands", "We expand", "You expand", "They expand"
+    ]
+  },
+  {
+    "verb": "Laskea",
+    "image": "",
+    "conjugations": [
+      "Minä lasken", "Sinä lasket", "Hän laskee", "Me laskemme", "Te laskette", "He laskevat"
+    ],
+    "translations": [
+      "I count", "You count", "He/She counts", "We count", "You count", "They count"
+    ]
+  },
+  {
+    "verb": "Lukea",
+    "image": "https://free-images.com/tn/377e/read_book_lecture_read.jpg",
+    "conjugations": [
+      "Minä luen", "Sinä luet", "Hän lukee", "Me luemme", "Te luette", "He lukevat"
+    ],
+    "translations": [
+      "I read", "You read", "He/She reads", "We read", "You read", "They read"
+    ]
+  },
+  {
+    "verb": "Lähteä",
+    "image": "https://free-images.com/tn/9145/walk_woman_nature_move.jpg",
+    "conjugations": [
+      "Minä lähden", "Sinä lähdet", "Hän lähtee", "Me lähdemme", "Te lähdette", "He lähtevät"
+    ],
+    "translations": [
+      "I leave", "You leave", "He/She leaves", "We leave", "You leave", "They leave"
+    ]
+  },
+  {
+    "verb": "Maksaa",
+    "image": "",
+    "conjugations": [
+      "Minä maksan", "Sinä maksat", "Hän maksaa", "Me maksamme", "Te maksatte", "He maksavat"
+    ],
+    "translations": [
+      "I pay", "You pay", "He/She pays", "We pay", "You pay", "They pay"
+    ]
+  },
+  {
+    "verb": "Muistaa",
+    "image": "https://free-images.com/tn/52eb/post_it_list_memo.jpg",
+    "conjugations": [
+      "Minä muistan", "Sinä muistat", "Hän muistaa", "Me muistamme", "Te muistatte", "He muistavat"
+    ],
+    "translations": [
+      "I remember", "You remember", "He/She remembers", "We remember", "You remember", "They remember"
+    ]
+  },
+  {
+    "verb": "Neuvoa",
+    "image": "",
+    "conjugations": [
+      "Minä neuvon", "Sinä neuvot", "Hän neuvoo", "Me neuvomme", "Te neuvotte", "He neuvovat"
+    ],
+    "translations": [
+      "I give advice", "You give advice", "He/She gives advice", "We give advice", "You give advice", "They give advice"
+    ]
+  },
+  {
+    "verb": "Odottaa",
+    "image": "https://free-images.com/tn/7eec/wait_sign_waiting_icon.jpg",
+    "conjugations": [
+      "Minä odotan", "Sinä odotat", "Hän odottaa", "Me odotamme", "Te odotatte", "He odottavat"
+    ],
+    "translations": [
+      "I wait", "You wait", "He/She waits", "We wait", "You wait", "They wait"
+    ]
+  },
+  {
+    "verb": "Ostaa",
+    "image": "https://free-images.com/tn/dd9c/egypt_called_rothmans_fruit.jpg",
+    "conjugations": [
+      "Minä ostan", "Sinä ostat", "Hän ostaa", "Me ostamme", "Te ostatte", "He ostavat"
+    ],
+    "translations": [
+      "I buy", "You buy", "He/She buys", "We buy", "You buy", "They buy"
+    ]
+  },
+  {
+    "verb": "Ottaa",
+    "image": "",
+    "conjugations": [
+      "Minä otan", "Sinä otat", "Hän ottaa", "Me otamme", "Te otatte", "He ottavat"
+    ],
+    "translations": [
+      "I take", "You take", "He/She takes", "We take", "You take", "They take"
+    ]
+  },
+  {
+    "verb": "Paistaa",
+    "image": "",
+    "conjugations": [
+      "Minä paistan", "Sinä paistat", "Hän paistaa", "Me paistamme", "Te paistatte", "He paistavat"
+    ],
+    "translations": [
+      "I fry", "You fry", "He/She fries", "We fry", "You fry", "They fry"
+    ]
+  },
+  {
+    "verb": "Puhua",
+    "image": "https://free-images.com/tn/57c2/speak_talk_microphone_tin.jpg",
+    "conjugations": [
+      "Minä puhun", "Sinä puhut", "Hän puhuu", "Me puhumme", "Te puhutte", "He puhuvat"
+    ],
+    "translations": [
+      "I speak", "You speak", "He/She speaks", "We speak", "You speak", "They speak"
+    ]
+  },
+  {
+    "verb": "Rakastaa",
+    "image": "https://free-images.com/tn/fc98/love_my_love_necklace.jpg",
+    "conjugations": [
+      "Minä rakastan", "Sinä rakastat", "Hän rakastaa", "Me rakastamme", "Te rakastatte", "He rakastavat"
+    ],
+    "translations": [
+      "I love", "You love", "He/She loves", "We love", "You love", "They love"
+    ]
+  },
+  {
+    "verb": "Rakastua",
+    "image": "",
+    "conjugations": [
+      "Minä rakastun", "Sinä rakastut", "Hän rakastuu", "Me rakastumme", "Te rakastutte", "He rakastuvat"
+    ],
+    "translations": [
+      "I fall in love", "You fall in love", "He/She falls in love", "We fall in love", "You fall in love", "They fall in love"
+    ]
+  },
+  {
+    "verb": "Sallia",
+    "image": "",
+    "conjugations": [
+      "Minä sallin", "Sinä sallit", "Hän sallii", "Me sallimme", "Te sallitte", "He sallivat"
+    ],
+    "translations": [
+      "I allow", "You allow", "He/She allows", "We allow", "You allow", "They allow"
+    ]
+  },
+  {
+    "verb": "Sanoa",
+    "image": "https://free-images.com/tn/c111/man_microphone_leading_guy.jpg",
+    "conjugations": [
+      "Minä sanon", "Sinä sanot", "Hän sanoo", "Me sanomme", "Te sanotte", "He sanovat"
+    ],
+    "translations": [
+      "I say", "You say", "He/She says", "We say", "You say", "They say"
+    ]
+  },
+  {
+    "verb": "Soittaa",
+    "image": "",
+    "conjugations": [
+      "Minä soitan", "Sinä soitat", "Hän soittaa", "Me soitamme", "Te soitatte", "He soittavat"
+    ],
+    "translations": [
+      "I call/play", "You call/play", "He/She calls/plays", "We call/play", "You call/play", "They call/play"
+    ]
+  },
+  {
+    "verb": "Sortua",
+    "image": "",
+    "conjugations": [
+      "Minä sorrun", "Sinä sorrut", "Hän sortuu", "Me sorrumme", "Te sorrutte", "He sortuvat"
+    ],
+    "translations": [
+      "I collapse", "You collapse", "He/She collapses", "We collapse", "You collapse", "They collapse"
+    ]
+  },
+  {
+    "verb": "Tietää",
+    "image": "https://free-images.com/tn/c246/psychology_head_thoughts_males.jpg",
+    "conjugations": [
+      "Minä tiedän", "Sinä tiedät", "Hän tietää", "Me tiedämme", "Te tiedätte", "He tietävät"
+    ],
+    "translations": [
+      "I know", "You know", "He/She knows", "We know", "You know", "They know"
+    ]
+  },
+  {
+    "verb": "Tuntea",
+    "image": "",
+    "conjugations": [
+      "Minä tunnen", "Sinä tunnet", "Hän tuntee", "Me tunnemme", "Te tunnette", "He tuntevat"
+    ],
+    "translations": [
+      "I feel", "You feel", "He/She feels", "We feel", "You feel", "They feel"
+    ]
+  },
+  {
+    "verb": "Unohtaa",
+    "image": "https://free-images.com/tn/6b39/damn_forgot_toilet_paper.jpg",
+    "conjugations": [
+      "Minä unohdan", "Sinä unohdat", "Hän unohtaa", "Me unohdamme", "Te unohdatte", "He unohtavat"
+    ],
+    "translations": [
+      "I forget", "You forget", "He/She forgets", "We forget", "You forget", "They forget"
+    ]
+  },
+  {
+    "verb": "Unohtua",
+    "image": "",
+    "conjugations": [
+      "Minä unohdun", "Sinä unohdut", "Hän unohtuu", "Me unohdumme", "Te unohdutte", "He unohtuvat"
+    ],
+    "translations": [
+      "I am forgotten", "You are forgotten", "He/She is forgotten", "We are forgotten", "You are forgotten", "They are forgotten"
+    ]
+  },
+  {
+    "verb": "Vaatia",
+    "image": "",
+    "conjugations": [
+      "Minä vaadin", "Sinä vaadit", "Hän vaatii", "Me vaadimme", "Te vaaditte", "He vaativat"
+    ],
+    "translations": [
+      "I demand", "You demand", "He/She demands", "We demand", "You demand", "They demand"
+    ]
+  },
+  {
+    "verb": "Ymmärtää",
+    "image": "",
+    "conjugations": [
+      "Minä ymmärrän", "Sinä ymmärrät", "Hän ymmärtää", "Me ymmärrämme", "Te ymmärrätte", "He ymmärtävät"
+    ],
+    "translations": [
+      "I understand", "You understand", "He/She understands", "We understand", "You understand", "They understand"
+    ]
+  }
+]

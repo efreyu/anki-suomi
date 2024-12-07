@@ -94,7 +94,7 @@ def gen_verbs_old():
 
     return True
 
-def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
+def gen_verbs(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
 
     """
     Making card structure that contains ver conjugations with images and audio
@@ -160,11 +160,11 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
     deck_id = 987654321
     deck = genanki.Deck(
         deck_id,
-        'Finnish Verb Conjugation with Images and Audio',
+        deck_name,
     )
 
     # Load data from the JSON file
-    with open('db/verbs.json', 'r', encoding='utf-8') as f:
+    with open(json_file, 'r', encoding='utf-8') as f:
         verbs = json.load(f)
 
     # Directory for media files (audio and images)
