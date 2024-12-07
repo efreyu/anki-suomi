@@ -150,7 +150,7 @@
   },
   {
     "verb": "Syödä (verbtype 2)",
-    "image": "",
+    "image": "https://free-images.com/tn/82ed/eat_food_diet_407401.jpg",
     "conjugations": [
       "Minä syön", "Sinä syöt", "Hän syö", "Me syömme", "Te syötte", "He syövät"
     ],
@@ -160,7 +160,7 @@
   },
   {
     "verb": "Juoda (verbtype 2)",
-    "image": "",
+    "image": "https://free-images.com/tn/4174/drink_water_hands_party.jpg",
     "conjugations": [
       "Minä juon", "Sinä juot", "Hän juo", "Me juomme", "Te juotte", "He juovat"
     ],
@@ -170,7 +170,7 @@
   },
   {
     "verb": "Hymyillä (verbtype 3)",
-    "image": "",
+    "image": "https://free-images.com/tn/5b2a/smiley_smile_happy_427160.jpg",
     "conjugations": [
       "Minä hymyilen", "Sinä hymyilet", "Hän hymyilee", "Me hymyilemme", "Te hymyilette", "He hymyilevät"
     ],
@@ -180,7 +180,7 @@
   },
   {
     "verb": "Nauraa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/59d4/laugh_mannequin_face_red.jpg",
     "conjugations": [
       "Minä nauran", "Sinä naurat", "Hän nauraa", "Me nauramme", "Te nauratte", "He nauravat"
     ],
@@ -190,7 +190,7 @@
   },
   {
     "verb": "Itkeä (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/c8e4/eye_tear_cry_sadness.jpg",
     "conjugations": [
       "Minä itken", "Sinä itket", "Hän itkee", "Me itkemme", "Te itkette", "He itkevät"
     ],
@@ -200,7 +200,7 @@
   },
   {
     "verb": "Kuolla (verbtype 3)",
-    "image": "",
+    "image": "https://free-images.com/tn/6a45/grave_stones_694099.jpg",
     "conjugations": [
       "Minä kuolen", "Sinä kuolet", "Hän kuolee", "Me kuolemme", "Te kuolette", "He kuolevat"
     ],
@@ -210,7 +210,7 @@
   },
   {
     "verb": "Elää (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/7239/alive_dead_opposite_choice.jpg",
     "conjugations": [
       "Minä elän", "Sinä elät", "Hän elää", "Me elämme", "Te elätte", "He elävät"
     ],
@@ -220,7 +220,7 @@
   },
   {
     "verb": "Rakentaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/5b93/build_play_fun_creative.jpg",
     "conjugations": [
       "Minä rakennan", "Sinä rakennat", "Hän rakentaa", "Me rakennamme", "Te rakennatte", "He rakentavat"
     ],
@@ -230,7 +230,7 @@
   },
   {
     "verb": "Rikkoa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/9b77/project_365_102_120414.jpg",
     "conjugations": [
       "Minä rikon", "Sinä rikot", "Hän rikkoo", "Me rikomme", "Te rikotte", "He rikkovat"
     ],
@@ -240,7 +240,7 @@
   },
   {
     "verb": "Etsiä (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/f37a/search_lens_autumn_leaves.jpg",
     "conjugations": [
       "Minä etsin", "Sinä etsit", "Hän etsii", "Me etsimme", "Te etsitte", "He etsivät"
     ],
@@ -250,7 +250,7 @@
   },
   {
     "verb": "Leikkiä (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/85a3/play_lego_duplo_build.jpg",
     "conjugations": [
       "Minä leikin", "Sinä leikit", "Hän leikkii", "Me leikimme", "Te leikitte", "He leikkivät"
     ],
@@ -260,7 +260,7 @@
   },
   {
     "verb": "Tappaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/e5af/potatoes_ketchup_murder_blood.jpg",
     "conjugations": [
       "Minä tapan", "Sinä tapat", "Hän tappaa", "Me tapamme", "Te tapatte", "He tappavat"
     ],
@@ -269,8 +269,18 @@
     ]
   },
   {
+    "verb": "Tutkia (verbtype 1)",
+    "image": "https://free-images.com/tn/e88d/potatoes_murder_blood_police.jpg",
+    "conjugations": [
+      "Minä tutkin", "Sinä tutkit", "Hän tutkii", "Me tutkimme", "Te tutkitte", "He tutkivat"
+    ],
+    "translations": [
+      "I investigate", "You investigate", "He/She investigates", "We investigate", "You investigate", "They investigate"
+    ]
+  },
+  {
     "verb": "Tanssia (verbtype 3)",
-    "image": "",
+    "image": "https://free-images.com/tn/6340/folk_dance_folk_dance.jpg",
     "conjugations": [
       "Minä tanssin", "Sinä tanssit", "Hän tanssii", "Me tanssimme", "Te tanssitte", "He tanssivat"
     ],
@@ -280,7 +290,7 @@
   },
   {
     "verb": "Katsoa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/b32f/man_looking_water_male.jpg",
     "conjugations": [
       "Minä katson", "Sinä katsot", "Hän katsoo", "Me katsomme", "Te katsotte", "He katsovat"
     ],
@@ -290,7 +300,7 @@
   },
   {
     "verb": "Laittaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/bdf8/puzzle_last_particles_piece_1.jpg",
     "conjugations": [
       "Minä laitan", "Sinä laitat", "Hän laittaa", "Me laitamme", "Te laitatte", "He laittavat"
     ],
@@ -300,7 +310,7 @@
   },
   {
     "verb": "Tykätä (verbtype 4)",
-    "image": "",
+    "image": "https://free-images.com/tn/510d/cat_hangover_red_cute_14.jpg",
     "conjugations": [
       "Minä tykkään", "Sinä tykkäät", "Hän tykkää", "Me tykkäämme", "Te tykkäätte", "He tykkäävät"
     ],
@@ -310,7 +320,7 @@
   },
   {
     "verb": "Hypätä (verbtype 4)",
-    "image": "",
+    "image": "https://free-images.com/tn/47e7/jump_man_sports_active.jpg",
     "conjugations": [
       "Minä hyppään", "Sinä hyppäät", "Hän hyppää", "Me hyppäämme", "Te hyppäätte", "He hyppäävät"
     ],
@@ -320,7 +330,7 @@
   },
   {
     "verb": "Avata (verbtype 4)",
-    "image": "",
+    "image": "https://free-images.com/tn/f1b9/open_sign_beach_rustic.jpg",
     "conjugations": [
       "Minä avaan", "Sinä avaat", "Hän avaa", "Me avaamme", "Te avaatte", "He avaavat"
     ],
@@ -330,7 +340,7 @@
   },
   {
     "verb": "Sulkea (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/f51a/closed_gone_fishing_fishing.jpg",
     "conjugations": [
       "Minä suljen", "Sinä suljet", "Hän sulkee", "Me suljemme", "Te suljette", "He sulkevat"
     ],
@@ -340,7 +350,7 @@
   },
   {
     "verb": "Unohtaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/6b39/damn_forgot_toilet_paper.jpg",
     "conjugations": [
       "Minä unohdan", "Sinä unohdat", "Hän unohtaa", "Me unohdamme", "Te unohdatte", "He unohtavat"
     ],
@@ -350,7 +360,7 @@
   },
   {
     "verb": "Muistaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/52eb/post_it_list_memo.jpg",
     "conjugations": [
       "Minä muistan", "Sinä muistat", "Hän muistaa", "Me muistamme", "Te muistatte", "He muistavat"
     ],
@@ -360,7 +370,7 @@
   },
   {
     "verb": "Lähteä (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/9145/walk_woman_nature_move.jpg",
     "conjugations": [
       "Minä lähden", "Sinä lähdet", "Hän lähtee", "Me lähdemme", "Te lähdette", "He lähtevät"
     ],
@@ -370,7 +380,7 @@
   },
   {
     "verb": "Auttaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/28b2/help_matches_red_background.jpg",
     "conjugations": [
       "Minä autan", "Sinä autat", "Hän auttaa", "Me autamme", "Te autatte", "He auttavat"
     ],
@@ -380,7 +390,7 @@
   },
   {
     "verb": "Pelata (verbtype 4)",
-    "image": "",
+    "image": "https://free-images.com/tn/7a55/football_sport_game_competition.jpg",
     "conjugations": [
       "Minä pelaan", "Sinä pelaat", "Hän pelaa", "Me pelaamme", "Te pelaatte", "He pelaavat"
     ],
@@ -390,7 +400,7 @@
   },
   {
     "verb": "Rakastaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/fc98/love_my_love_necklace.jpg",
     "conjugations": [
       "Minä rakastan", "Sinä rakastat", "Hän rakastaa", "Me rakastamme", "Te rakastatte", "He rakastavat"
     ],
@@ -400,7 +410,7 @@
   },
   {
     "verb": "Ajaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/2912/drive_safely_signs_in.jpg",
     "conjugations": [
       "Minä ajan", "Sinä ajat", "Hän ajaa", "Me ajamme", "Te ajatte", "He ajavat"
     ],
@@ -410,7 +420,7 @@
   },
   {
     "verb": "Odottaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/7eec/wait_sign_waiting_icon.jpg",
     "conjugations": [
       "Minä odotan", "Sinä odotat", "Hän odottaa", "Me odotamme", "Te odotatte", "He odottavat"
     ],
@@ -420,7 +430,7 @@
   },
   {
     "verb": "Opiskella (verbtype 3)",
-    "image": "",
+    "image": "https://free-images.com/tn/2b5d/study_theology_biblical_673813.jpg",
     "conjugations": [
       "Minä opiskelen", "Sinä opiskelet", "Hän opiskelee", "Me opiskelemme", "Te opiskelette", "He opiskelevat"
     ],
@@ -430,7 +440,7 @@
   },
   {
     "verb": "Ostaa (verbtype 1)",
-    "image": "",
+    "image": "https://free-images.com/tn/dd9c/egypt_called_rothmans_fruit.jpg",
     "conjugations": [
       "Minä ostan", "Sinä ostat", "Hän ostaa", "Me ostamme", "Te ostatte", "He ostavat"
     ],
@@ -440,7 +450,7 @@
   },
   {
     "verb": "Kävellä (verbtype 3)",
-    "image": "",
+    "image": "https://free-images.com/tn/da49/a_walk_in_woods.jpg",
     "conjugations": [
       "Minä kävelen", "Sinä kävelet", "Hän kävelee", "Me kävelemme", "Te kävelette", "He kävelevät"
     ],

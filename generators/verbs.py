@@ -116,7 +116,6 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         model_id,
         'Verb Conjugation with Image and Audio',
         fields=[
-            {'name': 'Verb'},
             {'name': 'Question'},
             {'name': 'Answer'},
             {'name': 'Audio'},
@@ -125,7 +124,7 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         templates=[
             {
                 'name': 'Conjugation Card',
-                'qfmt': '{{Verb}} - {{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
+                'qfmt': '{{Question}}{{#Image}}<br><hr>{{Image}}<br>{{/Image}}',
                 'afmt': '{{FrontSide}}<br><hr><br>{{Answer}}<br>{{Audio}}',
             },
         ],
@@ -163,12 +162,12 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
                 'afmt': """
                 {{FrontSide}}<br><hr>
                 <table>
-                <tr><td>{{Verb1}}</td><td> / {{Translate1}}</td><td>{{Audio1}}</td></tr>
-                <tr><td>{{Verb2}}</td><td> / {{Translate2}}</td><td>{{Audio2}}</td></tr>
-                <tr><td>{{Verb3}}</td><td> / {{Translate3}}</td><td>{{Audio3}}</td></tr>
-                <tr><td>{{Verb4}}</td><td> / {{Translate4}}</td><td>{{Audio4}}</td></tr>
-                <tr><td>{{Verb5}}</td><td> / {{Translate5}}</td><td>{{Audio5}}</td></tr>
-                <tr><td>{{Verb6}}</td><td> / {{Translate6}}</td><td>{{Audio6}}</td></tr>
+                <tr><td>{{Verb1}}</td><td> ({{Translate1}})</td><td>{{Audio1}}</td></tr>
+                <tr><td>{{Verb2}}</td><td> ({{Translate2}})</td><td>{{Audio2}}</td></tr>
+                <tr><td>{{Verb3}}</td><td> ({{Translate3}})</td><td>{{Audio3}}</td></tr>
+                <tr><td>{{Verb4}}</td><td> ({{Translate4}})</td><td>{{Audio4}}</td></tr>
+                <tr><td>{{Verb5}}</td><td> ({{Translate5}})</td><td>{{Audio5}}</td></tr>
+                <tr><td>{{Verb6}}</td><td> ({{Translate6}})</td><td>{{Audio6}}</td></tr>
                 </table>
             """,
             },
@@ -204,10 +203,11 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         # Handle optional image
         if 'image' in verb_data:
             image_url = verb_data['image']
-            sanitized_image_filename = os.path.basename(image_url)
-            image_path = os.path.join(media_folder, sanitized_image_filename)
-            utils.download_image(image_url, image_path)
-            media_files.append(image_path)
+            if len(image_url):
+                sanitized_image_filename = os.path.basename(image_url)
+                image_path = os.path.join(media_folder, sanitized_image_filename)
+                utils.download_image(image_url, image_path)
+                media_files.append(image_path)
 
         # Generate conjugations and audio
         conjugations = verb_data['conjugations']
@@ -229,7 +229,6 @@ def gen_verbs(apkg_filename='Finnish_Verbs.apkg'):
         note = genanki.Note(
             model=model,
             fields=[
-                verb,                       # Verb
                 question,                   # Question
                 f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
                 *conjugation_fields,        # Conjugations and audio
