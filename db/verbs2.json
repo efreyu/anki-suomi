@@ -1,7 +1,7 @@
 [
   {
     "verb": "Analysoida",
-    "image": "",
+    "image": "https://free-images.com/tn/fece/price_development_analysis_chart.jpg",
     "conjugations": [
       "Minä analysoin", "Sinä analysoit", "Hän analysoi", "Me analysoimme", "Te analysoitte", "He analysoivat"
     ],
@@ -11,7 +11,7 @@
   },
   {
     "verb": "Haravoida",
-    "image": "",
+    "image": "https://free-images.com/tn/c004/leaves_background.jpg",
     "conjugations": [
       "Minä haravoin", "Sinä haravoit", "Hän haravoi", "Me haravoimme", "Te haravoitte", "He haravoivat"
     ],
@@ -21,7 +21,7 @@
   },
   {
     "verb": "Imuroida",
-    "image": "",
+    "image": "https://free-images.com/tn/5612/vacuum_cleaner_suck_carpet.jpg",
     "conjugations": [
       "Minä imuroin", "Sinä imuroit", "Hän imuroi", "Me imuroimme", "Te imuroitte", "He imuroivat"
     ],
@@ -31,7 +31,7 @@
   },
   {
     "verb": "Juoda",
-    "image": "",
+    "image": "https://free-images.com/tn/4174/drink_water_hands_party.jpg",
     "conjugations": [
       "Minä juon", "Sinä juot", "Hän juo", "Me juomme", "Te juotte", "He juovat"
     ],
@@ -41,7 +41,7 @@
   },
   {
     "verb": "Jäädä",
-    "image": "",
+    "image": "https://free-images.com/tn/04c0/tent_sport_leisure_camping.jpg",
     "conjugations": [
       "Minä jään", "Sinä jäät", "Hän jää", "Me jäämme", "Te jäätte", "He jäävät"
     ],
@@ -51,9 +51,10 @@
   },
   {
     "verb": "Kommunikoida",
-    "image": "",
+    "image": "https://free-images.com/tn/8bc8/giraffes_entertainment_discussion_627031.jpg",
     "conjugations": [
       "Minä kommunikoin", "Sinä kommunikoit", "Hän kommunikoi", "Me kommunikoimme", "Te kommunikoitte", "He kommunikoivat"
+
     ],
     "translations": [
       "I communicate", "You communicate", "He/She communicates", "We communicate", "You communicate", "They communicate"
@@ -61,7 +62,7 @@
   },
   {
     "verb": "Käydä",
-    "image": "",
+    "image": "https://free-images.com/tn/2efe/muhammad_ali_visits_washington_0.jpg",
     "conjugations": [
       "Minä käyn", "Sinä käyt", "Hän käy", "Me käymme", "Te käytte", "He käyvät"
     ],
@@ -78,8 +79,7 @@
     "translations": [
       "I lecture", "You lecture", "He/She lectures", "We lecture", "You lecture", "They lecture"
     ]
-  }
-,
+  },
   {
     "verb": "Myydä",
     "image": "",
@@ -92,7 +92,7 @@
   },
   {
     "verb": "Nähdä",
-    "image": "",
+    "image": "https://free-images.com/tn/f315/looking_glass_ocean_looking.jpg",
     "conjugations": [
       "Minä näen", "Sinä näet", "Hän näkee", "Me näemme", "Te näette", "He näkevät"
     ],
@@ -142,7 +142,7 @@
   },
   {
     "verb": "Syödä",
-    "image": "",
+    "image": "https://free-images.com/tn/82ed/eat_food_diet_407401.jpg",
     "conjugations": [
       "Minä syön", "Sinä syöt", "Hän syö", "Me syömme", "Te syötte", "He syövät"
     ],
@@ -152,7 +152,7 @@
   },
   {
     "verb": "Tehdä",
-    "image": "",
+    "image": "https://free-images.com/tn/9b92/work_construction_work_craft.jpg",
     "conjugations": [
       "Minä teen", "Sinä teet", "Hän tekee", "Me teemme", "Te teette", "He tekevät"
     ],
@@ -165,6 +165,7 @@
     "image": "",
     "conjugations": [
       "Minä terrorisoin", "Sinä terrorisoit", "Hän terrorisoi", "Me terrorisoimme", "Te terrorisoitte", "He terrorisoivat"
+
     ],
     "translations": [
       "I terrorize", "You terrorize", "He/She terrorizes", "We terrorize", "You terrorize", "They terrorize"
@@ -179,8 +180,7 @@
     "translations": [
       "I bring", "You bring", "He/She brings", "We bring", "You bring", "They bring"
     ]
-  }
-,
+  },
   {
     "verb": "Tupakoida",
     "image": "",
