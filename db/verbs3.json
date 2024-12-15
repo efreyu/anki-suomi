@@ -1,0 +1,254 @@
+[
+  {
+    "verb": "Ajatella",
+    "image": "https://free-images.com/tn/cd03/thought_thoughts_think_idea.jpg",
+    "conjugations": [
+      "Minä ajattelen", "Sinä ajattelet", "Hän ajattelee", "Me ajattelemme", "Te ajattelette", "He ajattelevat"
+    ],
+    "translations": [
+      "I think", "You think", "He/She thinks", "We think", "You think", "They think"
+    ]
+  },
+  {
+    "verb": "Haista",
+    "image": "",
+    "conjugations": [
+      "Minä haisen", "Sinä haiset", "Hän haisee", "Me haisemme", "Te haisette", "He haisevat"
+    ],
+    "translations": [
+      "I smell like", "You smell like", "He/She smells like", "We smell like", "You smell like", "They smell like"
+    ]
+  },
+  {
+    "verb": "Hymyillä",
+    "image": "https://free-images.com/tn/5b2a/smiley_smile_happy_427160.jpg",
+    "conjugations": [
+      "Minä hymyilen", "Sinä hymyilet", "Hän hymyilee", "Me hymyilemme", "Te hymyilette", "He hymyilevät"
+    ],
+    "translations": [
+      "I smile", "You smile", "He/She smiles", "We smile", "You smile", "They smile"
+    ]
+  },
+  {
+    "verb": "Julkaista",
+    "image": "",
+    "conjugations": [
+      "Minä julkaisen", "Sinä julkaiset", "Hän julkaisee", "Me julkaisemme", "Te julkaiset", "He julkaisevat"
+    ],
+    "translations": [
+      "I publish", "You publish", "He/She publishes", "We publish", "You publish", "They publish"
+    ]
+  },
+  {
+    "verb": "Juosta",
+    "image": "",
+    "conjugations": [
+      "Minä juoksen", "Sinä juokset", "Hän juoksee", "Me juoksemme", "Te juoksette", "He juoksevat"
+    ],
+    "translations": [
+      "I run", "You run", "He/She runs", "We run", "You run", "They run"
+    ]
+  },
+  {
+    "verb": "Jutella",
+    "image": "",
+    "conjugations": [
+      "Minä juttelen", "Sinä juttelet", "Hän juttelee", "Me juttelemme", "Te juttelette", "He juttelevat"
+    ],
+    "translations": [
+      "I chat", "You chat", "He/She chats", "We chat", "You chat", "They chat"
+    ]
+  },
+  {
+    "verb": "Keskustella",
+    "image": "",
+    "conjugations": [
+      "Minä keskustelen", "Sinä keskustelet", "Hän keskustelee", "Me keskustelemme", "Te keskustelette", "He keskustelevat"
+    ],
+    "translations": [
+      "I chat", "You chat", "He/She chats", "We chat", "You chat", "They chat"
+    ]
+  },
+  {
+    "verb": "Kiistellä",
+    "image": "",
+    "conjugations": [
+      "Minä kiistelen", "Sinä kiistelet", "Hän kiistelee", "Me kiistelemme", "Te kiistelette", "He kiistelevat"
+    ],
+    "translations": [
+      "I quarrel", "You quarrel", "He/She quarrels", "We quarrel", "You quarrel", "They quarrel"
+    ]
+  },
+  {
+    "verb": "Kuulla",
+    "image": "https://free-images.com/tn/ccd1/close_up_communication_deaf.jpg",
+    "conjugations": [
+      "Minä kuulen", "Sinä kuulet", "Hän kuulee", "Me kuulemme", "Te kuulette", "He kuulevat"
+    ],
+    "translations": [
+      "I hear", "You hear", "He/She hears", "We hear", "You hear", "They hear"
+    ]
+  }
+,
+  {
+    "verb": "Kuunnella",
+    "image": "",
+    "conjugations": [
+      "Minä kuuntelen", "Sinä kuuntelet", "Hän kuuntelee", "Me kuuntelemme", "Te kuuntelette", "He kuuntelevat"
+    ],
+    "translations": [
+      "I listen", "You listen", "He/She listens", "We listen", "You listen", "They listen"
+    ]
+  },
+  {
+    "verb": "Kävellä",
+    "image": "https://free-images.com/tn/da49/a_walk_in_woods.jpg",
+    "conjugations": [
+      "Minä kävelen", "Sinä kävelet", "Hän kävelee", "Me kävelemme", "Te kävelette", "He kävelevät"
+    ],
+    "translations": [
+      "I walk", "You walk", "He/She walks", "We walk", "You walk", "They walk"
+    ]
+  },
+  {
+    "verb": "Olla",
+    "image": "",
+    "conjugations": [
+      "Minä olen", "Sinä olet", "Hän on", "Me olemme", "Te olette", "He ovat"
+    ],
+    "translations": [
+      "I am", "You are", "He/She is", "We are", "You are", "They are"
+    ]
+  },
+  {
+    "verb": "Ommella",
+    "image": "",
+    "conjugations": [
+      "Minä ompelen", "Sinä ompelet", "Hän ompelee", "Me ompelemme", "Te ompelette", "He ompelevat"
+    ],
+    "translations": [
+      "I sew", "You sew", "He/She sews", "We sew", "You sew", "They sew"
+    ]
+  },
+  {
+    "verb": "Opetella",
+    "image": "",
+    "conjugations": [
+      "Minä opettelen", "Sinä opettelet", "Hän opettelee", "Me opettelemme", "Te opettelette", "He opettelevat"
+    ],
+    "translations": [
+      "I learn", "You learn", "He/She learns", "We learn", "You learn", "They learn"
+    ]
+  },
+  {
+    "verb": "Opiskella",
+    "image": "https://free-images.com/tn/2b5d/study_theology_biblical_673813.jpg",
+    "conjugations": [
+      "Minä opiskelen", "Sinä opiskelet", "Hän opiskelee", "Me opiskelemme", "Te opiskelette", "He opiskelevat"
+    ],
+    "translations": [
+      "I study", "You study", "He/She studies", "We study", "You study", "They study"
+    ]
+  },
+  {
+    "verb": "Panna",
+    "image": "",
+    "conjugations": [
+      "Minä panen", "Sinä panet", "Hän panee", "Me panemme", "Te panette", "He panevat"
+    ],
+    "translations": [
+      "I put", "You put", "He/She puts", "We put", "You put", "They put"
+    ]
+  },
+  {
+    "verb": "Pestä",
+    "image": "",
+    "conjugations": [
+      "Minä pesen", "Sinä peset", "Hän pesee", "Me pesemme", "Te pesette", "He pesevät"
+    ],
+    "translations": [
+      "I wash", "You wash", "He/She washes", "We wash", "You wash", "They wash"
+    ]
+  }
+,
+  {
+    "verb": "Purra",
+    "image": "",
+    "conjugations": [
+      "Minä puren", "Sinä puret", "Hän puree", "Me puremme", "Te purette", "He purevat"
+    ],
+    "translations": [
+      "I bite", "You bite", "He/She bites", "We bite", "You bite", "They bite"
+    ]
+  },
+  {
+    "verb": "Pyöräillä",
+    "image": "",
+    "conjugations": [
+      "Minä pyöräilen", "Sinä pyöräilet", "Hän pyöräilee", "Me pyöräilemme", "Te pyöräilette", "He pyöräilevät"
+    ],
+    "translations": [
+      "I ride a bike", "You ride a bike", "He/She rides a bike", "We ride a bike", "You ride a bike", "They ride a bike"
+    ]
+  },
+  {
+    "verb": "Ratkaista",
+    "image": "",
+    "conjugations": [
+      "Minä ratkaisen", "Sinä ratkaiset", "Hän ratkaisee", "Me ratkaisemme", "Te ratkaiset", "He ratkaisevat"
+    ],
+    "translations": [
+      "I solve", "You solve", "He/She solves", "We solve", "You solve", "They solve"
+    ]
+  },
+  {
+    "verb": "Riidellä",
+    "image": "",
+    "conjugations": [
+      "Minä riitelen", "Sinä riitelet", "Hän riitelee", "Me riitelemme", "Te riitelette", "He riitelevat"
+    ],
+    "translations": [
+      "I argue", "You argue", "He/She argues", "We argue", "You argue", "They argue"
+    ]
+  },
+  {
+    "verb": "Surra",
+    "image": "",
+    "conjugations": [
+      "Minä suren", "Sinä suret", "Hän suree", "Me suremme", "Te surette", "He surevat"
+    ],
+    "translations": [
+      "I mourn", "You mourn", "He/She mourns", "We mourn", "You mourn", "They mourn"
+    ]
+  },
+  {
+    "verb": "Suudella",
+    "image": "",
+    "conjugations": [
+      "Minä suutelen", "Sinä suutelet", "Hän suutelee", "Me suutelemme", "Te suutelette", "He suutelevat"
+    ],
+    "translations": [
+      "I kiss", "You kiss", "He/She kisses", "We kiss", "You kiss", "They kiss"
+    ]
+  },
+  {
+    "verb": "Tapella",
+    "image": "",
+    "conjugations": [
+      "Minä tappelen", "Sinä tappelet", "Hän tappelee", "Me tappelemme", "Te tappelette", "He tappelevat"
+    ],
+    "translations": [
+      "I fight", "You fight", "He/She fights", "We fight", "You fight", "They fight"
+    ]
+  },
+  {
+    "verb": "Työskennellä",
+    "image": "",
+    "conjugations": [
+      "Minä työskentelen", "Sinä työskentelet", "Hän työskentelee", "Me työskentelemme", "Te työskentelette", "He työskentelevat"
+    ],
+    "translations": [
+      "I work", "You work", "He/She works", "We work", "You work", "They work"
+    ]
+  }
+]
