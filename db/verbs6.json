@@ -1,0 +1,191 @@
+[
+  {
+    "verb": "Aueta",
+    "image": "",
+    "conjugations": [
+      "Minä aukenen", "Sinä aukenet", "Hän aukenee", "Me aukenemme", "Te aukenette", "He aukenevat"
+    ],
+    "translations": [
+      "I come loose", "You come loose", "He/She comes loose", "We come loose", "You come loose", "They come loose"
+    ]
+  },
+  {
+    "verb": "Heiketä",
+    "image": "",
+    "conjugations": [
+      "Minä heikkenen", "Sinä heikkenet", "Hän heikkenee", "Me heikkenemme", "Te heikkenette", "He heikkenevät"
+    ],
+    "translations": [
+      "I become weaker", "You become weaker", "He/She becomes weaker", "We become weaker", "You become weaker", "They become weaker"
+
+    ]
+  },
+  {
+    "verb": "Kalveta",
+    "image": "",
+    "conjugations": [
+      "Minä kalpenen", "Sinä kalpenet", "Hän kalpenee", "Me kalpenemme", "Te kalpenette", "He kalpenevät"
+    ],
+    "translations": [
+      "I turn pale", "You turn pale", "He/She turns pale", "We turn pale", "You turn pale", "They turn pale"
+    ]
+  },
+  {
+    "verb": "Kyetä",
+    "image": "",
+    "conjugations": [
+      "Minä kykenen", "Sinä kykenet", "Hän kykenee", "Me kykenemme", "Te kykenette", "He kykenevät"
+    ],
+    "translations": [
+      "I am able to", "You are able to", "He/She is able to", "We are able to", "You are able to", "They are able to"
+    ]
+  },
+  {
+    "verb": "Kuumeta",
+    "image": "",
+    "conjugations": [
+      "Minä kuumenen", "Sinä kuumenen", "Hän kuumenee", "Me kuumenemme", "Te kuumenette", "He kuumenevat"
+    ],
+    "translations": [
+      "I become hot", "You become hot", "He/She becomes hot", "We become hot", "You become hot", "They become hot"
+    ]
+  },
+  {
+    "verb": "Kylmetä",
+    "image": "",
+    "conjugations": [
+      "Minä kylmenen", "Sinä kylmenet", "Hän kylmenee", "Me kylmenemme", "Te kylmenette", "He kylmenevät"
+    ],
+    "translations": [
+      "I get colder", "You get colder", "He/She gets colder", "We get colder", "You get colder", "They get colder"
+    ]
+  },
+  {
+    "verb": "Laajeta",
+    "image": "",
+    "conjugations": [
+      "Minä laajenen", "Sinä laajenet", "Hän laajenee", "Me laajenemmek", "Te laajennette", "He laajenevat"
+    ],
+    "translations": [
+      "I become wider", "You become wider", "He/She becomes wider", "We become wider", "You become wider", "They become wider"
+
+    ]
+  },
+  {
+    "verb": "Lyhetä",
+    "image": "",
+    "conjugations": [
+      "Minä lyhkenen", "Sinä lyhkenet", "Hän lyhkenee", "Me lyhkenemme", "Te lyhkenette", "He lyhkenevät"
+    ],
+    "translations": [
+      "I become shorter", "You become shorter", "He/She becomes shorter", "We become shorter", "You become shorter", "They become shorter"
+
+    ]
+  },
+  {
+    "verb": "Nuoreta",
+    "image": "",
+    "conjugations": [
+      "Minä nuorenen", "Sinä nuorenet", "Hän nuorenee", "Me nuorenemme", "Te nuorenette", "He nuorenevat"
+    ],
+    "translations": [
+      "I become younger", "You become younger", "He/She becomes younger", "We become younger", "You become younger", "They become younger"
+
+    ]
+  },
+  {
+    "verb": "Paeta",
+    "image": "",
+    "conjugations": [
+      "Minä pakenen", "Sinä pakenet", "Hän pakenee", "Me pakenemme", "Te pakenette", "He pakenevat"
+    ],
+    "translations": [
+      "I run away", "You run away", "He/She runs away", "We run away", "You run away", "They run away"
+    ]
+  },
+  {
+    "verb": "Pidetä",
+    "image": "",
+    "conjugations": [
+      "Minä pitkenen", "Sinä pitkenet", "Hän pitkenee", "Me pitkenemme", "Te pitkenette", "He pitkenevät"
+    ],
+    "translations": [
+      "I become longer", "You become longer", "He/She becomes longer", "We become longer", "You become longer", "They become longer"
+
+    ]
+  },
+  {
+    "verb": "Pimetä",
+    "image": "",
+    "conjugations": [
+      "Minä pimenen", "Sinä pimenet", "Hän pimenee", "Me pimenemme", "Te pimenette", "He pimenevät"
+    ],
+    "translations": [
+      "I become darker", "You become darker", "He/She becomes darker", "We become darker", "You become darker", "They become darker"
+
+    ]
+  },
+  {
+    "verb": "Rohjeta",
+    "image": "",
+    "conjugations": [
+      "Minä rohkenen", "Sinä rohkenet", "Hän rohkenee", "Me rohkenemme", "Te rohkenette", "He rohkenevat"
+    ],
+    "translations": [
+      "I dare to", "You dare to", "He/She dares to", "We dare to", "You dare to", "They dare to"
+    ]
+  },
+  {
+    "verb": "Tarjeta",
+    "image": "",
+    "conjugations": [
+      "Minä tarkenen", "Sinä tarkenet", "Hän tarkenee", "Me tarkenemme", "Te tarkenette", "He tarkenevat"
+    ],
+    "translations": [
+      "I stand the cold", "You stand the cold", "He/She stands the cold", "We stand the cold", "You stand the cold", "They stand the cold"
+
+    ]
+  },
+  {
+    "verb": "Tummeta",
+    "image": "",
+    "conjugations": [
+      "Minä tumenen", "Sinä tumenet", "Hän tummenee", "Me tumenemme", "Te tumenette", "He tummenevat"
+    ],
+    "translations": [
+      "I darken", "You darken", "He/She darkens", "We darken", "You darken", "They darken"
+    ]
+  },
+  {
+    "verb": "Vaieta",
+    "image": "",
+    "conjugations": [
+      "Minä vaikenen", "Sinä vaikenet", "Hän vaikenee", "Me vaikenemme", "Te vaikenette", "He vaikenevat"
+    ],
+    "translations": [
+      "I become silent", "You become silent", "He/She becomes silent", "We become silent", "You become silent", "They become silent"
+
+    ]
+  },
+  {
+    "verb": "Valjeta",
+    "image": "",
+    "conjugations": [
+      "Minä valkenen", "Sinä valkenet", "Hän valkenee", "Me valkenemme", "Te valkenette", "He valkenevat"
+    ],
+    "translations": [
+      "I brighten up", "You brighten up", "He/She brightens up", "We brighten up", "You brighten up", "They brighten up"
+    ]
+  },
+  {
+    "verb": "Vanheta",
+    "image": "",
+    "conjugations": [
+      "Minä vanhenen", "Sinä vanhenet", "Hän vanhenee", "Me vanhenemme", "Te vanhenette", "He vanhenevat"
+    ],
+    "translations": [
+      "I become older", "You become older", "He/She becomes older", "We become older", "You become older", "They become older"
+
+    ]
+  }
+]
