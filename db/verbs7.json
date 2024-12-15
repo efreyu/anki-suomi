@@ -1,0 +1,103 @@
+[
+  {
+    "verb": "Selvitä",
+    "image": "",
+    "conjugations": [
+      "Minä selviän", "Sinä selviät", "Hän selviää", "Me selviämme", "Te selviätte", "He selviävät"
+    ],
+    "translations": [
+      "I become clear", "You become clear", "He/She becomes clear", "We become clear", "You become clear", "They become clear"
+
+    ]
+  },
+  {
+    "verb": "Hävitä",
+    "image": "",
+    "conjugations": [
+      "Minä häviän", "Sinä häviät", "Hän häviää", "Me häviämme", "Te häviätte", "He häviävät"
+    ],
+    "translations": [
+      "I lose", "You lose", "He/She loses", "We lose", "You lose", "They lose"
+    ]
+  },
+  {
+    "verb": "Hävetä",
+    "image": "",
+    "conjugations": [
+      "Minä häpeän", "Sinä häpeät", "Hän häpeää", "Me häpeämme", "Te häpeätte", "He häpeävät"
+    ],
+    "translations": [
+      "I am ashamed", "You are ashamed", "He/She is ashamed", "We are ashamed", "You are ashamed", "They are ashamed"
+    ]
+  },
+  {
+    "verb": "Kiivetä",
+    "image": "",
+    "conjugations": [
+      "Minä kiipeän", "Sinä kiipeät", "Hän kiipeää", "Me kiipeämme", "Te kiipeätte", "He kiipeävät"
+    ],
+    "translations": [
+      "I climb", "You climb", "He/She climbs", "We climb", "You climb", "They climb"
+    ]
+  },
+  {
+    "verb": "Ruveta",
+    "image": "",
+    "conjugations": [
+      "Minä rupean", "Sinä rupeat", "Hän rupeaa", "Me rupeamme", "Te rupeatte", "He rupeavat"
+    ],
+    "translations": [
+      "I start", "You start", "He/She starts", "We start", "You start", "They start"
+    ]
+  },
+  {
+    "verb": "Todeta",
+    "image": "",
+    "conjugations": [
+      "Minä totean", "Sinä toteat", "Hän toteaa", "Me toteamme", "Te toteatte", "He toteavat"
+    ],
+    "translations": [
+      "I state", "You state", "He/She states", "We state", "You state", "They state"
+    ]
+  },
+  {
+    "verb": "Hapata",
+    "image": "",
+    "conjugations": [
+      "Minä happanen", "Sinä happanet", "Hän happanee", "Me happanemme", "Te happanette", "He happanevat"
+    ],
+    "translations": [
+      "I acidify", "You acidify", "He/She acidifies", "We acidify", "You acidify", "They acidify"
+    ]
+  },
+  {
+    "verb": "Loitota",
+    "image": "",
+    "conjugations": [
+      "Minä loittonen", "Sinä loittonet", "Hän loittonee", "Me loittonemme", "Te loittonette", "He loittonevat"
+    ],
+    "translations": [
+      "I divert away", "You divert away", "He/She diverts away", "We divert away", "You divert away", "They divert away"
+    ]
+  },
+  {
+    "verb": "Helpota",
+    "image": "",
+    "conjugations": [
+      "Minä helpotun", "Sinä helpotut", "Hän helpottuu", "Me helpotumme", "Te helpotutte", "He helpottuvat"
+    ],
+    "translations": [
+      "I get easier", "You get easier", "He/She gets easier", "We get easier", "You get easier", "They get easier"
+    ]
+  },
+  {
+    "verb": "Parata",
+    "image": "",
+    "conjugations": [
+      "Minä paranen", "Sinä paranet", "Hän paranee", "Me paranemme", "Te paranette", "He paranevat"
+    ],
+    "translations": [
+      "I get better", "You get better", "He/She gets better", "We get better", "You get better", "They get better"
+    ]
+  }
+]

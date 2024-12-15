@@ -1,9 +1,11 @@
 import subprocess
 import sys
 
+
 # Function to install a package
 def install_package(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
 
 # List of required packages
 required_packages = ["genanki", "gtts", "pydub", "requests"]
@@ -20,10 +22,32 @@ import generators.verbs as gen_verbs
 
 generators = [
     {
-        "name": "generate_verbs",
-        "call": gen_verbs.gen_verbs,
-        "expected": True,
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
         "args": ['db/verbs1.json', 'Finnish Verbtype 1', 'Finnish_Verbs_1.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs2.json', 'Finnish Verbtype 2', 'Finnish_Verbs_2.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs3.json', 'Finnish Verbtype 3', 'Finnish_Verbs_3.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs4.json', 'Finnish Verbtype 4', 'Finnish_Verbs_4.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs5.json', 'Finnish Verbtype 5', 'Finnish_Verbs_5.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs6.json', 'Finnish Verbtype 6', 'Finnish_Verbs_6.apkg'],
+    },
+    {
+        "name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True,
+        "args": ['db/verbs7.json', 'Finnish Verbtype 7', 'Finnish_Verbs_7.apkg'],
     }
 ]
 
