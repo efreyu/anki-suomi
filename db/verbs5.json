@@ -1,0 +1,112 @@
+[
+  {
+    "verb": "Hallita",
+    "image": "",
+    "conjugations": [
+      "Minä hallitsen", "Sinä hallitset", "Hän hallitsee", "Me hallitsemme", "Te hallitsette", "He hallitsevat"
+    ],
+    "translations": [
+      "I rule", "You rule", "He/She rules", "We rule", "You rule", "They rule"
+    ]
+  },
+  {
+    "verb": "Havaita",
+    "image": "",
+    "conjugations": [
+      "Minä havaitsen", "Sinä havaitset", "Hän havaitsee", "Me havaitsemme", "Te havaitsette", "He havaitsevat"
+    ],
+    "translations": [
+      "I perceive", "You perceive", "He/She perceives", "We perceive", "You perceive", "They perceive"
+    ]
+  },
+  {
+    "verb": "Hillitä",
+    "image": "",
+    "conjugations": [
+      "Minä hillitsen", "Sinä hillitset", "Hän hillitsee", "Me hillitsemme", "Te hillitsette", "He hillitsevät"
+    ],
+    "translations": [
+      "I restrain", "You restrain", "He/She restrains", "We restrain", "You restrain", "They restrain"
+    ]
+  },
+  {
+    "verb": "Häiritä",
+    "image": "",
+    "conjugations": [
+      "Minä häiritsen", "Sinä häiritset", "Hän häiritsee", "Me häiritsemme", "Te häiritsette", "He häiritsevät"
+    ],
+    "translations": [
+      "I disturb", "You disturb", "He/She disturbs", "We disturb", "You disturb", "They disturb"
+    ]
+  },
+  {
+    "verb": "Kyyditä",
+    "image": "",
+    "conjugations": [
+      "Minä kyyditsen", "Sinä kyyditset", "Hän kyyditsee", "Me kyyditsemme", "Te kyyditsette", "He kyyditsevät"
+    ],
+    "translations": [
+      "I give a lift", "You give a lift", "He/She gives a lift", "We give a lift", "You give a lift", "They give a lift"
+    ]
+  },
+  {
+    "verb": "Mainita",
+    "image": "",
+    "conjugations": [
+      "Minä mainitsen", "Sinä mainitset", "Hän mainitsee", "Me mainitsemme", "Te mainitsette", "He mainitsevät"
+    ],
+    "translations": [
+      "I mention", "You mention", "He/She mentions", "We mention", "You mention", "They mention"
+    ]
+  },
+  {
+    "verb": "Merkitä",
+    "image": "",
+    "conjugations": [
+      "Minä merkitsen", "Sinä merkitset", "Hän merkitsee", "Me merkitsemme", "Te merkitsette", "He merkitsevät"
+    ],
+    "translations": [
+      "I mark", "You mark", "He/She marks", "We mark", "You mark", "They mark"
+    ]
+  },
+  {
+    "verb": "Punnita",
+    "image": "",
+    "conjugations": [
+      "Minä punnitsen", "Sinä punnitset", "Hän punnitsee", "Me punnitsemme", "Te punnitsette", "He punnitsevät"
+    ],
+    "translations": [
+      "I weigh", "You weigh", "He/She weighs", "We weigh", "You weigh", "They weigh"
+    ]
+  },
+  {
+    "verb": "Palkita",
+    "image": "",
+    "conjugations": [
+      "Minä palkitsen", "Sinä palkitset", "Hän palkitsee", "Me palkitsemme", "Te palkitsette", "He palkitsevät"
+    ],
+    "translations": [
+      "I reward", "You reward", "He/She rewards", "We reward", "You reward", "They reward"
+    ]
+  },
+  {
+    "verb": "Tarvita",
+    "image": "",
+    "conjugations": [
+      "Minä tarvitsen", "Sinä tarvitset", "Hän tarvitsee", "Me tarvitsemme", "Te tarvitsette", "He tarvitsevät"
+    ],
+    "translations": [
+      "I need", "You need", "He/She needs", "We need", "You need", "They need"
+    ]
+  },
+  {
+    "verb": "Tulkita",
+    "image": "",
+    "conjugations": [
+      "Minä tulkitsen", "Sinä tulkitset", "Hän tulkitsee", "Me tulkitsemme", "Te tulkitsette", "He tulkitsevät"
+    ],
+    "translations": [
+      "I interpret", "You interpret", "He/She interprets", "We interpret", "You interpret", "They interpret"
+    ]
+  }
+]

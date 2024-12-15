@@ -1,0 +1,252 @@
+[
+  {
+    "verb": "Avata",
+    "image": "https://free-images.com/tn/f1b9/open_sign_beach_rustic.jpg",
+    "conjugations": [
+      "Minä avaan", "Sinä avaat", "Hän avaa", "Me avaamme", "Te avaatte", "He avaavat"
+    ],
+    "translations": [
+      "I open", "You open", "He/She opens", "We open", "You open", "They open"
+    ]
+  },
+  {
+    "verb": "Erota",
+    "image": "",
+    "conjugations": [
+      "Minä eroan", "Sinä eroat", "Hän eroaa", "Me eroamme", "Te eroatte", "He eroavat"
+    ],
+    "translations": [
+      "I divorce", "You divorce", "He/She divorces", "We divorce", "You divorce", "They divorce"
+    ]
+  },
+  {
+    "verb": "Hakata",
+    "image": "",
+    "conjugations": [
+      "Minä hakkaan", "Sinä hakkaat", "Hän hakkaa", "Me hakkaamme", "Te hakkaatte", "He hakkaavat"
+    ],
+    "translations": [
+      "I beat", "You beat", "He/She beats", "We beat", "You beat", "They beat"
+    ]
+  },
+  {
+    "verb": "Haluta",
+    "image": "https://free-images.com/tn/3dc7/gift_hand_give_beg.jpg",
+    "conjugations": [
+      "Minä haluan", "Sinä haluat", "Hän haluaa", "Me haluamme", "Te haluatte", "He haluavat"
+    ],
+    "translations": [
+      "I want", "You want", "He/She wants", "We want", "You want", "They want"
+    ]
+  },
+  {
+    "verb": "Herätä",
+    "image": "",
+    "conjugations": [
+      "Minä herään", "Sinä heräät", "Hän herää", "Me heräämme", "Te heräätte", "He heräävät"
+    ],
+    "translations": [
+      "I wake up", "You wake up", "He/She wakes up", "We wake up", "You wake up", "They wake up"
+    ]
+  },
+  {
+    "verb": "Huomata",
+    "image": "",
+    "conjugations": [
+      "Minä huomaan", "Sinä huomaat", "Hän huomaa", "Me huomaamme", "Te huomaatte", "He huomaavat"
+    ],
+    "translations": [
+      "I notice", "You notice", "He/She notices", "We notice", "You notice", "They notice"
+    ]
+  },
+  {
+    "verb": "Hypätä",
+    "image": "https://free-images.com/tn/47e7/jump_man_sports_active.jpg",
+    "conjugations": [
+      "Minä hyppään", "Sinä hyppäät", "Hän hyppää", "Me hyppäämme", "Te hyppäätte", "He hyppäävät"
+    ],
+    "translations": [
+      "I jump", "You jump", "He/She jumps", "We jump", "You jump", "They jump"
+    ]
+  },
+  {
+    "verb": "Juoruta",
+    "image": "",
+    "conjugations": [
+      "Minä juoruan", "Sinä juoruat", "Hän juoruaa", "Me juoruamme", "Te juoruatte", "He juoruavat"
+    ],
+    "translations": [
+      "I gossip", "You gossip", "He/She gossips", "We gossip", "You gossip", "They gossip"
+    ]
+  },
+  {
+    "verb": "Kadota",
+    "image": "",
+    "conjugations": [
+      "Minä katoan", "Sinä katoat", "Hän katoaa", "Me katoamme", "Te katoatte", "He katoavat"
+    ],
+    "translations": [
+      "I disappear", "You disappear", "He/She disappears", "We disappear", "You disappear", "They disappear"
+    ]
+  },
+  {
+    "verb": "Lakata",
+    "image": "",
+    "conjugations": [
+      "Minä lakkaan", "Sinä lakkaat", "Hän lakkaa", "Me lakkaamme", "Te lakkaatte", "He lakkaavat"
+    ],
+    "translations": [
+      "I stop", "You stop", "He/She stops", "We stop", "You stop", "They stop"
+    ]
+  },
+  {
+    "verb": "Luvata",
+    "image": "",
+    "conjugations": [
+      "Minä lupaan", "Sinä lupaat", "Hän lupaa", "Me lupaamme", "Te lupaatte", "He lupaavat"
+    ],
+    "translations": [
+      "I promise", "You promise", "He/She promises", "We promise", "You promise", "They promise"
+    ]
+  },
+  {
+    "verb": "Maata",
+    "image": "",
+    "conjugations": [
+      "Minä makaan", "Sinä makaat", "Hän makaa", "Me makaamme", "Te makaatte", "He makaavat"
+    ],
+    "translations": [
+      "I lie down", "You lie down", "He/She lies down", "We lie down", "You lie down", "They lie down"
+    ]
+  },
+  {
+    "verb": "Määrätä",
+    "image": "",
+    "conjugations": [
+      "Minä määrään", "Sinä määräät", "Hän määrää", "Me määräämme", "Te määräätte", "He määräävät"
+    ],
+    "translations": [
+      "I determine", "You determine", "He/She determines", "We determine", "You determine", "They determine"
+    ]
+  },
+  {
+    "verb": "Pelata",
+    "image": "https://free-images.com/tn/7a55/football_sport_game_competition.jpg",
+    "conjugations": [
+      "Minä pelaan", "Sinä pelaat", "Hän pelaa", "Me pelaamme", "Te pelaatte", "He pelaavat"
+    ],
+    "translations": [
+      "I play", "You play", "He/She plays", "We play", "You play", "They play"
+    ]
+  },
+  {
+    "verb": "Pelätä",
+    "image": "",
+    "conjugations": [
+      "Minä pelkään", "Sinä pelkäät", "Hän pelkää", "Me pelkäämme", "Te pelkäätte", "He pelkäävät"
+    ],
+    "translations": [
+      "I am scared", "You are scared", "He/She is scared", "We are scared", "You are scared", "They are scared"
+    ]
+  },
+  {
+    "verb": "Piffata",
+    "image": "",
+    "conjugations": [
+      "Minä piffaan", "Sinä piffaat", "Hän piffaa", "Me piffaamme", "Te piffaatte", "He piffaavat"
+    ],
+    "translations": [
+      "I treat", "You treat", "He/She treats", "We treat", "You treat", "They treat"
+    ]
+  },
+  {
+    "verb": "Pihdata",
+    "image": "",
+    "conjugations": [
+      "Minä pihtaan", "Sinä pihtaat", "Hän pihtaa", "Me pihtaamme", "Te pihtaatte", "He pihtaavat"
+    ],
+    "translations": [
+      "I skimp", "You skimp", "He/She skimps", "We skimp", "You skimp", "They skimp"
+    ]
+  },
+  {
+    "verb": "Pudota",
+    "image": "",
+    "conjugations": [
+      "Minä putoan", "Sinä putoat", "Hän putoaa", "Me putoamme", "Te putoatte", "He putoavat"
+    ],
+    "translations": [
+      "I fall", "You fall", "He/She falls", "We fall", "You fall", "They fall"
+    ]
+  },
+  {
+    "verb": "Siivota",
+    "image": "",
+    "conjugations": [
+      "Minä siivoan", "Sinä siivoat", "Hän siivoaa", "Me siivoamme", "Te siivoatte", "He siivoavat"
+    ],
+    "translations": [
+      "I clean", "You clean", "He/She cleans", "We clean", "You clean", "They clean"
+    ]
+  },
+  {
+    "verb": "Tarjota",
+    "image": "",
+    "conjugations": [
+      "Minä tarjoan", "Sinä tarjoat", "Hän tarjoaa", "Me tarjoamme", "Te tarjoatte", "He tarjoavat"
+    ],
+    "translations": [
+      "I offer", "You offer", "He/She offers", "We offer", "You offer", "They offer"
+    ]
+  },
+  {
+    "verb": "Tavata",
+    "image": "",
+    "conjugations": [
+      "Minä tapaan", "Sinä tapaat", "Hän tapaa", "Me tapaamme", "Te tapaatte", "He tapaavat"
+    ],
+    "translations": [
+      "I meet", "You meet", "He/She meets", "We meet", "You meet", "They meet"
+    ]
+  },
+  {
+    "verb": "Tilata",
+    "image": "",
+    "conjugations": [
+      "Minä tilaan", "Sinä tilaat", "Hän tilaa", "Me tilaamme", "Te tilaatte", "He tilaavat"
+    ],
+    "translations": [
+      "I order", "You order", "He/She orders", "We order", "You order", "They order"
+    ]
+  },
+  {
+    "verb": "Tykätä",
+    "image": "https://free-images.com/tn/510d/cat_hangover_red_cute_14.jpg",
+    "conjugations": [
+      "Minä tykkään", "Sinä tykkäät", "Hän tykkää", "Me tykkäämme", "Te tykkäätte", "He tykkäävät"
+    ],
+    "translations": [
+      "I like", "You like", "He/She likes", "We like", "You like", "They like"
+    ]
+  },
+  {
+    "verb": "Vastata",
+    "image": "",
+    "conjugations": [
+      "Minä vastaan", "Sinä vastaat", "Hän vastaa", "Me vastaamme", "Te vastaatte", "He vastaavat"
+    ],
+    "translations": [
+      "I answer", "You answer", "He/She answers", "We answer", "You answer", "They answer"
+    ]
+  },
+  {
+    "verb": "Älytä",
+    "image": "",
+    "conjugations": [
+      "Minä älyän", "Sinä älyt", "Hän älyää", "Me älyämme", "Te älyätte", "He älyävät"
+    ],
+    "translations": [
+      "I understand", "You understand", "He/She understands", "We understand", "You understand", "They understand"
+    ]
+  }
+]

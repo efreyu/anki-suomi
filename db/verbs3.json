@@ -64,6 +64,7 @@
     "image": "",
     "conjugations": [
       "Minä keskustelen", "Sinä keskustelet", "Hän keskustelee", "Me keskustelemme", "Te keskustelette", "He keskustelevat"
+
     ],
     "translations": [
       "I chat", "You chat", "He/She chats", "We chat", "You chat", "They chat"
@@ -88,8 +89,7 @@
     "translations": [
       "I hear", "You hear", "He/She hears", "We hear", "You hear", "They hear"
     ]
-  }
-,
+  },
   {
     "verb": "Kuunnella",
     "image": "",
@@ -169,8 +169,7 @@
     "translations": [
       "I wash", "You wash", "He/She washes", "We wash", "You wash", "They wash"
     ]
-  }
-,
+  },
   {
     "verb": "Purra",
     "image": "",
@@ -246,6 +245,7 @@
     "image": "",
     "conjugations": [
       "Minä työskentelen", "Sinä työskentelet", "Hän työskentelee", "Me työskentelemme", "Te työskentelette", "He työskentelevat"
+
     ],
     "translations": [
       "I work", "You work", "He/She works", "We work", "You work", "They work"
