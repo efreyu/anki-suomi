@@ -72,7 +72,7 @@
   },
   {
     "verb": "Luennoida",
-    "image": "",
+    "image": "https://free-images.com/tn/ff84/lecture_lecturer_man_profession.jpg",
     "conjugations": [
       "Minä luennoin", "Sinä luennoit", "Hän luennoi", "Me luennoimme", "Te luennoitte", "He luennoivat"
     ],
@@ -82,7 +82,7 @@
   },
   {
     "verb": "Myydä",
-    "image": "",
+    "image": "https://free-images.com/tn/165e/hawker_street_color_sell.jpg",
     "conjugations": [
       "Minä myyn", "Sinä myyt", "Hän myy", "Me myymme", "Te myytte", "He myyvät"
     ],
@@ -102,7 +102,7 @@
   },
   {
     "verb": "Paketoida",
-    "image": "",
+    "image": "https://free-images.com/tn/2526/package_packaging_box_shipment.jpg",
     "conjugations": [
       "Minä paketoin", "Sinä paketoit", "Hän paketoi", "Me paketoimme", "Te paketoitte", "He paketoivat"
     ],
