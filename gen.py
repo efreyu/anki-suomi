@@ -27,7 +27,9 @@ generators = [
     {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs4.json', 'Finnish Verbtype 4', 'Finnish_Verbs_4.apkg']},
     {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs5.json', 'Finnish Verbtype 5', 'Finnish_Verbs_5.apkg']},
     {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs6.json', 'Finnish Verbtype 6', 'Finnish_Verbs_6.apkg']},
-    {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs7.json', 'Finnish Verbtype 7', 'Finnish_Verbs_7.apkg']}
+    {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs7.json', 'Finnish Verbtype 7', 'Finnish_Verbs_7.apkg']},
+
+    {"name": "numbers", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/numbers/numbers1.json', 'Finnish Numbers 101', 'Finnish_Numbers_1.apkg']},
 ]
 
 runners_succeed = True
