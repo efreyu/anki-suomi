@@ -1,8 +1,309 @@
 [
   {
-    "image": "https://o.quizlet.com/diI.UG3xUjYhfnQ1JRg9Lw.jpg",
+    "image": "https://img.freepik.com/free-vector/number-1-brush-stroke-typography-vector_53876-177861.jpg",
     "number": 1,
     "funnish": "yksi",
-    "translate": "one"
+    "translate": "one",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/number-2-brush-stroke-hand-drawn-vector-font-style_53876-177862.jpg",
+    "number": 2,
+    "funnish": "kaksi",
+    "translate": "two",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/alphabet-3d-number-3-white-with-orange_220664-5620.jpg",
+    "number": 3,
+    "funnish": "kolme",
+    "translate": "three",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/number-illustration-isolated_23-2151463630.jpg",
+    "number": 4,
+    "funnish": "neljä",
+    "translate": "four",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/glossy-red-numbers-with-white-3d-letter-5_511564-2640.jpg",
+    "number": 5,
+    "funnish": "viisi",
+    "translate": "five",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/3d-rendering-birthday-cake-candle-number_23-2151036968.jpg",
+    "number": 6,
+    "funnish": "kuusi",
+    "translate": "six",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/number-7-gradient-logo-design_474888-4535.jpg",
+    "number": 7,
+    "funnish": "seitsemän",
+    "translate": "seven",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/yellow-alphabet-with-number-8-3d-blue_220664-4893.jpg",
+    "number": 8,
+    "funnish": "kahdeksan",
+    "translate": "eight",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/number-9-brush-stroke-distressed-style-typography-vector_53876-177863.jpg",
+    "number": 9,
+    "funnish": "yhdeksän",
+    "translate": "nine",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/3d-rendering-birthday-cake-candle-number_23-2151036980.jpg",
+    "number": 10,
+    "funnish": "kymmenen",
+    "translate": "ten"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-11th-anniversary-gradient-edition_474888-2596.jpg",
+    "number": 11,
+    "funnish": "yksitoista",
+    "translate": "eleven",
+    "note": "<b>kaksi</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-number-12-anniversary-gradient-edition_474888-2597.jpg",
+    "number": 12,
+    "funnish": "kaksitoista",
+    "translate": "twelve",
+    "note": "<b>kaksi</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1863.jpg",
+    "number": 13,
+    "funnish": "kolmetoista",
+    "translate": "thirteen",
+    "note": "<b>kolme</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-14th-anniversary-golden-edition_474888-2599.jpg",
+    "number": 14,
+    "funnish": "neljätoista",
+    "translate": "fourteen",
+    "note": "<b>neljä</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-15th-anniversary-gradient-edition_474888-2600.jpg",
+    "number": 15,
+    "funnish": "viisitoista",
+    "translate": "fifteen",
+    "note": "<b>viisi</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1859.jpg",
+    "number": 16,
+    "funnish": "kuusitoista",
+    "translate": "sixteen",
+    "note": "<b>kuusi</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1854.jpg",
+    "number": 17,
+    "funnish": "seitsemäntoista",
+    "translate": "seventeen",
+    "note": "<b>seitsemän</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1871.jpg",
+    "number": 18,
+    "funnish": "kahdeksantoista",
+    "translate": "eighteen",
+    "note": "<b>kahdeksan</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1839.jpg",
+    "number": 19,
+    "funnish": "yhdeksäntoista",
+    "translate": "nineteen",
+    "note": "<b>yhdeksän</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-psd/editable-psd-poster-merry-christmas-prosperous-new-year-christmas-parties-feliz-natal-brazil_314999-3499.jpg",
+    "number": 20,
+    "funnish": "kaksikymmentä",
+    "translate": "twenty",
+    "note": "<b>kaksi</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/elegant-golden-number-21-with-shiny-metallic-finish_845462-882.jpg",
+    "number": 21,
+    "funnish": "kaksikymmentäyksi",
+    "translate": "twenty-one",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>yksi</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/colorful-gradient-number-22-logo-design_474888-2607.jpg",
+    "number": 22,
+    "funnish": "kaksikymmentäkaksi",
+    "translate": "twenty-two",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>kaksi</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/colorful-gradient-number-23-logo-design_474888-2608.jpg",
+    "number": 23,
+    "funnish": "kaksikymmentäkolme",
+    "translate": "twenty-three",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>kolme</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/colorful-gradient-number-24-logo-design_474888-2609.jpg",
+    "number": 24,
+    "funnish": "kaksikymmentäneljä",
+    "translate": "twenty-four",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>neljä</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/colorful-gradient-number-25-logo-design_474888-2610.jpg",
+    "number": 25,
+    "funnish": "kaksikymmentäviisi",
+    "translate": "twenty-five",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>viisi</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1868.jpg",
+    "number": 26,
+    "funnish": "kaksikymmentäkuusi",
+    "translate": "twenty-six",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>kuusi</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1856.jpg",
+    "number": 27,
+    "funnish": "kaksikymmentäseitsemän",
+    "translate": "twenty-seven",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>seitsemän</b>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/two-gold-letters-that-say-100-100-are-gold-object_1295705-30330.jpg",
+    "number": 28,
+    "funnish": "kaksikymmentäkahdeksan",
+    "translate": "twenty-eight",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>kahdeksan</b>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1858.jpg",
+    "number": 29,
+    "funnish": "kaksikymmentäyhdeksän",
+    "translate": "twenty-nine",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>yhdeksän</b>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/30-number-3d-cut-design-icon-celebration-design-vector-typography-creative-black-design_182604-967.jpg",
+    "number": 30,
+    "funnish": "kolmekymmentä",
+    "translate": "thirty",
+    "note": "<b>kolme</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/hand-drawn-40th-anniversary-card_23-2149297706.jpg",
+    "number": 40,
+    "funnish": "neljäkymmentä",
+    "translate": "forty",
+    "note": "<b>neljä</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-vector-basketball-baseball-sport-numbers-50_688395-399.jpg",
+    "number": 50,
+    "funnish": "viisikymmentä",
+    "translate": "fifty",
+    "note": "<b>viisi</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1892.jpg",
+    "number": 60,
+    "funnish": "kuusikymmentä",
+    "translate": "sixty",
+    "note": "<b>kuusi</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/3d-number-70-rendering_986960-78929.jpg",
+    "number": 70,
+    "funnish": "seitsemänkymmentä",
+    "translate": "seventy",
+    "note": "<b>seitsemän</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/vector-gradient-number-logo-design_779267-1922.jpg",
+    "number": 80,
+    "funnish": "kahdeksankymmentä",
+    "translate": "eighty",
+    "note": "<b>kahdeksan</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-photo/anniversary-golden-laurel-wreath-numeral-90-black-background_659132-653.jpg",
+    "number": 90,
+    "funnish": "yhdeksänkymmentä",
+    "translate": "ninety",
+    "note": "<b>yhdeksän</b> + <i>kymmentä</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/flat-vector-icon_1314854-5931.jpg",
+    "number": 100,
+    "funnish": "sata",
+    "translate": "hundred",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/number-200-colorful-gradient-logo-design_474888-2691.jpg",
+    "number": 200,
+    "funnish": "kaksisataa",
+    "translate": "two hundred",
+    "note": "<b>kaksi</b> + <i>sataa</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/gradient-colorful-initial-number-300_779267-2531.jpg",
+    "number": 300,
+    "funnish": "kolmesataa",
+    "translate": "three hundred",
+    "note": "<b>kolme</b> + <i>sataa</i>"
+  },
+  {
+    "image": "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-f3b4-6246-88ec-def4ac2d4ebc/raw?se=2025-07-11T13%3A39%3A52Z&sp=r&sv=2024-08-04&sr=b&scid=318e80ed-6302-5ecd-9d92-e3093d2eefc4&skoid=eb780365-537d-4279-a878-cae64e33aa9c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-11T06%3A56%3A26Z&ske=2025-07-12T06%3A56%3A26Z&sks=b&skv=2024-08-04&sig=MsOLgJIKkP1EcdStOel8HrdckFXL57VgVUPTWLTLiZo%3D",
+    "number": 352,
+    "funnish": "kolmesataaviisikymmentäkaksi",
+    "translate": "three hundred fifty-two",
+    "note": "<b>kolme</b> + <i>sataa</i> + <b>viisi</b> + <i>kymmentä</i> + <i>kaksi</i>"
+  },
+  {
+    "image": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-bca8-620a-bfa7-f71c67176789/raw?se=2025-07-11T12%3A48%3A16Z&sp=r&sv=2024-08-04&sr=b&scid=d8343d73-4dd9-5aea-974b-8a013632a2d4&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T19%3A09%3A15Z&ske=2025-07-11T19%3A09%3A15Z&sks=b&skv=2024-08-04&sig=JTVsWjfaAJfOAtvaP%2BTZBVLrj9ZyS3Yi9KTO0fr84%2Bc%3D",
+    "number": 514,
+    "funnish": "viisisataaneljätoista",
+    "translate": "five hundred fourteen",
+    "note": "<b>viisi</b> + <i>sataa</i> + <b>neljä</b> + <i>toista</i>"
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/3d-render-number-font-green_509123-3018.jpg",
+    "number": 1000,
+    "funnish": "tuhat",
+    "translate": "thousand",
+    "note": ""
+  },
+  {
+    "image": "https://img.freepik.com/premium-psd/3d-gold-pink-number-1k-10-k_472007-633.jpg",
+    "number": 2000,
+    "funnish": "kaksituhatta",
+    "translate": "two thousand",
+    "note": "<b>kaksi</b> + <i>tuhatta</i>"
+  },
+  {
+    "image": "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-a2f4-6246-a033-af2521e1f832/raw?se=2025-07-11T12%3A48%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=d0777425-7fa2-5191-9b2e-e96d990b72b5&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T19%3A09%3A51Z&ske=2025-07-11T19%3A09%3A51Z&sks=b&skv=2024-08-04&sig=CcxF6tFkoZfCpXK1O7fMEmVcJREmKO6AgBz8MBVwOFo%3D",
+    "number": 3854,
+    "funnish": "kolmetuhattakahdeksansataaviisikymmentäneljä",
+    "translate": "three thousand",
+    "note": "<b>kolme</b> + <i>tuhatta</i> + <b>kahdeksan</b> + <i>sataa</i> + <b>viisi</b> + <i>kymmentä</i> + <b>neljä</b>"
   }
 ]
