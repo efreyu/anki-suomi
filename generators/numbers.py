@@ -33,6 +33,7 @@ def gen_numbers(json_file, deck_name, apkg_filename='Finnish_Numbers.apkg'):
             {'name': 'Image'},
             {'name': 'Finnish'},
             {'name': 'Translate'},
+            {'name': 'Note'},
             {'name': 'Audio'}
         ],
         templates=[
@@ -43,12 +44,20 @@ def gen_numbers(json_file, deck_name, apkg_filename='Finnish_Numbers.apkg'):
                     {{#Image}}<div><hr>{{Image}}</div>{{/Image}}
                 """,
                 'afmt': """
-                    {{FrontSide}}<br><hr>
+                    {{FrontSide}}
+                    <br>
                     <hr>
                     <table style="margin: 0 auto;">
                       <tr>
                         <td>{{Finnish}}</td>
-                        <td>({{Translate}})</td>
+                      </tr>
+                      <tr>
+                        <td>{{Translate}}</td>
+                      </tr>
+                      <tr>
+                        <td>{{Note}}</td>
+                      </tr>
+                      <tr>
                         <td>{{Audio}}</td>
                       </tr>
                     </table>
@@ -126,6 +135,10 @@ img {
         utils.generate_audio(finnish, audio_path)
         media_files.append(audio_path)
 
+        item_note = ""
+        if 'note' in number_data:
+            item_note = number_data['note']
+
         # Add note
         note = genanki.Note(
             model=model,
@@ -134,6 +147,7 @@ img {
                 f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
                 finnish,
                 translation,
+                item_note,
                 f"[sound:{sanitized_audio_filename}]",        # Audio
             ],
         )
