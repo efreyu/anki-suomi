@@ -1,0 +1,122 @@
+[
+  {
+    "number": 27,
+    "finnish": "kaksikymmentäseitsemän tyynyä",
+    "translation": "twenty-seven pillows",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> + <b>seitsemän</b>, <b>tyyny</b> = pillow, <b>tyynyä</b> = partitive plural"
+  },
+  {
+    "number": 45,
+    "finnish": "neljäkymmentäviisi lamppua",
+    "translation": "forty-five lamps",
+    "note": "<b>neljä</b> + <i>kymmentä</i> + <b>viisi</b>, <b>lamppu</b> = lamp, <b>lamppua</b> = partitive plural"
+  },
+  {
+    "number": 103,
+    "finnish": "sata kolme ovea",
+    "translation": "one hundred three doors",
+    "note": "<b>sata</b> = one hundred, <b>kolme</b> = three, <b>ovi</b> = door, <b>ovea</b> = partitive plural"
+  },
+  {
+    "number": 289,
+    "finnish": "kaksisataakahdeksankymmentäyhdeksän asukasta",
+    "translation": "two hundred eighty-nine residents",
+    "note": "<b>kaksi</b> + <i>sataa</i> + <b>kahdeksan</b> + <i>kymmentä</i> + <b>yhdeksän</b>, <b>asukas</b> = resident, <b>asukasta</b> = partitive plural"
+  },
+  {
+    "number": 334,
+    "finnish": "kolmesataakolmekymmentäneljä postikorttia",
+    "translation": "three hundred thirty-four postcards",
+    "note": "<b>kolme</b> + <i>sataa</i> + <b>kolme</b> + <i>kymmentä</i> + <b>neljä</b>, <b>postikortti</b> = postcard"
+  },
+  {
+    "number": 476,
+    "finnish": "neljäsataaseitsemänkymmentäkuusi lintua",
+    "translation": "four hundred seventy-six birds",
+    "note": "<b>neljä</b> + <i>sataa</i> + <b>seitsemän</b> + <i>kymmentä</i> + <b>kuusi</b>, <b>lintu</b> = bird"
+  },
+  {
+    "number": 592,
+    "finnish": "viisisataayhdeksänkymmentäkaksi euroa",
+    "translation": "five hundred ninety-two euros",
+    "note": "<b>viisi</b> + <i>sataa</i> + <b>yhdeksän</b> + <i>kymmentä</i> + <b>kaksi</b>, <b>euro</b> = euro"
+  },
+  {
+    "number": 678,
+    "finnish": "kuusisataaseitsemänkymmentäkahdeksan oppilasta",
+    "translation": "six hundred seventy-eight pupils",
+    "note": "<b>kuusi</b> + <i>sataa</i> + <b>seitsemän</b> + <i>kymmentä</i> + <b>kahdeksan</b>, <b>oppilas</b> = pupil"
+  },
+  {
+    "number": 741,
+    "finnish": "seitsemänsataaneljäkymmentäyksi junaa",
+    "translation": "seven hundred forty-one trains",
+    "note": "<b>seitsemän</b> + <i>sataa</i> + <b>neljä</b> + <i>kymmentä</i> + <b>yksi</b>, <b>juna</b> = train"
+  },
+  {
+    "number": 888,
+    "finnish": "kahdeksansataakahdeksankymmentäkahdeksan korttelia",
+    "translation": "eight hundred eighty-eight blocks",
+    "note": "<b>kahdeksan</b> + <i>sataa</i> + <b>kahdeksan</b> + <i>kymmentä</i> + <b>kahdeksan</b>, <b>kortteli</b> = city block"
+  },
+  {
+    "number": 999,
+    "finnish": "yhdeksänsataayhdeksänkymmentäyhdeksän sivua",
+    "translation": "nine hundred ninety-nine pages",
+    "note": "<b>yhdeksän</b> + <i>sataa</i> + <b>yhdeksän</b> + <i>kymmentä</i> + <b>yhdeksän</b>, <b>sivu</b> = page"
+  },
+  {
+    "number": 1024,
+    "finnish": "tuhat kaksikymmentäneljä bittiä",
+    "translation": "one thousand twenty-four bits",
+    "note": "<b>tuhat</b> = thousand, <b>kaksi</b> + <i>kymmentä</i> + <b>neljä</b>, <b>bitti</b> = bit"
+  },
+  {
+    "number": 1430,
+    "finnish": "tuhatneljäsataakolmekymmentä asetta",
+    "translation": "one thousand four hundred thirty weapons",
+    "note": "<b>tuhat</b> + <b>neljä</b> + <i>sataa</i> + <b>kolme</b> + <i>kymmentä</i>, <b>ase</b> = weapon"
+  },
+  {
+    "number": 2002,
+    "finnish": "kaksituhattakaksi vuotta",
+    "translation": "two thousand two years",
+    "note": "<b>kaksi</b> + <i>tuhatta</i> + <b>kaksi</b>, <b>vuosi</b> = year"
+  },
+  {
+    "number": 3250,
+    "finnish": "kolmetuhattakaksisataaviisikymmentä kilometriä",
+    "translation": "three thousand two hundred fifty kilometers",
+    "note": "<b>kolme</b> + <i>tuhatta</i> + <b>kaksi</b> + <i>sataa</i> + <b>viisi</b> + <i>kymmentä</i>"
+  },
+  {
+    "number": 4044,
+    "finnish": "neljätuhattaneljäkymmentäneljä riviä",
+    "translation": "four thousand forty-four rows",
+    "note": "<b>neljä</b> + <i>tuhatta</i> + <b>neljä</b> + <i>kymmentä</i> + <b>neljä</b>, <b>rivi</b> = row"
+  },
+  {
+    "number": 5621,
+    "finnish": "viisituhattakuusisataakaksikymmentäyksi työntekijää",
+    "translation": "five thousand six hundred twenty-one workers",
+    "note": "<b>viisi</b> + <i>tuhatta</i> + <b>kuusi</b> + <i>sataa</i> + <b>kaksi</b> + <i>kymmentä</i> + <b>yksi</b>"
+  },
+  {
+    "number": 6789,
+    "finnish": "kuusituhattaseitsemänsataakahdeksankymmentäyhdeksän tähteä",
+    "translation": "six thousand seven hundred eighty-nine stars",
+    "note": "<b>kuusi</b> + <i>tuhatta</i> + <b>seitsemän</b> + <i>sataa</i> + <b>kahdeksan</b> + <i>kymmentä</i> + <b>yhdeksän</b>, <b>tähti</b> = star"
+  },
+  {
+    "number": 7530,
+    "finnish": "seitsemäntuhattaviisisataakolmekymmentä matkustajaa",
+    "translation": "seven thousand five hundred thirty passengers",
+    "note": "<b>seitsemän</b> + <i>tuhatta</i> + <b>viisi</b> + <i>sataa</i> + <b>kolme</b> + <i>kymmentä</i>"
+  },
+  {
+    "number": 9001,
+    "finnish": "yhdeksäntuhattayksi robotti",
+    "translation": "nine thousand one robot",
+    "note": "<b>yhdeksän</b> + <i>tuhatta</i> + <b>yksi</b>, <b>robotti</b> = robot"
+  }
+]

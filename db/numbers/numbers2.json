@@ -1,0 +1,122 @@
+[
+  {
+    "number": 1,
+    "finnish": "yksi banaani",
+    "translation": "one banana",
+    "note": "<b>yksi</b> = one, <b>banaani</b> = banana (nominative singular)"
+  },
+  {
+    "number": 2,
+    "finnish": "kaksio",
+    "translation": "two-room apartment",
+    "note": "<b>kaksi</b> = two, <b>-io</b> = suffix forming apartment types, <b>kaksio</b> = two-room apartment"
+  },
+  {
+    "number": 3,
+    "finnish": "kolme kissaa",
+    "translation": "three cats",
+    "note": "<b>kolme</b> = three, <b>kissa</b> = cat, <b>kissaa</b> = partitive plural"
+  },
+  {
+    "number": 4,
+    "finnish": "neljä vuodenaikaa",
+    "translation": "four seasons",
+    "note": "<b>neljä</b> = four, <b>vuodenaika</b> = season, <b>vuodenaikaa</b> = partitive plural"
+  },
+  {
+    "number": 5,
+    "finnish": "viisi kirjaa",
+    "translation": "five books",
+    "note": "<b>viisi</b> = five, <b>kirja</b> = book, <b>kirjaa</b> = partitive plural"
+  },
+  {
+    "number": 6,
+    "finnish": "kuusi oppilasta",
+    "translation": "six students",
+    "note": "<b>kuusi</b> = six, <b>oppilas</b> = student, <b>oppilasta</b> = partitive plural"
+  },
+  {
+    "number": 7,
+    "finnish": "seitsemän päivää",
+    "translation": "seven days",
+    "note": "<b>seitsemän</b> = seven, <b>päivä</b> = day, <b>päivää</b> = partitive plural"
+  },
+  {
+    "number": 8,
+    "finnish": "kahdeksan kynttilää",
+    "translation": "eight candles",
+    "note": "<b>kahdeksan</b> = eight, <b>kynttilä</b> = candle, <b>kynttilää</b> = partitive plural"
+  },
+  {
+    "number": 9,
+    "finnish": "yhdeksän hyvää syytä",
+    "translation": "nine good reasons",
+    "note": "<b>yhdeksän</b> = nine, <b>hyvä</b> = good, <b>syy</b> = reason, <b>syytä</b> = partitive plural"
+  },
+  {
+    "number": 10,
+    "finnish": "kymmenen uutta sanaa",
+    "translation": "ten new words",
+    "note": "<b>kymmenen</b> = ten, <b>uusi</b> = new, <b>sana</b> = word, <b>sanaa</b> = partitive plural"
+  },
+  {
+    "number": 11,
+    "finnish": "yksitoista koiraa",
+    "translation": "eleven dogs",
+    "note": "<b>yksi</b> + <i>toista</i> = eleven, <b>koira</b> = dog, <b>koiraa</b> = partitive plural"
+  },
+  {
+    "number": 12,
+    "finnish": "kaksitoista oppituntia",
+    "translation": "twelve lessons",
+    "note": "<b>kaksi</b> + <i>toista</i> = twelve, <b>oppitunti</b> = lesson, <b>oppituntia</b> = partitive plural"
+  },
+  {
+    "number": 13,
+    "finnish": "kolmetoista opiskelijaa",
+    "translation": "thirteen students",
+    "note": "<b>kolme</b> + <i>toista</i> = thirteen, <b>opiskelija</b> = student, <b>opiskelijaa</b> = partitive plural"
+  },
+  {
+    "number": 14,
+    "finnish": "neljätoista korttia",
+    "translation": "fourteen cards",
+    "note": "<b>neljä</b> + <i>toista</i> = fourteen, <b>kortti</b> = card, <b>korttia</b> = partitive plural"
+  },
+  {
+    "number": 15,
+    "finnish": "viisitoista minuuttia",
+    "translation": "fifteen minutes",
+    "note": "<b>viisi</b> + <i>toista</i> = fifteen, <b>minuutti</b> = minute, <b>minuuttia</b> = partitive plural"
+  },
+  {
+    "number": 16,
+    "finnish": "kuusitoista elokuvaa",
+    "translation": "sixteen movies",
+    "note": "<b>kuusi</b> + <i>toista</i> = sixteen, <b>elokuva</b> = movie, <b>elokuvaa</b> = partitive plural"
+  },
+  {
+    "number": 17,
+    "finnish": "seitsemäntoista tehtävää",
+    "translation": "seventeen tasks",
+    "note": "<b>seitsemän</b> + <i>toista</i> = seventeen, <b>tehtävä</b> = task, <b>tehtävää</b> = partitive plural"
+  },
+  {
+    "number": 18,
+    "finnish": "kahdeksantoista ideaa",
+    "translation": "eighteen ideas",
+    "note": "<b>kahdeksan</b> + <i>toista</i> = eighteen, <b>idea</b> = idea, <b>ideaa</b> = partitive plural"
+  },
+  {
+    "number": 19,
+    "finnish": "yhdeksäntoista kysymystä",
+    "translation": "nineteen questions",
+    "note": "<b>yhdeksän</b> + <i>toista</i> = nineteen, <b>kysymys</b> = question, <b>kysymystä</b> = partitive plural"
+  },
+  {
+    "number": 20,
+    "finnish": "kaksikymmentä kilometriä",
+    "translation": "twenty kilometers",
+    "note": "<b>kaksi</b> + <i>kymmentä</i> = twenty, <b>kilometri</b> = kilometer, <b>kilometriä</b> = partitive plural"
+  }
+]
