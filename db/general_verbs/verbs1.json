@@ -7,7 +7,8 @@
     ],
     "translations": [
       "I drive", "You drive", "He/She drives", "We drive", "You drive", "They drive"
-    ]
+    ],
+    "note": "Minä ajan autoa. - I drive a(some) car.<br/>Sinä ajat auton. - You drive the(specific) car."
   },
   {
     "verb": "Alkaa",
@@ -17,7 +18,8 @@
     ],
     "translations": [
       "I start", "You start", "He/She starts", "We start", "You start", "They start"
-    ]
+    ],
+    "note": "Kurssi alkaa huomenna. - The course starts tomorrow.<br/>He alkavat nauraa. - They start to laugh."
   },
   {
     "verb": "Antaa",
@@ -27,7 +29,8 @@
     ],
     "translations": [
       "I give", "You give", "He/She gives", "We give", "You give", "They give"
-    ]
+    ],
+    "note": "Minä annan sinulle kirjan. - I give you a book.<br/>Sinä annat minulle kynän. - You give me a pen."
   },
   {
     "verb": "Asua",
