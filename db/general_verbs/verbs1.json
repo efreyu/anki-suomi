@@ -40,7 +40,8 @@
     ],
     "translations": [
       "I live", "You live", "He/She lives", "We live", "You live", "They live"
-    ]
+    ],
+    "note": "Minä asun Helsingissä. - I live in Helsinki.<br/>Sinä asut pienessä talossa. - You live in a small house."
   },
   {
     "verb": "Auttaa",
@@ -50,7 +51,8 @@
     ],
     "translations": [
       "I help", "You help", "He/She helps", "We help", "You help", "They help"
-    ]
+    ],
+    "note": "Minä autan sinua. - I help you.<br/>Sinä autat minua. - You help me.<br/>Autatko minua? - Do you help me?"
   },
   {
     "verb": "Etsiä",

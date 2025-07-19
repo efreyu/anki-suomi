@@ -29,6 +29,7 @@ def gen_verbs(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
         fields=[
             {'name': 'Question'},
             {'name': 'Image'},
+            {'name': 'Note'},
             {'name': 'Verb1'},
             {'name': 'Translate1'},
             {'name': 'Audio1'},
@@ -62,6 +63,7 @@ def gen_verbs(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
                 <tr><td>{{Verb5}}</td><td> ({{Translate5}})</td><td>{{Audio5}}</td></tr>
                 <tr><td>{{Verb6}}</td><td> ({{Translate6}})</td><td>{{Audio6}}</td></tr>
                 </table>
+                {{Note}}
             """,
             },
         ],
@@ -118,6 +120,9 @@ def gen_verbs(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
         while len(conjugation_fields) < 6 * 3:
             conjugation_fields.extend(["", ""])
 
+        note_field = ""
+        if 'note' in verb_data:
+            note_field = verb_data['note']
         # Add note
         note = genanki.Note(
             model=model,
@@ -125,6 +130,7 @@ def gen_verbs(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
                 question,                   # Question
                 f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
                 *conjugation_fields,        # Conjugations and audio
+                note_field,                 # Note
             ],
         )
         deck.add_note(note)
