@@ -1,62 +1,62 @@
 [
   {
     "questions": [ "Kuka sinä olet?", "Kuka hän on?" ],
-    "questions_translation": [ "Кто ты?", "Кто она?" ],
+    "questions_translation": [ "Who are you?", "Who is she?" ],
     "answer": [ "Minä olen Olga.", "Hän on Olga." ],
-    "answer_translation": [ "Я Ольга.", "Она Ольга." ]
+    "answer_translation": [ "I am Olga.", "She is Olga." ]
   },
   {
     "questions": [ "Kenen kanssa sinä olet naimisissa?", "Kenen kanssa hän on naimisissa?" ],
-    "questions_translation": [ "С кем ты замужем?", "С кем она замужем?" ],
+    "questions_translation": [ "Who are you married to?", "Who is she married to?" ],
     "answer": [ "Minä olen naimisissa Veijon kanssa.", "Hän on naimisissa Veijon kanssa." ],
-    "answer_translation": [ "Я замужем за Вейо.", "Она замужем за Вейо." ]
+    "answer_translation": [ "I am married to Veijo.", "She is married to Veijo." ]
   },
   {
     "questions": [ "Kuinka monta lasta sinulla on?", "Kuinka monta lasta hänellä on?" ],
-    "questions_translation": [ "Сколько у тебя детей?", "Сколько у неё детей?" ],
+    "questions_translation": [ "How many children do you have?", "How many children does she have?" ],
     "answer": [ "Minulla on yksi lapsi.", "Hänellä on yksi lapsi." ],
-    "answer_translation": [ "У меня один ребёнок.", "У неё один ребёнок." ]
+    "answer_translation": [ "I have one child.", "She has one child." ]
   },
   {
     "questions": [ "Kuinka vanha sinun tytär on?", "Kuinka vanha hänen tytär on?" ],
-    "questions_translation": [ "Сколько лет твоей дочери?", "Сколько лет её дочери?" ],
+    "questions_translation": [ "How old is your daughter?", "How old is her daughter?" ],
     "answer": [ "Hän on 4-vuotias.", "Hänen tytär on 4-vuotias." ],
-    "answer_translation": [ "Ей 4 года.", "Её дочери 4 года." ]
+    "answer_translation": [ "She is 4 years old.", "Her daughter is 4 years old." ]
   },
   {
     "questions": [ "Mikä hänen nimi on? (sinun tyttären)", "Mikä hänen tyttären nimi on?" ],
-    "questions_translation": [ "Как её зовут? (твою дочь)", "Как зовут её дочь?" ],
+    "questions_translation": [ "What is her name? (your daughter)", "What is her daughter's name?" ],
     "answer": [ "Hänen nimi on Julia.", "Hänen tyttären nimi on Julia." ],
-    "answer_translation": [ "Её зовут Юлия.", "Её дочь зовут Юлия." ]
+    "answer_translation": [ "Her name is Julia.", "Her daughter's name is Julia." ]
   },
   {
     "questions": [ "Missä sinä asut?", "Missä hän asuu?" ],
-    "questions_translation": [ "Где ты живёшь?", "Где она живёт?" ],
+    "questions_translation": [ "Where do you live?", "Where does she live?" ],
     "answer": [ "Minä asun Helsingissä.", "Hän asuu Helsingissä." ],
-    "answer_translation": [ "Я живу в Хельсинки.", "Она живёт в Хельсинки." ]
+    "answer_translation": [ "I live in Helsinki.", "She lives in Helsinki." ]
   },
   {
     "questions": [ "Missä Veijo on töissä?", "Missä Veijo on töissä?" ],
-    "questions_translation": [ "Где работает Вейо?", "Где работает Вейо?" ],
+    "questions_translation": [ "Where does Veijo work?", "Where does Veijo work?" ],
     "answer": [ "Veijo on töissä Espoossa. Hän on bussikuski.", "Veijo on töissä Espoossa. Hän on bussikuski." ],
-    "answer_translation": [ "Вейо работает в Эспоо. Он водитель автобуса.", "Вейо работает в Эспоо. Он водитель автобуса." ]
+    "answer_translation": [ "Veijo works in Espoo. He is a bus driver.", "Veijo works in Espoo. He is a bus driver." ]
   },
   {
     "questions": [ "Onko sinulla työ Suomessa?", "Onko hänellä työ Suomessa?" ],
-    "questions_translation": [ "Есть ли у тебя работа в Финляндии?", "Есть ли у неё работа в Финляндии?" ],
+    "questions_translation": [ "Do you have a job in Finland?", "Does she have a job in Finland?" ],
     "answer": [ "Minulla ei ole töitä vielä, mutta etsin työpaikkaa.", "Hänellä ei ole töitä vielä, mutta hän etsii työpaikkaa." ],
-    "answer_translation": [ "У меня пока нет работы, но я ищу.", "У неё пока нет работы, но она ищет." ]
+    "answer_translation": [ "I don't have a job yet, but I'm looking.", "She doesn't have a job yet, but she's looking." ]
   },
   {
     "questions": [ "Mitä sinä teet nyt?", "Mitä hän tekee nyt?" ],
-    "questions_translation": [ "Чем ты сейчас занимаешься?", "Чем она сейчас занимается?" ],
+    "questions_translation": [ "What are you doing now?", "What is she doing now?" ],
     "answer": [ "Nyt olen opiskelija.", "Hän on opiskelija." ],
-    "answer_translation": [ "Сейчас я студентка.", "Она студентка." ]
+    "answer_translation": [ "Now I am a student.", "She is a student." ]
   },
   {
     "questions": [ "Kenen kanssa sinä opiskelet?", "Kenen kanssa hän opiskelee?" ],
-    "questions_translation": [ "С кем ты учишься?", "С кем она учится?" ],
+    "questions_translation": [ "Who do you study with?", "Who does she study with?" ],
     "answer": [ "Minä opiskelen Pedron ja Alexin kanssa.", "Hän opiskelee Pedron ja Alexin kanssa." ],
-    "answer_translation": [ "Я учусь с Педро и Алексом.", "Она учится с Педро и Алексом." ]
+    "answer_translation": [ "I study with Pedro and Alex.", "She studies with Pedro and Alex." ]
   }
 ]

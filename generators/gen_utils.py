@@ -5,6 +5,7 @@ from gtts import gTTS
 from gtts.tts import gTTSError
 from PIL import Image
 import os
+import hashlib
 
 def sanitize_filename(filename):
     """Normalize and replace special characters for ASCII-safe filenames."""
@@ -45,3 +46,10 @@ def resize_image_proportionally(image_path: str, max_width: int = 150, max_heigh
     with Image.open(image_path) as img:
         img.thumbnail((max_width, max_height), Image.Resampling.LANCZOS)
         img.save(image_path)
+
+def short_hash(text: str, length: int = 8) -> str:
+    if not (6 <= length <= 8):
+        raise ValueError("Length must be between 6 and 8")
+
+    full_hash = hashlib.sha256(text.encode("utf-8")).hexdigest()
+    return full_hash[:length]
