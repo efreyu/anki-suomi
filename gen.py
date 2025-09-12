@@ -35,7 +35,7 @@ generators = [
 
     {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/27-dialogue/dialog1.json', 'Finnish::Dialogs27::Olga', 'Finnish_Dialogs27_Olga.apkg']},
     {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/27-dialogue/dialog2.json', 'Finnish::Dialogs27::Alex', 'Finnish_Dialogs27_Alex.apkg']},
-    {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/27-dialogue/dialog2.json', 'Finnish::Dialogs27::Pedro', 'Finnish_Dialogs27_Pedro.apkg']},
+    {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/27-dialogue/dialog3.json', 'Finnish::Dialogs27::Pedro', 'Finnish_Dialogs27_Pedro.apkg']},
 ]
 
 def main():
