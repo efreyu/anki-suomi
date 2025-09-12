@@ -101,42 +101,37 @@ img {
         question = ""
         audio_text = ""
         for i in range(len(questions)):
-            question += f"{i + 1}. {questions[i]} "
-            audio_text += f"{questions[i]}\n"
+            question += f"{i + 1}. {questions[i]}<br/>"
+            audio_text += f"{questions[i]} "
 
         questions_translation = json_item['questions_translation']
         for i in range(len(questions_translation)):
-            question += f"{i + 1}. {questions_translation[i]} "
+            question += f"{i + 1}. {questions_translation[i]}<br/>"
 
         answers = json_item['answer']
         answer = ""
         for i in range(len(answers)):
-            answer += f"{i + 1}. {answers[i]} "
-            audio_text += f"{answers[i]}\n"
+            answer += f"{i + 1}. {answers[i]}<br/>"
+            audio_text += f"{answers[i]} "
 
         answer_translation = json_item['answer_translation']
+        answer_res = ""
         for i in range(len(answer_translation)):
-            question += f"{i + 1}. {answer_translation[i]} "
+            answer_res += f"{i + 1}. {answer_translation[i]}<br/>"
 
 
-        sanitized_audio_filename = utils.sanitize_filename(f"{number}_number_{finnish}.mp3")
+        sanitized_audio_filename = utils.sanitize_filename(f"{utils.short_hash(audio_text, 8)}.mp3")
         audio_path = os.path.join(media_folder, sanitized_audio_filename)
-        utils.generate_audio(finnish, audio_path)
+        utils.generate_audio(audio_text, audio_path)
         media_files.append(audio_path)
-
-        item_note = ""
-        if 'note' in json_item:
-            item_note = json_item['note']
 
         # Add note
         note = genanki.Note(
             model=model,
             fields=[
-                question,                   # Question
-                f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
-                finnish,
-                translation,
-                item_note,
+                question,
+                answer,
+                answer_res,
                 f"[sound:{sanitized_audio_filename}]",        # Audio
             ],
         )
