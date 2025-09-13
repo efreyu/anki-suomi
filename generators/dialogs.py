@@ -14,8 +14,7 @@ def gen_dialogs(json_file, deck_name, apkg_filename='Finnish_Dialogs.apkg'):
     <table>
     <tr>
     <td>{{Finnish}}</td>
-    <td>{{Translation}}</td>
-    <td>{{Audio}}</td>
+    <td>{{Answer}}</td>
     </tr>
     ...
     </table>
@@ -28,8 +27,7 @@ def gen_dialogs(json_file, deck_name, apkg_filename='Finnish_Dialogs.apkg'):
         'Numbers Table with Image and Audio',
         fields=[
             {'name': 'Question'},
-            {'name': 'Finnish'},
-            {'name': 'Translate'},
+            {'name': 'Answer'},
             {'name': 'Audio'}
         ],
         templates=[
@@ -44,10 +42,7 @@ def gen_dialogs(json_file, deck_name, apkg_filename='Finnish_Dialogs.apkg'):
                     <hr>
                     <table style="margin: 0 auto;">
                       <tr>
-                        <td>{{Finnish}}</td>
-                      </tr>
-                      <tr>
-                        <td>{{Translate}}</td>
+                        <td>{{Answer}}</td>
                       </tr>
                       <tr>
                         <td>{{Audio}}</td>
@@ -113,11 +108,8 @@ img {
         for i in range(len(answers)):
             answer += f"{i + 1}. {answers[i]}<br/>"
             audio_text += f"{answers[i]} "
-
-        answer_translation = json_item['answer_translation']
-        answer_res = ""
-        for i in range(len(answer_translation)):
-            answer_res += f"{i + 1}. {answer_translation[i]}<br/>"
+            if 'answer_translation' in json_item:
+                answer += f"{json_item['answer_translation'][i]}<br/>"
 
 
         sanitized_audio_filename = utils.sanitize_filename(f"{utils.short_hash(audio_text, 8)}.mp3")
@@ -131,8 +123,7 @@ img {
             fields=[
                 question,
                 answer,
-                answer_res,
-                f"[sound:{sanitized_audio_filename}]",        # Audio
+                f"[sound:{sanitized_audio_filename}]"
             ],
         )
         deck.add_note(note)
