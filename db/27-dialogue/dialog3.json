@@ -1,68 +1,112 @@
 [
   {
-    "questions": [ "Kuka sinä olet?", "Kuka hän on?" ],
-    "questions_translation": [ "Who are you?", "Who is he?" ],
-    "answer": [ "Minä olen Pedro.", "Hän on Pedro." ],
-    "answer_translation": [ "I am Pedro.", "He is Pedro." ]
+    "questions": [
+      "Kuka hän on?" ],
+    "questions_translation": [
+      "Who is he?" ],
+    "answer": [
+      "Hän on Pedro." ],
+    "answer_translation": [
+      "He is Pedro." ]
   },
   {
-    "questions": [ "Minkälainen sinä olet?", "Minkälainen hän on?" ],
-    "questions_translation": [ "What are you like?", "What is he like?" ],
-    "answer": [ "Olen puhelias ja iloinen brasilialainen.", "Hän on puhelias ja iloinen brasilialainen." ],
-    "answer_translation": [ "I am a talkative and cheerful Brazilian.", "He is a talkative and cheerful Brazilian." ]
+    "questions": [
+      "Minkälainen hän on?" ],
+    "questions_translation": [
+      "What is he like?" ],
+    "answer": [
+      "Hän on puhelias ja iloinen brasilialainen." ],
+    "answer_translation": [
+      "He is a talkative and cheerful Brazilian." ]
   },
   {
-    "questions": [ "Millaiset hiukset sinulla on?", "Millaiset hiukset hänellä on?" ],
-    "questions_translation": [ "What kind of hair do you have?", "What kind of hair does he have?" ],
-    "answer": [ "Minulla on musta kihara tukka.", "Hänellä on musta kihara tukka." ],
-    "answer_translation": [ "I have black curly hair.", "He has black curly hair." ]
+    "questions": [
+      "Millaiset hiukset hänellä on?" ],
+    "questions_translation": [
+      "What kind of hair does he have?" ],
+    "answer": [
+      "Hänellä on musta kihara tukka." ],
+    "answer_translation": [
+      "He has black curly hair." ]
   },
   {
-    "questions": [ "Millaiset silmät sinulla on?", "Millaiset silmät hänellä on?" ],
-    "questions_translation": [ "What kind of eyes do you have?", "What kind of eyes does he have?" ],
-    "answer": [ "Minulla on tummat silmät.", "Hänellä on tummat silmät." ],
-    "answer_translation": [ "I have dark eyes.", "He has dark eyes." ]
+    "questions": [
+      "Millaiset silmät hänellä on?" ],
+    "questions_translation": [
+      "What kind of eyes does he have?" ],
+    "answer": [
+      "Hänellä on tummat silmät." ],
+    "answer_translation": [
+      "He has dark eyes." ]
   },
   {
-    "questions": [ "Kuinka pitkä sinä olet?", "Kuinka pitkä hän on?" ],
-    "questions_translation": [ "How tall are you?", "How tall is he?" ],
-    "answer": [ "Olen 178 cm pitkä.", "Hän on 178 cm pitkä." ],
-    "answer_translation": [ "I am 178 cm tall.", "He is 178 cm tall." ]
+    "questions": [
+      "Kuinka pitkä hän on?" ],
+    "questions_translation": [
+      "How tall is he?" ],
+    "answer": [
+      "Hän on 178 cm pitkä." ],
+    "answer_translation": [
+      "He is 178 cm tall." ]
   },
   {
-    "questions": [ "Kuka on sinun tyttöystävä?", "Kuka on hänen tyttöystävä?" ],
-    "questions_translation": [ "Who is your girlfriend?", "Who is his girlfriend?" ],
-    "answer": [ "Minun tyttöystävä on Hanna.", "Hänen tyttöystävä on Hanna." ],
-    "answer_translation": [ "My girlfriend is Hanna.", "His girlfriend is Hanna." ]
+    "questions": [
+      "Kuka on hänen tyttöystävä?" ],
+    "questions_translation": [
+      "Who is his girlfriend?" ],
+    "answer": [
+      "Hänen tyttöystävä on Hanna." ],
+    "answer_translation": [
+      "His girlfriend is Hanna." ]
   },
   {
-    "questions": [ "Mitä Hanna tekee?", "Mitä Hanna tekee?" ],
-    "questions_translation": [ "What does Hanna do?", "What does Hanna do?" ],
-    "answer": [ "Hän on opiskelija ja hän on myös töissä kaupassa.", "Hän on opiskelija ja myös töissä kaupassa." ],
-    "answer_translation": [ "She is a student and she also works in a shop.", "She is a student and she also works in a shop." ]
+    "questions": [
+      "Mitä Hanna tekee?" ],
+    "questions_translation": [
+      "What does Hanna do?" ],
+    "answer": [
+      "Hän on opiskelija ja myös töissä kaupassa." ],
+    "answer_translation": [
+      "She is a student and she also works in a shop." ]
   },
   {
-    "questions": [ "Onko teillä auto?", "Onko heillä auto?" ],
-    "questions_translation": [ "Do you have a car?", "Do they have a car?" ],
-    "answer": [ "Ei, meillä ei ole autoa.", "Ei, heillä ei ole autoa." ],
-    "answer_translation": [ "No, we don’t have a car.", "No, they don’t have a car." ]
+    "questions": [
+      "Onko heillä auto?" ],
+    "questions_translation": [
+      "Do they have a car?" ],
+    "answer": [
+      "Ei, heillä ei ole autoa." ],
+    "answer_translation": [
+      "No, they don’t have a car." ]
   },
   {
-    "questions": [ "Miten te kuljette?", "Miten he kulkevat?" ],
-    "questions_translation": [ "How do you travel?", "How do they travel?" ],
-    "answer": [ "Ajamme paljon pyörällä.", "He ajavat paljon pyörällä." ],
-    "answer_translation": [ "We ride bicycles a lot.", "They ride bicycles a lot." ]
+    "questions": [
+      "Miten he kulkevat?" ],
+    "questions_translation": [
+      "How do they travel?" ],
+    "answer": [
+      "He ajavat paljon pyörällä." ],
+    "answer_translation": [
+      "They ride bicycles a lot." ]
   },
   {
-    "questions": [ "Onko sinulla suomalaisia ystäviä?", "Onko hänellä suomalaisia ystäviä?" ],
-    "questions_translation": [ "Do you have Finnish friends?", "Does he have Finnish friends?" ],
-    "answer": [ "Kyllä, minulla on suomalainen ystävä Mikko.", "Hänellä on suomalainen ystävä Mikko." ],
-    "answer_translation": [ "Yes, I have a Finnish friend Mikko.", "He has a Finnish friend Mikko." ]
+    "questions": [
+      "Onko hänellä suomalaisia ystäviä?" ],
+    "questions_translation": [
+      "Does he have Finnish friends?" ],
+    "answer": [
+      "Hänellä on suomalainen ystävä Mikko." ],
+    "answer_translation": [
+      "He has a Finnish friend Mikko." ]
   },
   {
-    "questions": [ "Missä Mikko asuu nyt?", "Missä Mikko asuu nyt?" ],
-    "questions_translation": [ "Where does Mikko live now?", "Where does Mikko live now?" ],
-    "answer": [ "Hän ei asu Suomessa, hän on töissä Brasiliassa.", "Hän ei asu Suomessa, hän on töissä Brasiliassa." ],
-    "answer_translation": [ "He doesn’t live in Finland now, he works in Brazil.", "He doesn’t live in Finland now, he works in Brazil." ]
+    "questions": [
+      "Missä Mikko asuu nyt?" ],
+    "questions_translation": [
+      "Where does Mikko live now?" ],
+    "answer": [
+      "Hän ei asu Suomessa, hän on töissä Brasiliassa." ],
+    "answer_translation": [
+      "He doesn’t live in Finland now, he works in Brazil." ]
   }
 ]

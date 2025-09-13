@@ -1,68 +1,112 @@
 [
   {
-    "questions": [ "Kuka sinä olet?", "Kuka hän on?" ],
-    "questions_translation": [ "Who are you?", "Who is he?" ],
-    "answer": [ "Minä olen Alex.", "Hän on Alex." ],
-    "answer_translation": [ "I am Alex.", "He is Alex." ]
+    "questions": [
+      "Kuka hän on?" ],
+    "questions_translation": [
+      "Who is he?" ],
+    "answer": [
+      "Hän on Alex." ],
+    "answer_translation": [
+      "He is Alex." ]
   },
   {
-    "questions": [ "Kuinka vanha sinä olet?", "Kuinka vanha hän on?" ],
-    "questions_translation": [ "How old are you?", "How old is he?" ],
-    "answer": [ "Minä olen 31 vuotta vanha.", "Hän on 31 vuotta vanha." ],
-    "answer_translation": [ "I am 31 years old.", "He is 31 years old." ]
+    "questions": [
+      "Kuinka vanha hän on?" ],
+    "questions_translation": [
+      "How old is he?" ],
+    "answer": [
+      "Hän on 31 vuotta vanha." ],
+    "answer_translation": [
+      "He is 31 years old." ]
   },
   {
-    "questions": [ "Minkälainen sinä olet?", "Minkälainen hän on?" ],
-    "questions_translation": [ "What are you like?", "What is he like?" ],
-    "answer": [ "Olen pitkä ja hoikka.", "Hän on pitkä ja hoikka." ],
-    "answer_translation": [ "I am tall and slim.", "He is tall and slim." ]
+    "questions": [
+      "Minkälainen hän on?" ],
+    "questions_translation": [
+      "What is he like?" ],
+    "answer": [
+      "Hän on pitkä ja hoikka." ],
+    "answer_translation": [
+      "He is tall and slim." ]
   },
   {
-    "questions": [ "Mitä sinä harrastat?", "Mitä hän harrastaa?" ],
-    "questions_translation": [ "What are your hobbies?", "What are his hobbies?" ],
-    "answer": [ "Minä pidän urheilusta.", "Hän pitää urheilusta." ],
-    "answer_translation": [ "I like sports.", "He likes sports." ]
+    "questions": [
+      "Mitä hän harrastaa?" ],
+    "questions_translation": [
+      "What are his hobbies?" ],
+    "answer": [
+      "Hän pitää urheilusta." ],
+    "answer_translation": [
+      "He likes sports." ]
   },
   {
-    "questions": [ "Millainen luonteeltasi olet?", "Millainen hän on luonteeltaan?" ],
-    "questions_translation": [ "What is your personality like?", "What is his personality like?" ],
-    "answer": [ "Olen rauhallinen ja ehkä vähän ujo.", "Hän on rauhallinen ja ehkä vähän ujo." ],
-    "answer_translation": [ "I am calm and maybe a little shy.", "He is calm and maybe a little shy." ]
+    "questions": [
+      "Millainen hän on luonteeltaan?" ],
+    "questions_translation": [
+      "What is his personality like?" ],
+    "answer": [
+      "Hän on rauhallinen ja ehkä vähän ujo." ],
+    "answer_translation": [
+      "He is calm and maybe a little shy." ]
   },
   {
-    "questions": [ "Mikä sinun perhetilanne on?", "Mikä hänen perhetilanne on?" ],
-    "questions_translation": [ "What is your family situation?", "What is his family situation?" ],
-    "answer": [ "Minä olen eronnut ja nyt olen sinkku.", "Hän on eronnut ja nyt sinkku." ],
-    "answer_translation": [ "I am divorced and now single.", "He is divorced and now single." ]
+    "questions": [
+      "Mikä hänen perhetilanne on?" ],
+    "questions_translation": [
+      "What is his family situation?" ],
+    "answer": [
+      "Hän on eronnut ja nyt sinkku." ],
+    "answer_translation": [
+      "He is divorced and now single." ]
   },
   {
-    "questions": [ "Onko sinulla perhe Suomessa?", "Onko hänellä perhe Suomessa?" ],
-    "questions_translation": [ "Do you have family in Finland?", "Does he have family in Finland?" ],
-    "answer": [ "Minulla ei ole perhettä Suomessa.", "Hänellä ei ole perhettä Suomessa." ],
-    "answer_translation": [ "I don't have family in Finland.", "He doesn't have family in Finland." ]
+    "questions": [
+      "Onko hänellä perhe Suomessa?" ],
+    "questions_translation": [
+      "Does he have family in Finland?" ],
+    "answer": [
+      "Hänellä ei ole perhettä Suomessa." ],
+    "answer_translation": [
+      "He doesn't have family in Finland." ]
   },
   {
-    "questions": [ "Onko sinulla iso suku?", "Onko hänellä iso suku?" ],
-    "questions_translation": [ "Do you have a big family?", "Does he have a big family?" ],
-    "answer": [ "Kyllä, minulla on iso suku Etelä-Afrikassa: kaksi pikkusiskoa, isoveli, neljä tätiä, kolme setää ja 18 serkkua.", "Hänellä on iso suku Etelä-Afrikassa: kaksi pikkusiskoa, isoveli, neljä tätiä, kolme setää ja 18 serkkua." ],
-    "answer_translation": [ "Yes, I have a big family in South Africa: two younger sisters, an older brother, four aunts, three uncles and 18 cousins.", "He has a big family in South Africa: two younger sisters, an older brother, four aunts, three uncles and 18 cousins." ]
+    "questions": [
+      "Onko hänellä iso suku?" ],
+    "questions_translation": [
+      "Does he have a big family?" ],
+    "answer": [
+      "Hänellä on iso suku Etelä-Afrikassa: kaksi pikkusiskoa, isoveli, neljä tätiä, kolme setää ja 18 serkkua." ],
+    "answer_translation": [
+      "He has a big family in South Africa: two younger sisters, an older brother, four aunts, three uncles and 18 cousins." ]
   },
   {
-    "questions": [ "Missä sinä asut nyt?", "Missä hän asuu nyt?" ],
-    "questions_translation": [ "Where do you live now?", "Where does he live now?" ],
-    "answer": [ "Minä asun Itä-Helsingissä.", "Hän asuu Itä-Helsingissä." ],
-    "answer_translation": [ "I live in East Helsinki.", "He lives in East Helsinki." ]
+    "questions": [
+      "Missä hän asuu nyt?" ],
+    "questions_translation": [
+      "Where does he live now?" ],
+    "answer": [
+      "Hän asuu Itä-Helsingissä." ],
+    "answer_translation": [
+      "He lives in East Helsinki." ]
   },
   {
-    "questions": [ "Millainen sinun asunto on?", "Millainen hänen asunto on?" ],
-    "questions_translation": [ "What is your apartment like?", "What is his apartment like?" ],
-    "answer": [ "Minulla on kiva asunto, kaksi huonetta ja keittiö. Se on valoisa ja viihtyisä.", "Hänellä on kiva asunto, kaksi huonetta ja keittiö. Se on valoisa ja viihtyisä." ],
-    "answer_translation": [ "I have a nice apartment, two rooms and a kitchen. It is bright and cozy.", "He has a nice apartment, two rooms and a kitchen. It is bright and cozy." ]
+    "questions": [
+      "Millainen hänen asunto on?" ],
+    "questions_translation": [
+      "What is his apartment like?" ],
+    "answer": [
+      "Hänellä on kiva asunto, kaksi huonetta ja keittiö. Se on valoisa ja viihtyisä." ],
+    "answer_translation": [
+      "He has a nice apartment, two rooms and a kitchen. It is bright and cozy." ]
   },
   {
-    "questions": [ "Kuinka monta kerrosta talossa on?", "Kuinka monta kerrosta hänen talossa on?" ],
-    "questions_translation": [ "How many floors are in the building?", "How many floors are in his building?" ],
-    "answer": [ "Talossa on neljä kerrosta.", "Hänen talossa on neljä kerrosta." ],
-    "answer_translation": [ "The building has four floors.", "His building has four floors." ]
+    "questions": [
+      "Kuinka monta kerrosta hänen talossa on?" ],
+    "questions_translation": [
+      "How many floors are in his building?" ],
+    "answer": [
+      "Hänen talossa on neljä kerrosta." ],
+    "answer_translation": [
+      "His building has four floors." ]
   }
 ]
