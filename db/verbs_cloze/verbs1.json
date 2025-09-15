@@ -1,0 +1,11 @@
+[
+  {
+    "verb": "mennä",
+    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "text": ["Minä {} kouluun.", "Sinä {} kotiin."],
+    "keys": ["menen", "menet"],
+    "translation": "to intend, to plan (to do something)",
+    "note": "mennä = to go",
+    "KPT": false
+  }
+]
