@@ -5,41 +5,50 @@ import sys
 import shutil
 import generators.gen_utils as utils
 
-def gen_verbs_cloze(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
+def gen_verbs_cloze(deck_id, json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
 
     # Create the model for the Anki cards
     model_id = 3414565112
+
     model = genanki.Model(
         model_id,
-        'Verb Conjugation Table with Image and Audio',
+        'Verb Cloze with Image and Audio',
         fields=[
             {'name': 'Verb'},
             {'name': 'Image'},
             {'name': 'Text'},
             {'name': 'Translation'},
             {'name': 'Node'},
-            {'name': 'KPT'}
+            {'name': 'KPT'},
+            {'name': 'Audio'},
         ],
         templates=[
             {
                 'name': 'Verb Conjugation Cloze Card',
-                'qfmt': '{{#Image}}<br>{{cloze:Text}}',
+                'qfmt': """
+            <div style="text-align: center;">
+                <h2>{{Verb}}</h2><br>
+                {{#Image}}<div>{{Image}}</div>{{/Image}}<br>
+                <div>{{cloze:Text}}</div>
+            </div>
+            """,
                 'afmt': """
-                {{FrontSide}}<br><hr>
-                {{cloze:Text}}
+            <div style="text-align: center;">
+                {{cloze:Text}}<br>
                 <br>
-                {{Translation}}
+                {{Translation}}<br>
                 <br>
-                {{Node}}
-                <br>
+                {{Node}}<br>
+                {{Audio}}<br>
                 {{KPT}}
+            </div>
             """,
             },
         ],
+        model_type=genanki.Model.CLOZE
     )
 
-    # Create the deck
-    deck_id = 987654321
+    # Create the decks
     deck = genanki.Deck(
         deck_id,
         deck_name,
@@ -61,7 +70,7 @@ def gen_verbs_cloze(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
     # Add cards to the deck
     for verb_data in verbs:
         verb = verb_data['verb']
-        question = f"Conjugate the verb '{verb}'"
+        question = verb
         sanitized_image_filename = ""
 
         # Handle optional image
@@ -81,11 +90,12 @@ def gen_verbs_cloze(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
         audio_parts = ""
         for i, (txt, key) in enumerate(zip(text, keys), start=1):
             audio_parts += txt.replace("{}", verb) + " "
-            cloze = f"{{{{c{i}::{key}}}}}"
+            # cloze = f"{{{{c{i}::{key}}}}}"
+            cloze = f"{{{{c1::{key}}}}}"
             result_parts.append(txt.format(cloze))
 
-        result = "<br>".join(result_parts)
-        sanitized_audio_filename = utils.sanitize_filename(f"{verb}_full.mp3")
+        result = "<br/>".join(result_parts)
+        sanitized_audio_filename = utils.sanitize_filename(f"{verb}_{utils.short_hash(audio_parts, 8)}.mp3")
         audio_path = os.path.join(media_folder, sanitized_audio_filename)
         utils.generate_audio(audio_parts.strip(), audio_path)
         media_files.append(audio_path)
@@ -95,19 +105,21 @@ def gen_verbs_cloze(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
             note_field = verb_data['note']
 
         kpt_field = ""
-        if 'KPT' in verb_data:
-            kpt_field = verb_data['KPT']
+        # if 'KPT' in verb_data:
+        #     kpt_field = verb_data['KPT']
         # Add note
         note = genanki.Note(
             model=model,
             fields=[
                 question,
-                f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
+                f'<img src="{sanitized_image_filename}" style="max-width:200px; height:auto;"/>' if len(sanitized_image_filename) > 0 else "",   # Image
                 result,
                 translation,
                 note_field,
-                kpt_field
+                kpt_field,
+                f"[sound:{sanitized_audio_filename}]",        # Audio
             ],
+            guid=utils.short_hash(audio_parts, 8)  # Unique identifier based on audio content
         )
         deck.add_note(note)
 

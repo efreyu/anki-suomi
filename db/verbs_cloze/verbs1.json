@@ -2,18 +2,54 @@
   {
     "verb": "aikoa",
     "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
-    "text": ["Minä {} matkustaa Suomeen ensi kesänä.", "Sinä {} oppia suomea nopeasti."],
-    "keys": ["aion", "aiot"],
-    "translation": "I intend to travel to Finland next summer. / You intend to learn Finnish quickly.",
+    "text": ["Minä {} matkustaa Suomeen ensi kesänä."],
+    "keys": ["aion"],
+    "translation": "I intend to travel to Finland next summer.",
     "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
     "KPT": false
   },
   {
     "verb": "aikoa",
     "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
-    "text": ["Hän {} ostaa uuden puhelimen", "Me {} katsoa elokuvan illalla."],
-    "keys": ["aikoo", "aiomme"],
-    "translation": "He/She intends to buy a new phone. / We intend to watch a movie in the evening.",
+    "text": ["Sinä {} oppia suomea nopeasti."],
+    "keys": ["aiot"],
+    "translation": "You intend to learn Finnish quickly.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
+    "KPT": false
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "text": ["Hän {} ostaa uuden puhelimen"],
+    "keys": ["aikoo"],
+    "translation": "He/She intends to buy a new phone.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
+    "KPT": false
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "text": ["Me {} katsoa elokuvan illalla."],
+    "keys": ["aiomme"],
+    "translation": "We intend to watch a movie in the evening.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
+    "KPT": false
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "text": ["Te {} matkustaa Ruotsiin lomalla."],
+    "keys": ["aiotte"],
+    "translation": "You (plural) intend to travel to Sweden on holiday.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
+    "KPT": false
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "text": ["He {} muuttaa uuteen asuntoon."],
+    "keys": ["aikovat"],
+    "translation": "They intend to move into a new apartment.",
     "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
     "KPT": false
   },
