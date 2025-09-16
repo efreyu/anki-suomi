@@ -97,7 +97,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["Minä {} oppia suomea."],
     "keys": ["alan"],
     "translation": "to begin, to start / I begin to learn Finnish.",
@@ -105,7 +105,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["Sinä {} kirjoittaa kirjettä."],
     "keys": ["alat"],
     "translation": "to begin, to start / You begin to write a letter.",
@@ -113,7 +113,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["Hän {} nauraa yhtäkkiä."],
     "keys": ["alkaa"],
     "translation": "to begin, to start / He/She begins to laugh suddenly.",
@@ -121,7 +121,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["Me {} katsoa elokuvaa."],
     "keys": ["alamme"],
     "translation": "to begin, to start / We begin to watch a movie.",
@@ -129,7 +129,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["Te {} laulaa yhdessä."],
     "keys": ["alatte"],
     "translation": "to begin, to start / You (plural) begin to sing together.",
@@ -137,10 +137,58 @@
   },
   {
     "verb": "alkaa",
-    "image": "",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
     "text": ["He {} pelata jalkapalloa."],
     "keys": ["alkavat"],
     "translation": "to begin, to start / They begin to play football.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Minä {} sinulle lahjan."],
+    "keys": ["annan"],
+    "translation": "to give / I give you a gift.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Sinä {} koiralle ruokaa."],
+    "keys": ["annat"],
+    "translation": "to give / You give food to the dog.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Hän {} ystävälleen kirjan."],
+    "keys": ["antaa"],
+    "translation": "to give / He/She gives a book to a friend.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Me {} lapsille makeisia."],
+    "keys": ["annamme"],
+    "translation": "to give / We give candy to the children.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Te {} minulle neuvoja."],
+    "keys": ["annatte"],
+    "translation": "to give / You (plural) give me advice.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["He {} opettajalle kukkia."],
+    "keys": ["antavat"],
+    "translation": "to give / They give flowers to the teacher.",
     "note": ""
   },
 
