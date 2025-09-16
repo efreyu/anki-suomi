@@ -78,40 +78,35 @@ def gen_verbs_cloze(json_file, deck_name, apkg_filename='Finnish_Verbs.apkg'):
         translation = verb_data['translation']
         keys = verb_data['keys']
         result_parts = []
+        audio_parts = ""
         for i, (txt, key) in enumerate(zip(text, keys), start=1):
+            audio_parts += txt.replace("{}", verb) + " "
             cloze = f"{{{{c{i}::{key}}}}}"
             result_parts.append(txt.format(cloze))
 
         result = "<br>".join(result_parts)
-
-
-# todo continue here
-        conjugations = verb_data['conjugations']
-        translations = verb_data['translations']
-        conjugation_fields = []
-        for i, conjugation in enumerate(conjugations):
-            translate = translations[i]
-            sanitized_audio_filename = utils.sanitize_filename(f"{verb}_conjugation_{i + 1}.mp3")
-            audio_path = os.path.join(media_folder, sanitized_audio_filename)
-            utils.generate_audio(conjugation, audio_path)
-            media_files.append(audio_path)
-            conjugation_fields.extend([conjugation, translate, f"[sound:{sanitized_audio_filename}]"])
-
-        # Fill missing fields if there are fewer than 6 conjugations
-        while len(conjugation_fields) < 6 * 3:
-            conjugation_fields.extend(["", ""])
+        sanitized_audio_filename = utils.sanitize_filename(f"{verb}_full.mp3")
+        audio_path = os.path.join(media_folder, sanitized_audio_filename)
+        utils.generate_audio(audio_parts.strip(), audio_path)
+        media_files.append(audio_path)
 
         note_field = ""
         if 'note' in verb_data:
             note_field = verb_data['note']
+
+        kpt_field = ""
+        if 'KPT' in verb_data:
+            kpt_field = verb_data['KPT']
         # Add note
         note = genanki.Note(
             model=model,
             fields=[
-                question,                   # Question
+                question,
                 f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
-                *conjugation_fields,        # Conjugations and audio
-                note_field,                 # Note
+                result,
+                translation,
+                note_field,
+                kpt_field
             ],
         )
         deck.add_note(note)
