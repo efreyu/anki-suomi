@@ -1,89 +1,152 @@
 [
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/houses-trees-beautiful-grass-covered-hill-by-lake-captured-finland_181624-43255.jpg",
     "text": ["Minä {} matkustaa Suomeen ensi kesänä."],
     "keys": ["aion"],
     "translation": "I intend to travel to Finland next summer.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/language-communication-message-written_53876-127905.jpg",
     "text": ["Sinä {} oppia suomea nopeasti."],
     "keys": ["aiot"],
     "translation": "You intend to learn Finnish quickly.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/pick-this-phone-you-never-regret-portrait-friendly-looking-attractive-confident-redhead-glamour-girlfriend-yellow-coat-showing-smartphone-pointing-mobile-as-smiling-broadly-camera_1258-81815.jpg",
     "text": ["Hän {} ostaa uuden puhelimen"],
     "keys": ["aikoo"],
     "translation": "He/She intends to buy a new phone.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/girls-watching-movie_23-2147718264.jpg",
     "text": ["Me {} katsoa elokuvan illalla."],
     "keys": ["aiomme"],
     "translation": "We intend to watch a movie in the evening.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/women-with-luggage-street_23-2149291898.jpg",
     "text": ["Te {} matkustaa Ruotsiin lomalla."],
     "keys": ["aiotte"],
     "translation": "You (plural) intend to travel to Sweden on holiday.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
   {
     "verb": "aikoa",
-    "image": "https://img.freepik.com/premium-vector/notify-concept-illustration_114360-4297.jpg",
+    "image": "https://img.freepik.com/free-photo/young-couple-with-boxes-high-fiving_23-2148273309.jpg",
     "text": ["He {} muuttaa uuteen asuntoon."],
     "keys": ["aikovat"],
     "translation": "They intend to move into a new apartment.",
-    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto).",
-    "KPT": false
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
   },
-
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
-    "present": {
-      "positive": [
-        "Minä ajan", "Sinä ajat", "Hän ajaa", "Me ajamme", "Te ajatte", "He ajavat"
-      ],
-      "negative": "Minä en aja",
-      "passive": "ajetaan<br/>ei ajeta"
-    },
-    "translation": "to drive, to ride, or to operate a vehicle",
-    "note": "<b>Minä ajan autoa.</b> - <i>I drive a(some) car.</i><br/><b>Minä ajan autolla kotiin.<b> - <i>I drive home by car.</i><br/><b>Sinä ajat parran.</b> - <i>You shave (your) beard.</i>",
-    "usage": "To drive a vehicle(car, motorcycle), to ride (bike), or even to cut or to shave in some specific contexts.",
-    "KPT": true
+    "image": "",
+    "text": ["Minä {} autoa joka päivä."],
+    "keys": ["ajan"],
+    "translation": "to drive, to ride / I drive a car every day.",
+    "note": ""
+  },
+  {
+    "verb": "ajaa",
+    "image": "",
+    "text": ["Sinä {} polkupyörällä kouluun."],
+    "keys": ["ajat"],
+    "translation": "to drive, to ride / You ride a bicycle to school.",
+    "note": ""
+  },
+  {
+    "verb": "ajaa",
+    "image": "",
+    "text": ["Hän {} bussilla töihin."],
+    "keys": ["ajaa"],
+    "translation": "to drive, to ride / He/She goes to work by bus.",
+    "note": ""
+  },
+  {
+    "verb": "ajaa",
+    "image": "",
+    "text": ["Me {} moottoripyörällä kesällä."],
+    "keys": ["ajamme"],
+    "translation": "to drive, to ride / We ride a motorcycle in the summer.",
+    "note": ""
+  },
+  {
+    "verb": "ajaa",
+    "image": "",
+    "text": ["Te {} veneellä saarille."],
+    "keys": ["ajatte"],
+    "translation": "to drive, to ride / You (plural) go by boat to the islands.",
+    "note": ""
+  },
+  {
+    "verb": "ajaa",
+    "image": "",
+    "text": ["He {} taksilla lentokentälle."],
+    "keys": ["ajavat"],
+    "translation": "to drive, to ride / They go by taxi to the airport.",
+    "note": ""
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
-    "present": {
-      "positive": [
-        "Minä alan", "Sinä alat", "Hän alkaa", "Me alamme", "Te alatte", "He alkavat"
-      ],
-      "negative": "Minä en ala",
-      "passive": "aletaan<br/>ei aleta"
-    },
-    "translation": "to start, to begin",
-    "note": "<b>Kurssi alkaa huomenna.</b> - <i>The course starts tomorrow.</i><br/><b>Minä alan opiskella.</b> - <i>I start studying.</i>",
-    "usage": "Used when the subject itself begins doing something, or when something starts by itself (like a movie or rain).",
-    "KPT": true
+    "image": "",
+    "text": ["Minä {} oppia suomea."],
+    "keys": ["alan"],
+    "translation": "to begin, to start / I begin to learn Finnish.",
+    "note": ""
   },
+  {
+    "verb": "alkaa",
+    "image": "",
+    "text": ["Sinä {} kirjoittaa kirjettä."],
+    "keys": ["alat"],
+    "translation": "to begin, to start / You begin to write a letter.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "",
+    "text": ["Hän {} nauraa yhtäkkiä."],
+    "keys": ["alkaa"],
+    "translation": "to begin, to start / He/She begins to laugh suddenly.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "",
+    "text": ["Me {} katsoa elokuvaa."],
+    "keys": ["alamme"],
+    "translation": "to begin, to start / We begin to watch a movie.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "",
+    "text": ["Te {} laulaa yhdessä."],
+    "keys": ["alatte"],
+    "translation": "to begin, to start / You (plural) begin to sing together.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "",
+    "text": ["He {} pelata jalkapalloa."],
+    "keys": ["alkavat"],
+    "translation": "to begin, to start / They begin to play football.",
+    "note": ""
+  },
+
+
+
+
   {
     "verb": "antaa",
     "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
@@ -96,8 +159,7 @@
     },
     "translation": "to give, to allow, to let",
     "note": "<b>Minä annan sinulle kirjan.</b> - <i>I give you a book.</i><br/><b>Sinä annat minulle kynän.<b> - <i>You give me a pen.</i>",
-    "usage": "A giver (subject), a receiver (indirect object, usually in allative: -lle), a thing being given (direct object). Formal analogue: 'sallia'",
-    "KPT": true
+    "usage": "A giver (subject), a receiver (indirect object, usually in allative: -lle), a thing being given (direct object). Formal analogue: 'sallia'"
   },
   {
     "verb": "asua",
@@ -125,8 +187,7 @@
     },
     "translation": "to help",
     "note": "Minä autan sinua. - I help you.<br/>Voinko auttaa sinua siivouksessa? - Can I help you with the cleaning?<br/>Autatko sinä minua? - Do you help me?",
-    "usage": "A helper (subject), a person being helped (indirect object, usually in allative: -lle), a thing being helped (direct object).",
-    "KPT": true
+    "usage": "A helper (subject), a person being helped (indirect object, usually in allative: -lle), a thing being helped (direct object)."
   },
   {
     "verb": "ehtiä",
@@ -140,8 +201,7 @@
     },
     "translation": "to have time to, to make it (in time)",
     "note": "<b>Minä ehdin lukea kirjan.</b> - <i>I have time to read the book.</i><br/><b>Hän ehti pelastaa koiran.</b> - <i>He/she managed to save the dog (in time).</i><br/><b>Minä ehdin bussiin juuri ja juuri.</b> - <i>I barely made it to the bus.</i>",
-    "usage": "Used to indicate that there is enough time to do something.",
-    "KPT": true
+    "usage": "Used to indicate that there is enough time to do something."
   },
   {
     "verb": "etsiä",
@@ -169,8 +229,7 @@
     },
     "translation": "to take / pick up something or someone / to apply for something",
     "note": "<b>Minä haen sinut bussipysäkiltä.</b> - <i>I will pick you up from the bus stop.</i><br/><b>Sinä haet töitä.</b> - <i>You are applying for a job.</i>",
-    "usage": "Used when going to get something or someone, or when applying for something.",
-    "KPT": true
+    "usage": "Used when going to get something or someone, or when applying for something."
   },
   {
     "verb": "herättää",
@@ -184,8 +243,7 @@
     },
     "translation": "to wake up(someone/something)",
     "note": "<b>Minä herätän sinut.</b> - <i>I wake you up.</i><br/><b>Opettaja herätti kiinnostuksen.</b> - <i>The teacher sparked interest.</i>",
-    "usage": "Transitive verb → it needs an object (someone/something that is being woken up). Different from 'herätä - to wake up'.",
-    "KPT": true
+    "usage": "Transitive verb → it needs an object (someone/something that is being woken up). Different from 'herätä - to wake up'."
   },
   {
     "verb": "herätää",
@@ -199,8 +257,7 @@
     },
     "translation": "to wake up (by yourself)",
     "note": "<b>Minä herään kello seitsemän.</b> - <i>I wake up at seven o'clock.</i><br/><b>Hän herää.</b> - <i>He/she wakes up.</i>",
-    "usage": "Intransitive verb → it does not take an object. Different from 'herättää - to wake up someone/something'.",
-    "KPT": true
+    "usage": "Intransitive verb → it does not take an object. Different from 'herättää - to wake up someone/something'."
   },
   {
     "verb": "hoitaa",
@@ -214,8 +271,7 @@
     },
     "translation": "to take care of, to handle, to manage, to treat (medically)",
     "note": "<b>Minä hoidan koiraa.</b> - <i>I take care of the dog.</i><br/><b>Hän hoitaa sairaita.</b> - <i>He/she treats the sick.</i>",
-    "usage": "Needs an object (what are you taking care of?). Taking care of people or animals; handling tasks; managing something (like paperwork or errands).",
-    "KPT": true
+    "usage": "Needs an object (what are you taking care of?). Taking care of people or animals; handling tasks; managing something (like paperwork or errands)."
   },
   {
     "verb": "huutaa",
@@ -229,8 +285,7 @@
     },
     "translation": "to shout, to yell",
     "note": "<b>Minä huudan apua.</b> - <i>I shout for help.</i><br/><b>Hän huutaa kovaa.</b> - <i>He/she yells loudly.</i>",
-    "usage": "Used when expressing something loudly, often in distress or excitement.",
-    "KPT": true
+    "usage": "Used when expressing something loudly, often in distress or excitement."
   },
   {
     "verb": "katsoa",
@@ -244,8 +299,7 @@
     },
     "translation": "to look, to watch",
     "note": "<b>Minä katson televisiota.</b> - <i>I watch television.</i><br/><b>Hän katsoo elokuvaa.</b> - <i>He/she is watching a movie.</i>",
-    "usage": "Used when observing something visually, like a movie, TV show, or scenery.",
-    "KPT": true
+    "usage": "Used when observing something visually, like a movie, TV show, or scenery."
   },
   {
     "verb": "kieltää",
@@ -259,8 +313,7 @@
     },
     "translation": "to forbid, to prohibit",
     "note": "<b>Minä kiellän sinua tekemästä sitä.</b> - <i>I forbid you from doing that.</i><br/><b>Hän kieltää tupakoinnin.</b> - <i>He/she prohibits smoking.</i>",
-    "usage": "Used when someone is not allowed to do something, when something is not permitted, denies something is true, or refuses to accept something.",
-    "KPT": true
+    "usage": "Used when someone is not allowed to do something, when something is not permitted, denies something is true, or refuses to accept something."
   },
   {
     "verb": "kiertää",
@@ -274,8 +327,7 @@
     },
     "translation": "to turn, to rotate, to go around",
     "note": "<b>Minä kierrän nurkan.</b> - <i>I turn the corner.</i><br/><b>Hän kiertää maapallon.</b> - <i>He/she goes around the Earth.</i>",
-    "usage": "Used when changing direction, rotating an object, or going around something.",
-    "KPT": true
+    "usage": "Used when changing direction, rotating an object, or going around something."
   },
   {
     "verb": "kirjoittaa",
@@ -289,8 +341,7 @@
     },
     "translation": "to write",
     "note": "<b>Minä kirjoitan kirjeen.</b> - <i>I write a letter.</i><br/><b>Hän kirjoittaa runon.</b> - <i>He/she writes a poem.</i>",
-    "usage": "Used when composing text, like letters, emails, or documents.",
-    "KPT": true
+    "usage": "Used when composing text, like letters, emails, or documents."
   },
   {
     "verb": "kysyä",
@@ -318,8 +369,7 @@
     },
     "translation": "to expand, to enlarge, to widen, to broaden",
     "note": "<b>Minä laajennan liiketoimintaa.</b> - <i>I expand the business.</i><br/><b>Hän laajentaa tietämystään.</b> - <i>He/she enlarges their knowledge.</i>",
-    "usage": "Used in: physical space (buildings, roads), abstract ideas (knowledge, vocabulary, business, reach, etc.).",
-    "KPT": true
+    "usage": "Used in: physical space (buildings, roads), abstract ideas (knowledge, vocabulary, business, reach, etc.)."
   },
   {
     "verb": "lähteä",
@@ -333,8 +383,7 @@
     },
     "translation": "to leave, to depart, to go away",
     "note": "<b>Minä lähden kotiin.</b> - <i>I leave for home.</i><br/><b>Juna lähtee kello kahdeksan.</b> - <i>The train leaves at eight o’clock.</i>",
-    "usage": "Used when someone is going away from a place, starting a journey, or leaving a situation.",
-    "KPT": true
+    "usage": "Used when someone is going away from a place, starting a journey, or leaving a situation."
   },
   {
     "verb": "laittaa",
@@ -348,8 +397,7 @@
     },
     "translation": "to put, to place, to set",
     "note": "<b>Minä laitan kirjan pöydälle.</b> - <i>I put the book on the table.</i><br/><b>Hän laittaa kengät jalkaan.</b> - <i>He/she puts on shoes.</i>",
-    "usage": "Used when placing something somewhere, setting up an object, or putting on clothes.",
-    "KPT": true
+    "usage": "Used when placing something somewhere, setting up an object, or putting on clothes."
   },
   {
     "verb": "laskea",
@@ -377,8 +425,7 @@
     },
     "translation": "to read",
     "note": "<b>Minä luen kirjaa.</b> - <i>I read a book.</i><br/><b>Hän lukee lehteä.</b> - <i>He/she reads a newspaper.</i>",
-    "usage": "Used when engaging with written text, like books, articles, or documents.",
-    "KPT": true
+    "usage": "Used when engaging with written text, like books, articles, or documents."
   },
   {
     "verb": "maksaa",
@@ -434,8 +481,7 @@
     },
     "translation": "to wait, to expect",
     "note": "<b>Minä odotan bussia.</b> - <i>I wait for the bus.</i><br/><b>Hän odottaa tuloksia.</b> - <i>He/she expects results.</i>",
-    "usage": "Used when staying in a place until something happens or someone arrives.",
-    "KPT": true
+    "usage": "Used when staying in a place until something happens or someone arrives."
   },
   {
     "verb": "ostaa",
@@ -463,8 +509,7 @@
     },
     "translation": "to take, to grab, to catch",
     "note": "<b>Minä otan kirjan hyllystä.</b> - <i>I take the book from the shelf.</i><br/><b>Hän ottaa valokuvan.</b> - <i>He/she takes a photo.</i>",
-    "usage": "Used when physically taking something, or when accepting an offer or opportunity.",
-    "KPT": true
+    "usage": "Used when physically taking something, or when accepting an offer or opportunity."
   },
   {
     "verb": "paistaa",
@@ -562,8 +607,7 @@
     },
     "translation": "to play (an instrument), to call (on the phone)",
     "note": "<b>Minä soitan kitaraa.</b> - <i>I play the guitar.</i><br/><b>Hän soittaa minulle.</b> - <i>He/she calls me.</i>",
-    "usage": "To call by phone, to play an instrument. Less commonly: to ring/buzz (doorbell).",
-    "KPT": true
+    "usage": "To call by phone, to play an instrument. Less commonly: to ring/buzz (doorbell)."
   },
   {
     "verb": "sortua",
@@ -577,8 +621,7 @@
     },
     "translation": "to collapse, to give in, to cave in, to fall (into something negative)",
     "note": "<b>Minä sorruin paineeseen.</b> - <i>I collapsed under pressure.</i><br/><b>Hän sortuu lopulta.</b> - <i>He/she eventually gives in.</i>",
-    "usage": "Used when something fails, or when someone gives in to pressure. Often used figuratively: to fall into temptation, to relapse, to succumb.",
-    "KPT": true
+    "usage": "Used when something fails, or when someone gives in to pressure. Often used figuratively: to fall into temptation, to relapse, to succumb."
   },
   {
     "verb": "tietää",
@@ -592,8 +635,7 @@
     },
     "translation": "to know, to be aware of",
     "note": "<b>Minä tiedän vastauksen.</b> - <i>I know the answer.</i><br/><b>Hän tietää asian.</b> - <i>He/she is aware of the matter.</i>",
-    "usage": "Used when having knowledge or information about something, being aware of facts, or understanding a situation.",
-    "KPT": true
+    "usage": "Used when having knowledge or information about something, being aware of facts, or understanding a situation."
   },
   {
     "verb": "tuntea",
@@ -607,8 +649,7 @@
     },
     "translation": "to feel, to know (someone), to be familiar with",
     "note": "<b>Minä tunnen sinut hyvin.</b> - <i>I know you well.</i><br/><b>Hän tuntee surua.</b> - <i>He/she feels sadness.</i>",
-    "usage": "Used when having an emotional experience, or when being acquainted with someone or something. Transitive verb: you feel something or know someone.",
-    "KPT": true
+    "usage": "Used when having an emotional experience, or when being acquainted with someone or something. Transitive verb: you feel something or know someone."
   },
   {
     "verb": "unohtaa",
@@ -622,8 +663,7 @@
     },
     "translation": "to forget",
     "note": "<b>Minä unohdan avaimet kotiin.</b> - <i>I forget the keys at home.</i><br/><b>Hän unohtaa nimen.</b> - <i>He/she forgets the name.</i>",
-    "usage": "Used when failing to remember something, or when something is not recalled.",
-    "KPT": true
+    "usage": "Used when failing to remember something, or when something is not recalled."
   },
   {
     "verb": "unohtaa",
@@ -637,8 +677,7 @@
     },
     "translation": "to forget",
     "note": "<b>Minä unohdan sinut.</b> - <i>I forget you.</i><br/><b>Hän unohtaa paikan.</b> - <i>He/she forgets the place.</i>",
-    "usage": "Transitive verb: it needs an object. Used when failing to remember something, or when something is not recalled.",
-    "KPT": true
+    "usage": "Transitive verb: it needs an object. Used when failing to remember something, or when something is not recalled."
   },
   {
     "verb": "unohtua",
@@ -652,8 +691,7 @@
     },
     "translation": "to be forgotten, to slip one's mind",
     "note": "<b>Minä unohdun tähän paikkaan.</b> - <i>I get forgotten in this place.</i><br/><b>Hän unohtuu nopeasti.</b> - <i>He/she slips their mind quickly.</i>",
-    "usage": "Intransitive verb: it does not take an object. Used when something is forgotten or overlooked, often without intention.",
-    "KPT": true
+    "usage": "Intransitive verb: it does not take an object. Used when something is forgotten or overlooked, often without intention."
   },
   {
     "verb": "vaatia",
@@ -667,8 +705,7 @@
     },
     "translation": "to demand, to require, to insist on",
     "note": "<b>Minä vaadin oikeutta.</b> - <i>I demand justice.</i><br/><b>Hän vaatii selitystä.</b> - <i>He/she requires an explanation.</i>",
-    "usage": "Often used in formal speech, legal official contexts.",
-    "KPT": true
+    "usage": "Often used in formal speech, legal official contexts."
   },
   {
     "verb": "ymmärtää",
@@ -682,7 +719,6 @@
     },
     "translation": "to understand, to comprehend",
     "note": "<b>Minä ymmärrän sinua.</b> - <i>I understand you.</i><br/><b>Hän ymmärtää asian.</b> - <i>He/she comprehends the matter.</i>",
-    "usage": "Used when grasping the meaning of something, comprehending information, or having insight into a situation.",
-    "KPT": true
+    "usage": "Used when grasping the meaning of something, comprehending information, or having insight into a situation."
   }
 ]

@@ -89,7 +89,7 @@ def gen_verbs_cloze(deck_id, json_file, deck_name, apkg_filename='Finnish_Verbs.
         result_parts = []
         audio_parts = ""
         for i, (txt, key) in enumerate(zip(text, keys), start=1):
-            audio_parts += txt.replace("{}", verb) + " "
+            audio_parts += txt.replace("{}", key) + " "
             # cloze = f"{{{{c{i}::{key}}}}}"
             cloze = f"{{{{c1::{key}}}}}"
             result_parts.append(txt.format(cloze))
