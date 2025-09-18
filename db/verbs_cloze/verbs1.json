@@ -191,66 +191,159 @@
     "translation": "to give / They give flowers to the teacher.",
     "note": ""
   },
-
-
-
-
   {
-    "verb": "antaa",
-    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
-    "present": {
-      "positive": [
-        "Minä annan", "Sinä annat", "Hän antaa", "Me annamme", "Te annatte", "He antavat"
-      ],
-      "negative": "Minä en anna",
-      "passive": "annetaan<br/>ei anneta"
-    },
-    "translation": "to give, to allow, to let",
-    "note": "<b>Minä annan sinulle kirjan.</b> - <i>I give you a book.</i><br/><b>Sinä annat minulle kynän.<b> - <i>You give me a pen.</i>",
-    "usage": "A giver (subject), a receiver (indirect object, usually in allative: -lle), a thing being given (direct object). Formal analogue: 'sallia'"
+    "verb": "asua",
+    "image": "",
+    "text": ["Minä {} Helsingissä."],
+    "keys": ["asun"],
+    "translation": "to live / I live in Helsinki.",
+    "note": ""
   },
   {
     "verb": "asua",
-    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
-    "present": {
-      "positive": [
-        "Minä asun", "Sinä asut", "Hän asuu", "Me asumme", "Te asutte", "He asuvat"
-      ],
-      "negative": "Minä en asu",
-      "passive": "asutaan<br/>ei asuta"
-    },
-    "translation": "to live",
-    "note": "<b>Minä asun Helsingissä.</b> - <i>I live in Helsinki.</i><br/><b>Sinä asut pienessä talossa.</b> - <i>You live in a small house.</i>",
-    "usage": "Used to indicate where a person lives, or where something is located."
+    "image": "",
+    "text": ["Sinä {} pienessä kylässä."],
+    "keys": ["asut"],
+    "translation": "to live / You live in a small village.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Hän {} kerrostalossa."],
+    "keys": ["asuu"],
+    "translation": "to live / He/She lives in an apartment building.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Me {} samassa kaupungissa."],
+    "keys": ["asumme"],
+    "translation": "to live / We live in the same city.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Te {} lähellä keskustaa."],
+    "keys": ["asutte"],
+    "translation": "to live / You (plural) live near the city center.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["He {} maaseudulla."],
+    "keys": ["asuvat"],
+    "translation": "to live / They live in the countryside.",
+    "note": ""
+  },
+
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Minä {} sinua läksyissä."],
+    "keys": ["autan"],
+    "translation": "to help / I help you with homework.",
+    "note": ""
   },
   {
     "verb": "auttaa",
     "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
-    "present": {
-      "positive": [
-        "Minä autan", "Sinä autat", "Hän auttaa", "Me autamme", "Te autatte", "He auttavat"
-      ],
-      "negative": "Minä en auta",
-      "passive": "autetaan<br/>ei auteta"
-    },
-    "translation": "to help",
-    "note": "Minä autan sinua. - I help you.<br/>Voinko auttaa sinua siivouksessa? - Can I help you with the cleaning?<br/>Autatko sinä minua? - Do you help me?",
-    "usage": "A helper (subject), a person being helped (indirect object, usually in allative: -lle), a thing being helped (direct object)."
+    "text": ["Sinä {} minua siivoamaan huonetta."],
+    "keys": ["autat"],
+    "translation": "to help / You help me clean the room.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Hän {} vanhempiaan kotona."],
+    "keys": ["auttaa"],
+    "translation": "to help / He/She helps his/her parents at home.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Me {} ystävää muutossa."],
+    "keys": ["autamme"],
+    "translation": "to help / We help a friend with moving.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Te {} opettajaa koulussa."],
+    "keys": ["autatte"],
+    "translation": "to help / You (plural) help the teacher at school.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["He {} naapuria puutarhassa."],
+    "keys": ["auttavat"],
+    "translation": "to help / They help the neighbor in the garden.",
+    "note": ""
   },
   {
     "verb": "ehtiä",
     "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
-    "present": {
-      "positive": [
-        "Minä ehdin", "Sinä ehdit", "Hän ehtii", "Me ehdimme", "Te ehditte", "He ehtivät"
-      ],
-      "negative": "Minä en ehdi",
-      "passive": "ehditään<br/>ei ehditä"
-    },
-    "translation": "to have time to, to make it (in time)",
-    "note": "<b>Minä ehdin lukea kirjan.</b> - <i>I have time to read the book.</i><br/><b>Hän ehti pelastaa koiran.</b> - <i>He/she managed to save the dog (in time).</i><br/><b>Minä ehdin bussiin juuri ja juuri.</b> - <i>I barely made it to the bus.</i>",
-    "usage": "Used to indicate that there is enough time to do something."
+    "text": ["Minä {} bussiin aamulla."],
+    "keys": ["ehdin"],
+    "translation": "to have time, to make it / I make it to the bus in the morning.",
+    "note": ""
   },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Sinä {} lukea kirjan viikonloppuna."],
+    "keys": ["ehdit"],
+    "translation": "to have time, to make it / You have time to read a book on the weekend.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Hän {} kouluun ajoissa."],
+    "keys": ["ehtii"],
+    "translation": "to have time, to make it / He/She makes it to school on time.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Me {} syödä ennen elokuvaa."],
+    "keys": ["ehdimme"],
+    "translation": "to have time, to make it / We have time to eat before the movie.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Te {} käydä museossa tänään."],
+    "keys": ["ehditte"],
+    "translation": "to have time, to make it / You (plural) have time to visit the museum today.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["He {} junaan viime hetkellä."],
+    "keys": ["ehtivät"],
+    "translation": "to have time, to make it / They make it to the train at the last moment.",
+    "note": ""
+  },
+
+
+
+
+
+
+
+
   {
     "verb": "etsiä",
     "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
