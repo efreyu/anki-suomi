@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Minä {} Helsingissä."],
+    "keys": ["asun"],
+    "translation": "to live / I live in Helsinki.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Sinä {} pienessä kylässä."],
+    "keys": ["asut"],
+    "translation": "to live / You live in a small village.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Hän {} kerrostalossa."],
+    "keys": ["asuu"],
+    "translation": "to live / He/She lives in an apartment building.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Me {} samassa kaupungissa."],
+    "keys": ["asumme"],
+    "translation": "to live / We live in the same city.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["Te {} lähellä keskustaa."],
+    "keys": ["asutte"],
+    "translation": "to live / You (plural) live near the city center.",
+    "note": ""
+  },
+  {
+    "verb": "asua",
+    "image": "",
+    "text": ["He {} maaseudulla."],
+    "keys": ["asuvat"],
+    "translation": "to live / They live in the countryside.",
+    "note": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["Minä {} lapsen kouluun."],
+    "keys": ["herätän"],
+    "translation": "to wake (someone) up / I wake the child up for school.",
+    "note": ""
+  },
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["Sinä {} minut aikaisin aamulla."],
+    "keys": ["herätät"],
+    "translation": "to wake (someone) up / You wake me up early in the morning.",
+    "note": ""
+  },
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["Hän {} koiran, kun tulee kotiin."],
+    "keys": ["herättää"],
+    "translation": "to wake (someone) up / He/She wakes the dog up when coming home.",
+    "note": ""
+  },
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["Me {} ystävän juhliin."],
+    "keys": ["herätämme"],
+    "translation": "to wake (someone) up / We wake our friend up for the party.",
+    "note": ""
+  },
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["Te {} vauvan laululla."],
+    "keys": ["herätätte"],
+    "translation": "to wake (someone) up / You (plural) wake the baby up with a song.",
+    "note": ""
+  },
+  {
+    "verb": "herättää",
+    "image": "https://img.freepik.com/premium-vector/daughter-bed-pillow-mother-awake-girl-person-home-bedroom-vector-illustration-child-wake-up-early-woman-parent-mom-near-window_169479-2315.jpg",
+    "text": ["He {} naapurin metelillä."],
+    "keys": ["herättävät"],
+    "translation": "to wake (someone) up / They wake the neighbor up with noise.",
+    "note": ""
+  }
+]

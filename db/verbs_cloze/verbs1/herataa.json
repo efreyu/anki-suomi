@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["Minä {} kello seitsemän."],
+    "keys": ["herään"],
+    "translation": "to wake up / I wake up at seven o’clock.",
+    "note": ""
+  },
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["Sinä {} liian myöhään."],
+    "keys": ["heräät"],
+    "translation": "to wake up / You wake up too late.",
+    "note": ""
+  },
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["Hän {} aamulla aikaisin."],
+    "keys": ["herää"],
+    "translation": "to wake up / He/She wakes up early in the morning.",
+    "note": ""
+  },
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["Me {} viikonloppuna kymmeneltä."],
+    "keys": ["heräämme"],
+    "translation": "to wake up / We wake up at ten o’clock on the weekend.",
+    "note": ""
+  },
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["Te {} meluun kadulta."],
+    "keys": ["heräätte"],
+    "translation": "to wake up / You (plural) wake up to the noise from the street.",
+    "note": ""
+  },
+  {
+    "verb": "herätää",
+    "image": "https://img.freepik.com/premium-vector/happy-cute-little-kid-girl-wake-up-morning_193700-746.jpg",
+    "text": ["He {} juhlista väsyneinä."],
+    "keys": ["heräävät"],
+    "translation": "to wake up / They wake up tired after the party.",
+    "note": ""
+  }
+]

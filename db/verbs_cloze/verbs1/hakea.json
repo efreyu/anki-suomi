@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["Minä {} postin laatikosta."],
+    "keys": ["haen"],
+    "translation": "to fetch, to pick up, to apply for / I fetch the mail from the mailbox.",
+    "note": ""
+  },
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["Sinä {} lapsen päiväkodista."],
+    "keys": ["haet"],
+    "translation": "to fetch, to pick up, to apply for / You pick up the child from daycare.",
+    "note": ""
+  },
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["Hän {} töitä Helsingistä."],
+    "keys": ["hakee"],
+    "translation": "to fetch, to pick up, to apply for / He/She applies for jobs in Helsinki.",
+    "note": ""
+  },
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["Me {} kahvia keittiöstä."],
+    "keys": ["haemme"],
+    "translation": "to fetch, to pick up, to apply for / We fetch coffee from the kitchen.",
+    "note": ""
+  },
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["Te {} viisumia ulkomaille."],
+    "keys": ["haette"],
+    "translation": "to fetch, to pick up, to apply for / You (plural) apply for a visa abroad.",
+    "note": ""
+  },
+  {
+    "verb": "hakea",
+    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "text": ["He {} lentokentältä ystävänsä."],
+    "keys": ["hakevat"],
+    "translation": "to fetch, to pick up, to apply for / They pick up their friend from the airport.",
+    "note": ""
+  }
+]

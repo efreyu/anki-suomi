@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["Minä {} avaimia keittiöstä."],
+    "keys": ["etsin"],
+    "translation": "to search / I am looking for keys in the kitchen.",
+    "note": ""
+  },
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["Sinä {} uutta työpaikkaa."],
+    "keys": ["etsit"],
+    "translation": "to search / You are looking for a new job.",
+    "note": ""
+  },
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["Hän {} kirjaa kirjastosta."],
+    "keys": ["etsii"],
+    "translation": "to search / He/She is looking for a book in the library.",
+    "note": ""
+  },
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["Me {} koiraa puistosta."],
+    "keys": ["etsimme"],
+    "translation": "to search / We are looking for the dog in the park.",
+    "note": ""
+  },
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["Te {} hotellia keskustasta."],
+    "keys": ["etsitte"],
+    "translation": "to search / You (plural) are looking for a hotel in the city center.",
+    "note": ""
+  },
+  {
+    "verb": "etsiä",
+    "image": "https://free-images.com/sm/f37a/search_lens_autumn_leaves.jpg",
+    "text": ["He {} paikkaa autolle."],
+    "keys": ["etsivät"],
+    "translation": "to search / They are looking for a place for the car.",
+    "note": ""
+  }
+]

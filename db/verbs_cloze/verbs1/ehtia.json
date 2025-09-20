@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Minä {} bussiin aamulla."],
+    "keys": ["ehdin"],
+    "translation": "to have time, to make it / I make it to the bus in the morning.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Sinä {} lukea kirjan viikonloppuna."],
+    "keys": ["ehdit"],
+    "translation": "to have time, to make it / You have time to read a book on the weekend.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Hän {} kouluun ajoissa."],
+    "keys": ["ehtii"],
+    "translation": "to have time, to make it / He/She makes it to school on time.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Me {} syödä ennen elokuvaa."],
+    "keys": ["ehdimme"],
+    "translation": "to have time, to make it / We have time to eat before the movie.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Te {} käydä museossa tänään."],
+    "keys": ["ehditte"],
+    "translation": "to have time, to make it / You (plural) have time to visit the museum today.",
+    "note": ""
+  },
+  {
+    "verb": "ehtiä",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["He {} junaan viime hetkellä."],
+    "keys": ["ehtivät"],
+    "translation": "to have time, to make it / They make it to the train at the last moment.",
+    "note": ""
+  }
+]

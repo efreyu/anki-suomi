@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["Minä {} oppia suomea."],
+    "keys": ["alan"],
+    "translation": "to begin, to start / I begin to learn Finnish.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["Sinä {} kirjoittaa kirjettä."],
+    "keys": ["alat"],
+    "translation": "to begin, to start / You begin to write a letter.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["Hän {} nauraa yhtäkkiä."],
+    "keys": ["alkaa"],
+    "translation": "to begin, to start / He/She begins to laugh suddenly.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["Me {} katsoa elokuvaa."],
+    "keys": ["alamme"],
+    "translation": "to begin, to start / We begin to watch a movie.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["Te {} laulaa yhdessä."],
+    "keys": ["alatte"],
+    "translation": "to begin, to start / You (plural) begin to sing together.",
+    "note": ""
+  },
+  {
+    "verb": "alkaa",
+    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "text": ["He {} pelata jalkapalloa."],
+    "keys": ["alkavat"],
+    "translation": "to begin, to start / They begin to play football.",
+    "note": ""
+  }
+]

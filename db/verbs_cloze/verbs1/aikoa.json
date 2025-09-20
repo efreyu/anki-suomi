@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/houses-trees-beautiful-grass-covered-hill-by-lake-captured-finland_181624-43255.jpg",
+    "text": ["Minä {} matkustaa Suomeen ensi kesänä."],
+    "keys": ["aion"],
+    "translation": "I intend to travel to Finland next summer.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/language-communication-message-written_53876-127905.jpg",
+    "text": ["Sinä {} oppia suomea nopeasti."],
+    "keys": ["aiot"],
+    "translation": "You intend to learn Finnish quickly.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/pick-this-phone-you-never-regret-portrait-friendly-looking-attractive-confident-redhead-glamour-girlfriend-yellow-coat-showing-smartphone-pointing-mobile-as-smiling-broadly-camera_1258-81815.jpg",
+    "text": ["Hän {} ostaa uuden puhelimen"],
+    "keys": ["aikoo"],
+    "translation": "He/She intends to buy a new phone.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/girls-watching-movie_23-2147718264.jpg",
+    "text": ["Me {} katsoa elokuvan illalla."],
+    "keys": ["aiomme"],
+    "translation": "We intend to watch a movie in the evening.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/women-with-luggage-street_23-2149291898.jpg",
+    "text": ["Te {} matkustaa Ruotsiin lomalla."],
+    "keys": ["aiotte"],
+    "translation": "You (plural) intend to travel to Sweden on holiday.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  },
+  {
+    "verb": "aikoa",
+    "image": "https://img.freepik.com/free-photo/young-couple-with-boxes-high-fiving_23-2148273309.jpg",
+    "text": ["He {} muuttaa uuteen asuntoon."],
+    "keys": ["aikovat"],
+    "translation": "They intend to move into a new apartment.",
+    "note": "Глагол требует инфинитива после себя (aikoa + verbin perusmuoto)."
+  }
+]

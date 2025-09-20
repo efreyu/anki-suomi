@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Minä {} sinulle lahjan."],
+    "keys": ["annan"],
+    "translation": "to give / I give you a gift.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Sinä {} koiralle ruokaa."],
+    "keys": ["annat"],
+    "translation": "to give / You give food to the dog.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Hän {} ystävälleen kirjan."],
+    "keys": ["antaa"],
+    "translation": "to give / He/She gives a book to a friend.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Me {} lapsille makeisia."],
+    "keys": ["annamme"],
+    "translation": "to give / We give candy to the children.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["Te {} minulle neuvoja."],
+    "keys": ["annatte"],
+    "translation": "to give / You (plural) give me advice.",
+    "note": ""
+  },
+  {
+    "verb": "antaa",
+    "image": "",
+    "text": ["He {} opettajalle kukkia."],
+    "keys": ["antavat"],
+    "translation": "to give / They give flowers to the teacher.",
+    "note": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Minä {} sinua läksyissä."],
+    "keys": ["autan"],
+    "translation": "to help / I help you with homework.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Sinä {} minua siivoamaan huonetta."],
+    "keys": ["autat"],
+    "translation": "to help / You help me clean the room.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Hän {} vanhempiaan kotona."],
+    "keys": ["auttaa"],
+    "translation": "to help / He/She helps his/her parents at home.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Me {} ystävää muutossa."],
+    "keys": ["autamme"],
+    "translation": "to help / We help a friend with moving.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["Te {} opettajaa koulussa."],
+    "keys": ["autatte"],
+    "translation": "to help / You (plural) help the teacher at school.",
+    "note": ""
+  },
+  {
+    "verb": "auttaa",
+    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "text": ["He {} naapuria puutarhassa."],
+    "keys": ["auttavat"],
+    "translation": "to help / They help the neighbor in the garden.",
+    "note": ""
+  }
+]
