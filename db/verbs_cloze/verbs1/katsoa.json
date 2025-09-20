@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["Minä {} televisiota illalla."],
+    "keys": ["katson"],
+    "translation": "to watch, to look / I watch television in the evening."
+  },
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["Sinä {} kaunista maisemaa."],
+    "keys": ["katsot"],
+    "translation": "to watch, to look / You look at the beautiful scenery."
+  },
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["Hän {} taivasta ja tähtiä."],
+    "keys": ["katsoo"],
+    "translation": "to watch, to look / He/She looks at the sky and the stars."
+  },
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["Me {} elokuvaa yhdessä."],
+    "keys": ["katsomme"],
+    "translation": "to watch, to look / We watch a movie together."
+  },
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["Te {} museon maalauksia."],
+    "keys": ["katsotte"],
+    "translation": "to watch, to look / You (plural) look at the paintings in the museum."
+  },
+  {
+    "verb": "katsoa",
+    "image": "https://free-images.com/sm/b32f/man_looking_water_male.jpg",
+    "text": ["He {} urheilua televisiosta."],
+    "keys": ["katsovat"],
+    "translation": "to watch, to look / They watch sports on television."
+  }
+]

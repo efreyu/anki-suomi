@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["Minä {} sinua menemästä ulos myöhään."],
+    "keys": ["kiellän"],
+    "translation": "to forbid, to deny / I forbid you from going out late."
+  },
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["Sinä {} lasta syömästä makeisia."],
+    "keys": ["kielät"],
+    "translation": "to forbid, to deny / You forbid the child from eating sweets."
+  },
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["Hän {} totuuden."],
+    "keys": ["kieltää"],
+    "translation": "to forbid, to deny / He/She denies the truth."
+  },
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["Me {} eläinten huonon kohtelun."],
+    "keys": ["kiellämme"],
+    "translation": "to forbid, to deny / We forbid mistreatment of animals."
+  },
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["Te {} oppilaita puhumasta tunnilla."],
+    "keys": ["kielätte"],
+    "translation": "to forbid, to deny / You (plural) forbid the students from talking in class."
+  },
+  {
+    "verb": "kieltää",
+    "image": "https://free-images.com/sm/a322/portrayal_portrait_crying_cry.jpg",
+    "text": ["He {} syyllisyytensä."],
+    "keys": ["kieltävät"],
+    "translation": "to forbid, to deny / They deny their guilt."
+  }
+]

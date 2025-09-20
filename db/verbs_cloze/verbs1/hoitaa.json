@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Minä {} lasta kotona."],
+    "keys": ["hoidan"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / I take care of the child at home."
+  },
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Sinä {} puutarhaa kesällä."],
+    "keys": ["hoidat"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / You take care of the garden in the summer."
+  },
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Hän {} sairasta koiraa."],
+    "keys": ["hoitaa"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / He/She takes care of the sick dog."
+  },
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Me {} asioita kaupungissa."],
+    "keys": ["hoidamme"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / We handle errands in the city."
+  },
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["Te {} taloa yhdessä."],
+    "keys": ["hoidatte"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / You (plural) take care of the house together."
+  },
+  {
+    "verb": "hoitaa",
+    "image": "https://free-images.com/sm/3c4c/monkey_take_care_animal.jpg",
+    "text": ["He {} vanhempiaan rakkaudella."],
+    "keys": ["hoitavat"],
+    "translation": "to take care of, to handle, to manage, to treat (medically) / They take care of their parents with love."
+  }
+]

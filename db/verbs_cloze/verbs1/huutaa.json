@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["Minä {} kovalla äänellä."],
+    "keys": ["huudan"],
+    "translation": "to shout, to yell / I shout loudly."
+  },
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["Sinä {} apua."],
+    "keys": ["huudat"],
+    "translation": "to shout, to yell / You shout for help."
+  },
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["Hän {} lasten nimiä."],
+    "keys": ["huutaa"],
+    "translation": "to shout, to yell / He/She shouts the children's names."
+  },
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["Me {} yhdessä stadionilla."],
+    "keys": ["huudamme"],
+    "translation": "to shout, to yell / We shout together at the stadium."
+  },
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["Te {} laulun sanat."],
+    "keys": ["huudatte"],
+    "translation": "to shout, to yell / You (plural) shout the lyrics of the song."
+  },
+  {
+    "verb": "huutaa",
+    "image": "https://free-images.com/sm/4501/megaphone_shout_action_call.jpg",
+    "text": ["He {} ilosta ja nauravat."],
+    "keys": ["huutavat"],
+    "translation": "to shout, to yell / They shout with joy and laugh."
+  }
+]

@@ -4,47 +4,41 @@
     "image": "",
     "text": ["Minä {} autoa joka päivä."],
     "keys": ["ajan"],
-    "translation": "to drive, to ride / I drive a car every day.",
-    "note": ""
+    "translation": "to drive, to ride / I drive a car every day."
   },
   {
     "verb": "ajaa",
     "image": "",
     "text": ["Sinä {} polkupyörällä kouluun."],
     "keys": ["ajat"],
-    "translation": "to drive, to ride / You ride a bicycle to school.",
-    "note": ""
+    "translation": "to drive, to ride / You ride a bicycle to school."
   },
   {
     "verb": "ajaa",
     "image": "",
     "text": ["Hän {} bussilla töihin."],
     "keys": ["ajaa"],
-    "translation": "to drive, to ride / He/She goes to work by bus.",
-    "note": ""
+    "translation": "to drive, to ride / He/She goes to work by bus."
   },
   {
     "verb": "ajaa",
     "image": "",
     "text": ["Me {} moottoripyörällä kesällä."],
     "keys": ["ajamme"],
-    "translation": "to drive, to ride / We ride a motorcycle in the summer.",
-    "note": ""
+    "translation": "to drive, to ride / We ride a motorcycle in the summer."
   },
   {
     "verb": "ajaa",
     "image": "",
     "text": ["Te {} veneellä saarille."],
     "keys": ["ajatte"],
-    "translation": "to drive, to ride / You (plural) go by boat to the islands.",
-    "note": ""
+    "translation": "to drive, to ride / You (plural) go by boat to the islands."
   },
   {
     "verb": "ajaa",
     "image": "",
     "text": ["He {} taksilla lentokentälle."],
     "keys": ["ajavat"],
-    "translation": "to drive, to ride / They go by taxi to the airport.",
-    "note": ""
+    "translation": "to drive, to ride / They go by taxi to the airport."
   }
 ]

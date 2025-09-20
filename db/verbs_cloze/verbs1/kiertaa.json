@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["Minä {} kaupungin keskustan kävellen."],
+    "keys": ["kierrän"],
+    "translation": "to turn, to rotate, to go around / I walk around the city center."
+  },
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["Sinä {} esteen tiellä."],
+    "keys": ["kierrät"],
+    "translation": "to turn, to rotate, to go around / You go around an obstacle on the road."
+  },
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["Hän {} järven pyörällä."],
+    "keys": ["kiertää"],
+    "translation": "to turn, to rotate, to go around / He/She goes around the lake by bike."
+  },
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["Me {} Suomea autolla lomalla."],
+    "keys": ["kierrämme"],
+    "translation": "to turn, to rotate, to go around / We tour around Finland by car on holiday."
+  },
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["Te {} säännön laittamalla toisen ratkaisun."],
+    "keys": ["kierrätte"],
+    "translation": "to turn, to rotate, to go around / You (plural) bypass the rule by making another solution."
+  },
+  {
+    "verb": "kiertää",
+    "image": "https://free-images.com/sm/d1e1/walking_dog_walk_dog.jpg",
+    "text": ["He {} maailmaa monta vuotta."],
+    "keys": ["kiertävät"],
+    "translation": "to turn, to rotate, to go around / They travel around the world for many years."
+  }
+]
