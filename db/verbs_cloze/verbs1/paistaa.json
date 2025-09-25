@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Minä {} kananmunia pannulla."],
+    "keys": ["paistan"],
+    "translation": "to fry, to bake / I fry eggs in the pan."
+  },
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Sinä {} kalaa illalliseksi."],
+    "keys": ["paistat"],
+    "translation": "to fry, to bake / You fry fish for dinner."
+  },
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Hän {} leipää uunissa."],
+    "keys": ["paistaa"],
+    "translation": "to bake, to fry / He/She bakes bread in the oven."
+  },
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Me {} lettuja viikonloppuna."],
+    "keys": ["paistamme"],
+    "translation": "to fry, to bake / We fry pancakes on the weekend."
+  },
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Te {} perunoita voissa."],
+    "keys": ["paistatte"],
+    "translation": "to fry / You (plural) fry potatoes in butter."
+  },
+  {
+    "verb": "paistaa",
+    "image": "https://free-images.com/sm/d2e1/fry_potatoes_pan_cook.jpg",
+    "text": ["Aurinko {} taivaalla kirkkaasti."],
+    "keys": ["paistaa"],
+    "translation": "to shine / The sun shines brightly in the sky."
+  }
+]

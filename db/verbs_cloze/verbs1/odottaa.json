@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["Minä {} bussia pysäkillä."],
+    "keys": ["odotan"],
+    "translation": "to wait / I wait for the bus at the stop."
+  },
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["Sinä {} ystävää kahvilassa."],
+    "keys": ["odotat"],
+    "translation": "to wait / You wait for a friend in the café."
+  },
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["Hän {} kirjettä postissa."],
+    "keys": ["odottaa"],
+    "translation": "to wait / He/She waits for a letter in the mail."
+  },
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["Me {} opettajaa luokassa."],
+    "keys": ["odotamme"],
+    "translation": "to wait / We wait for the teacher in the classroom."
+  },
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["Te {} vuoroanne lääkärissä."],
+    "keys": ["odotatte"],
+    "translation": "to wait / You (plural) wait for your turn at the doctor’s office."
+  },
+  {
+    "verb": "odottaa",
+    "image": "https://free-images.com/sm/7eec/wait_sign_waiting_icon.jpg",
+    "text": ["He {} kevättä ja lämpöä."],
+    "keys": ["odottavat"],
+    "translation": "to wait / They wait for spring and warmth."
+  }
+]

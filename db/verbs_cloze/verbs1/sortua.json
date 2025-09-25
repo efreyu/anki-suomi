@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Minä {} kiusaukseen syödä makeisia."],
+    "keys": ["sorrun"],
+    "translation": "to collapse, to give in / I give in to the temptation to eat sweets."
+  },
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Sinä {} turhiin valituksiin."],
+    "keys": ["sorrut"],
+    "translation": "to collapse, to give in / You give in to unnecessary complaints."
+  },
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Hän {} maahan väsymyksestä."],
+    "keys": ["sortuu"],
+    "translation": "to collapse, to give in / He/She collapses to the ground from exhaustion."
+  },
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Me {} vanhoihin virheisiin."],
+    "keys": ["sorrumme"],
+    "translation": "to collapse, to give in / We give in to old mistakes."
+  },
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Te {} houkutuksiin helposti."],
+    "keys": ["sorrutte"],
+    "translation": "to collapse, to give in / You (plural) give in to temptations easily."
+  },
+  {
+    "verb": "sortua",
+    "image": "https://free-images.com/sm/b2fa/stock_market_collapse_stock.jpg",
+    "text": ["Talo {} myrskyssä."],
+    "keys": ["sortuu"],
+    "translation": "to collapse / The house collapses in the storm."
+  }
+]

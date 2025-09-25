@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["Minä {} ruokaa illalla."],
+    "keys": ["laitan"],
+    "translation": "to put, to set, to cook / I cook food in the evening."
+  },
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["Sinä {} kirjan pöydälle."],
+    "keys": ["laitat"],
+    "translation": "to put, to set / You put the book on the table."
+  },
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["Hän {} oven kiinni."],
+    "keys": ["laittaa"],
+    "translation": "to put, to set / He/She closes (puts) the door shut."
+  },
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["Me {} viestin opettajalle."],
+    "keys": ["laitamme"],
+    "translation": "to put, to set, to send / We send a message to the teacher."
+  },
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["Te {} tavarat paikoilleen."],
+    "keys": ["laitatte"],
+    "translation": "to put, to set / You (plural) put the things in their place."
+  },
+  {
+    "verb": "laittaa",
+    "image": "https://img.freepik.com/premium-vector/ballot-concept-background-isometric-illustration-ballot-vector-concept-background-web-design_96318-523.jpg",
+    "text": ["He {} rahaa säästöön."],
+    "keys": ["laittavat"],
+    "translation": "to put, to set / They put money into savings."
+  }
+]

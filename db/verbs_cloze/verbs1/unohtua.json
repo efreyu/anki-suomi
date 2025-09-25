@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Minulta {} kirje laukkuun."],
+    "keys": ["unohtuu"],
+    "translation": "to be forgotten / A letter gets forgotten in my bag."
+  },
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Sinulta {} avaimet pöydälle."],
+    "keys": ["unohtuvat"],
+    "translation": "to be forgotten / Your keys are forgotten on the table."
+  },
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Häneltä {} tehtävät kokonaan."],
+    "keys": ["unohtuvat"],
+    "translation": "to be forgotten / His/Her tasks are completely forgotten."
+  },
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Meiltä {} tärkeä asia."],
+    "keys": ["unohtuu"],
+    "translation": "to be forgotten / An important matter is forgotten by us."
+  },
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Teiltä {} nimet mielestä."],
+    "keys": ["unohtuvat"],
+    "translation": "to be forgotten / Names are forgotten from your memory."
+  },
+  {
+    "verb": "unohtua",
+    "image": "https://free-images.com/sm/d365/ghost_town_forgotten_place.jpg",
+    "text": ["Heiltä {} kirjat kouluun."],
+    "keys": ["unohtuvat"],
+    "translation": "to be forgotten / Their books are forgotten at school."
+  }
+]

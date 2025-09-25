@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["Minä {} ystävää ongelmassa."],
+    "keys": ["neuvon"],
+    "translation": "to advise, to give advice / I advise a friend with a problem."
+  },
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["Sinä {} turistia kadulla."],
+    "keys": ["neuvot"],
+    "translation": "to advise, to give advice / You advise a tourist on the street."
+  },
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["Hän {} lapsia koulutehtävissä."],
+    "keys": ["neuvoo"],
+    "translation": "to advise, to give advice / He/She advises the children with school tasks."
+  },
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["Me {} asiakkaita kaupassa."],
+    "keys": ["neuvomme"],
+    "translation": "to advise, to give advice / We advise customers in the shop."
+  },
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["Te {} opiskelijoita kirjallisuudessa."],
+    "keys": ["neuvotte"],
+    "translation": "to advise, to give advice / You (plural) advise students in literature."
+  },
+  {
+    "verb": "neuvoa",
+    "image": "https://free-images.com/sm/1761/toilet_sit_asia_poster.jpg",
+    "text": ["He {} johtajaa päätöksessä."],
+    "keys": ["neuvovat"],
+    "translation": "to advise, to give advice / They advise the manager in the decision."
+  }
+]

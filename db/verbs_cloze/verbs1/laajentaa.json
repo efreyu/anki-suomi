@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["Minä {} yritystäni ulkomaille."],
+    "keys": ["laajennan"],
+    "translation": "to expand, to extend / I expand my business abroad."
+  },
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["Sinä {} tietojasi opiskele­malla lisää."],
+    "keys": ["laajennat"],
+    "translation": "to expand, to extend / You expand your knowledge by studying more."
+  },
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["Hän {} taloa rakentamalla uuden huoneen."],
+    "keys": ["laajentaa"],
+    "translation": "to expand, to extend / He/She expands the house by building a new room."
+  },
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["Me {} toimintaa eri kaupunkeihin."],
+    "keys": ["laajennamme"],
+    "translation": "to expand, to extend / We expand the activity to different cities."
+  },
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["Te {} näkökulmaa keskustelussa."],
+    "keys": ["laajennatte"],
+    "translation": "to expand, to extend / You (plural) expand the perspective in the discussion."
+  },
+  {
+    "verb": "laajentaa",
+    "image": "https://free-images.com/sm/88b8/magnifying_glass_map_geography.jpg",
+    "text": ["He {} tietä liikenteen vuoksi."],
+    "keys": ["laajentavat"],
+    "translation": "to expand, to extend / They widen the road because of traffic."
+  }
+]

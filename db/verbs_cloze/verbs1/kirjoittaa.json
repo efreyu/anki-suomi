@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["Minä {} kirjettä ystävälle."],
+    "keys": ["kirjoitan"],
+    "translation": "to write / I write a letter to a friend."
+  },
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["Sinä {} muistiinpanoja vihkoon."],
+    "keys": ["kirjoitat"],
+    "translation": "to write / You write notes in the notebook."
+  },
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["Hän {} artikkelia lehdelle."],
+    "keys": ["kirjoittaa"],
+    "translation": "to write / He/She writes an article for the newspaper."
+  },
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["Me {} sähköpostia opettajalle."],
+    "keys": ["kirjoitamme"],
+    "translation": "to write / We write an email to the teacher."
+  },
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["Te {} runoa yhdessä."],
+    "keys": ["kirjoitatte"],
+    "translation": "to write / You (plural) write a poem together."
+  },
+  {
+    "verb": "kirjoittaa",
+    "image": "https://free-images.com/sm/d630/writing_write_person_paperwork.jpg",
+    "text": ["He {} kirjaa monta kuukautta."],
+    "keys": ["kirjoittavat"],
+    "translation": "to write / They write a book for many months."
+  }
+]

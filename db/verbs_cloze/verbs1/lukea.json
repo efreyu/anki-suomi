@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["Minä {} kirjaa illalla."],
+    "keys": ["luen"],
+    "translation": "to read / I read a book in the evening."
+  },
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["Sinä {} lehteä aamulla."],
+    "keys": ["luet"],
+    "translation": "to read / You read a newspaper in the morning."
+  },
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["Hän {} uutisia puhelimesta."],
+    "keys": ["lukee"],
+    "translation": "to read / He/She reads the news on the phone."
+  },
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["Me {} runoja koulussa."],
+    "keys": ["luemme"],
+    "translation": "to read / We read poems at school."
+  },
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["Te {} ääneen tarinaa."],
+    "keys": ["luette"],
+    "translation": "to read / You (plural) read a story aloud."
+  },
+  {
+    "verb": "lukea",
+    "image": "https://free-images.com/sm/377e/read_book_lecture_read.jpg",
+    "text": ["He {} tenttiin kirjastossa."],
+    "keys": ["lukevat"],
+    "translation": "to study, to read / They study (read) for the exam in the library."
+  }
+]

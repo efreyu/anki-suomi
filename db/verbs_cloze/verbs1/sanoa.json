@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["Minä {} totuuden ystävälleni."],
+    "keys": ["sanon"],
+    "translation": "to say, to tell / I say the truth to my friend."
+  },
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["Sinä {} hyvän huomenta opettajalle."],
+    "keys": ["sanot"],
+    "translation": "to say, to tell / You say good morning to the teacher."
+  },
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["Hän {} hauskan vitsin."],
+    "keys": ["sanoo"],
+    "translation": "to say, to tell / He/She tells a funny joke."
+  },
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["Me {} mielipiteemme rohkeasti."],
+    "keys": ["sanomme"],
+    "translation": "to say, to tell / We say our opinion bravely."
+  },
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["Te {} saman asian monta kertaa."],
+    "keys": ["sanotte"],
+    "translation": "to say, to tell / You (plural) say the same thing many times."
+  },
+  {
+    "verb": "sanoa",
+    "image": "https://free-images.com/sm/c111/man_microphone_leading_guy.jpg",
+    "text": ["He {} kiitokset juhlan lopuksi."],
+    "keys": ["sanovat"],
+    "translation": "to say, to tell / They say thanks at the end of the celebration."
+  }
+]

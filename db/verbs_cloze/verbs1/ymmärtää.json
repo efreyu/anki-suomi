@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["Minä {} sinua hyvin."],
+    "keys": ["ymmärrän"],
+    "translation": "to understand / I understand you well."
+  },
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["Sinä {} asian nopeasti."],
+    "keys": ["ymmärrät"],
+    "translation": "to understand / You understand the matter quickly."
+  },
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["Hän {} opettajan selityksen."],
+    "keys": ["ymmärtää"],
+    "translation": "to understand / He/She understands the teacher’s explanation."
+  },
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["Me {} ongelman yhdessä."],
+    "keys": ["ymmärrämme"],
+    "translation": "to understand / We understand the problem together."
+  },
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["Te {} tilanteen vaikeuden."],
+    "keys": ["ymmärrätte"],
+    "translation": "to understand / You (plural) understand the difficulty of the situation."
+  },
+  {
+    "verb": "ymmärtää",
+    "image": "https://free-images.com/sm/3259/child_ok_red_children.jpg",
+    "text": ["He {} monia kieliä."],
+    "keys": ["ymmärtävät"],
+    "translation": "to understand / They understand many languages."
+  }
+]

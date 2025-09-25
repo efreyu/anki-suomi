@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["Minä {} suomea vähän."],
+    "keys": ["puhun"],
+    "translation": "to speak, to talk / I speak a little Finnish."
+  },
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["Sinä {} liian nopeasti."],
+    "keys": ["puhut"],
+    "translation": "to speak, to talk / You speak too fast."
+  },
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["Hän {} englannin kieltä hyvin."],
+    "keys": ["puhuu"],
+    "translation": "to speak, to talk / He/She speaks English well."
+  },
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["Me {} opettajan kanssa koulussa."],
+    "keys": ["puhumme"],
+    "translation": "to speak, to talk / We talk with the teacher at school."
+  },
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["Te {} paljon puhelimessa."],
+    "keys": ["puhutte"],
+    "translation": "to speak, to talk / You (plural) talk a lot on the phone."
+  },
+  {
+    "verb": "puhua",
+    "image": "https://free-images.com/sm/57c2/speak_talk_microphone_tin.jpg",
+    "text": ["He {} politiikasta yhdessä."],
+    "keys": ["puhuvat"],
+    "translation": "to speak, to talk / They talk about politics together."
+  }
+]

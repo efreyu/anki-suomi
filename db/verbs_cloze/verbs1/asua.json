@@ -1,7 +1,7 @@
 [
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["Minä {} Helsingissä."],
     "keys": ["asun"],
     "translation": "to live / I live in Helsinki.",
@@ -9,7 +9,7 @@
   },
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["Sinä {} pienessä kylässä."],
     "keys": ["asut"],
     "translation": "to live / You live in a small village.",
@@ -17,7 +17,7 @@
   },
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["Hän {} kerrostalossa."],
     "keys": ["asuu"],
     "translation": "to live / He/She lives in an apartment building.",
@@ -25,7 +25,7 @@
   },
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["Me {} samassa kaupungissa."],
     "keys": ["asumme"],
     "translation": "to live / We live in the same city.",
@@ -33,7 +33,7 @@
   },
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["Te {} lähellä keskustaa."],
     "keys": ["asutte"],
     "translation": "to live / You (plural) live near the city center.",
@@ -41,7 +41,7 @@
   },
   {
     "verb": "asua",
-    "image": "",
+    "image": "https://free-images.com/sm/a868/plant_grow_background_green.jpg",
     "text": ["He {} maaseudulla."],
     "keys": ["asuvat"],
     "translation": "to live / They live in the countryside.",

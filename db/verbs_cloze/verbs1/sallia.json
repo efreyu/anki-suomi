@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["Minä {} sinun tulla mukaan."],
+    "keys": ["sallin"],
+    "translation": "to allow, to permit / I allow you to come along."
+  },
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["Sinä {} lasten leikkiä ulkona."],
+    "keys": ["sallit"],
+    "translation": "to allow, to permit / You allow the children to play outside."
+  },
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["Hän {} keskustelun jatkuvan."],
+    "keys": ["sallii"],
+    "translation": "to allow, to permit / He/She allows the discussion to continue."
+  },
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["Me {} eri mielipiteitä."],
+    "keys": ["sallimme"],
+    "translation": "to allow, to permit / We allow different opinions."
+  },
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["Te {} opiskelijoiden käyttää sanakirjaa."],
+    "keys": ["sallitte"],
+    "translation": "to allow, to permit / You (plural) allow the students to use a dictionary."
+  },
+  {
+    "verb": "sallia",
+    "image": "https://free-images.com/sm/c838/oliverfleas.jpg",
+    "text": ["He {} vieraita taloonsa."],
+    "keys": ["sallivat"],
+    "translation": "to allow, to permit / They allow guests into their house."
+  }
+]

@@ -35,7 +35,7 @@ generators = [
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog1.json', 'Finnish::Lessons::Lesson27::Olga', 'Finnish_Lessons27_Olga.apkg']},
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog2.json', 'Finnish::Lessons::Lesson27::Alex', 'Finnish_Lessons27_Alex.apkg']},
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog3.json', 'Finnish::Lessons::Lesson27::Pedro', 'Finnish_Lessons27_Pedro.apkg']},
-    {"name": "cloze_verbs", "call": gen_cloze_verbs.gen_verbs_cloze, "expected": True, "args": [987654321, 'db/verbs_cloze/verbs1.json', 'Finnish::Verbtypes Cloze::Verbtype1', 'Finnish_Verbs_Cloze_1.apkg']},
+    {"name": "cloze_verbs", "call": gen_cloze_verbs.gen_verbs_cloze, "expected": True, "args": [987654321, 'db/verbs_cloze/verbs1/*.json', 'Finnish::Verbtypes Cloze::Verbtype1', 'Finnish_Verbs_Cloze_1.apkg']},
 ]
 
 def main():

@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["Minä {} äidille joka ilta."],
+    "keys": ["soitan"],
+    "translation": "to call, to play (an instrument) / I call my mother every evening."
+  },
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["Sinä {} pianoa hyvin."],
+    "keys": ["soitat"],
+    "translation": "to call, to play (an instrument) / You play the piano well."
+  },
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["Hän {} ystävälle puhelimella."],
+    "keys": ["soittaa"],
+    "translation": "to call / He/She calls a friend on the phone."
+  },
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["Me {} kitaraa yhdessä."],
+    "keys": ["soitamme"],
+    "translation": "to play (an instrument) / We play the guitar together."
+  },
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["Te {} lääkärille heti."],
+    "keys": ["soitatte"],
+    "translation": "to call / You (plural) call the doctor immediately."
+  },
+  {
+    "verb": "soittaa",
+    "image": "https://free-images.com/sm/0c14/guitar_acoustic_guitar_547154.jpg",
+    "text": ["He {} rumpuja bändissä."],
+    "keys": ["soittavat"],
+    "translation": "to play (an instrument) / They play the drums in a band."
+  }
+]

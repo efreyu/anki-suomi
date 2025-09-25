@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["Minä {} avaimet kotiin."],
+    "keys": ["unohdan"],
+    "translation": "to forget / I forget the keys at home."
+  },
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["Sinä {} tehdä läksyt."],
+    "keys": ["unohdat"],
+    "translation": "to forget / You forget to do the homework."
+  },
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["Hän {} tapaamisen tänään."],
+    "keys": ["unohtaa"],
+    "translation": "to forget / He/She forgets the meeting today."
+  },
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["Me {} koko asian nopeasti."],
+    "keys": ["unohdamme"],
+    "translation": "to forget / We forget the whole matter quickly."
+  },
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["Te {} vanhan ystävänne nimen."],
+    "keys": ["unohdatte"],
+    "translation": "to forget / You (plural) forget your old friend’s name."
+  },
+  {
+    "verb": "unohtaa",
+    "image": "https://free-images.com/sm/6b39/damn_forgot_toilet_paper.jpg",
+    "text": ["He {} tuoda lahjan juhliin."],
+    "keys": ["unohtavat"],
+    "translation": "to forget / They forget to bring a gift to the party."
+  }
+]

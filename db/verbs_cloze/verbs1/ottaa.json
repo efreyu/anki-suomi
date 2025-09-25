@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["Minä {} kirjan hyllystä."],
+    "keys": ["otan"],
+    "translation": "to take / I take a book from the shelf."
+  },
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["Sinä {} omenan pöydältä."],
+    "keys": ["otat"],
+    "translation": "to take / You take an apple from the table."
+  },
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["Hän {} valokuvan matkasta."],
+    "keys": ["ottaa"],
+    "translation": "to take / He/She takes a photo of the trip."
+  },
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["Me {} kahvia aamulla."],
+    "keys": ["otamme"],
+    "translation": "to take, to have / We have coffee in the morning."
+  },
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["Te {} taksin asemalta."],
+    "keys": ["otatte"],
+    "translation": "to take / You (plural) take a taxi from the station."
+  },
+  {
+    "verb": "ottaa",
+    "image": "https://free-images.com/sm/c90b/hand_nail_stone_sand.jpg",
+    "text": ["He {} lahjan vastaan."],
+    "keys": ["ottavat"],
+    "translation": "to take / They accept (take) the gift."
+  }
+]

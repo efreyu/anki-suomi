@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["Minä {} uuteen opiskelukaveriin."],
+    "keys": ["rakastun"],
+    "translation": "to fall in love / I fall in love with a new classmate."
+  },
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["Sinä {} ensi silmäyksellä."],
+    "keys": ["rakastut"],
+    "translation": "to fall in love / You fall in love at first sight."
+  },
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["Hän {} naapuriinsa."],
+    "keys": ["rakastuu"],
+    "translation": "to fall in love / He/She falls in love with their neighbor."
+  },
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["Me {} samaan ideaan heti."],
+    "keys": ["rakastumme"],
+    "translation": "to fall in love / We fall in love with the same idea immediately."
+  },
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["Te {} helposti uusiin paikkoihin."],
+    "keys": ["rakastutte"],
+    "translation": "to fall in love / You (plural) fall in love easily with new places."
+  },
+  {
+    "verb": "rakastua",
+    "image": "https://free-images.com/sm/2de3/couple_love_people_romantic.jpg",
+    "text": ["He {} toisiinsa kesälomalla."],
+    "keys": ["rakastuvat"],
+    "translation": "to fall in love / They fall in love with each other during the summer holiday."
+  }
+]

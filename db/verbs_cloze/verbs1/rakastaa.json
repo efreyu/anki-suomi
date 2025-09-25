@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["Minä {} perhettäni."],
+    "keys": ["rakastan"],
+    "translation": "to love / I love my family."
+  },
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["Sinä {} ystävääsi paljon."],
+    "keys": ["rakastat"],
+    "translation": "to love / You love your friend a lot."
+  },
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["Hän {} musiikkia ja tanssia."],
+    "keys": ["rakastaa"],
+    "translation": "to love / He/She loves music and dancing."
+  },
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["Me {} matkustamista yhdessä."],
+    "keys": ["rakastamme"],
+    "translation": "to love / We love traveling together."
+  },
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["Te {} rauhaa ja hiljaisuutta."],
+    "keys": ["rakastatte"],
+    "translation": "to love / You (plural) love peace and quiet."
+  },
+  {
+    "verb": "rakastaa",
+    "image": "https://free-images.com/sm/fc98/love_my_love_necklace.jpg",
+    "text": ["He {} kotimaataan syvästi."],
+    "keys": ["rakastavat"],
+    "translation": "to love / They love their homeland deeply."
+  }
+]

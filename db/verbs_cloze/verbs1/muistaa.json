@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["Minä {} laskun heti."],
+    "keys": ["makson"],
+    "translation": "to pay / I pay the bill immediately."
+  },
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["Sinä {} kahvin kahvilassa."],
+    "keys": ["maksat"],
+    "translation": "to pay / You pay for the coffee in the café."
+  },
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["Hän {} ruoan kaupassa."],
+    "keys": ["maksaa"],
+    "translation": "to pay / He/She pays for the food in the store."
+  },
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["Me {} liput konserttiin."],
+    "keys": ["maksamme"],
+    "translation": "to pay / We pay for the tickets to the concert."
+  },
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["Te {} vuokran ajoissa."],
+    "keys": ["maksatte"],
+    "translation": "to pay / You (plural) pay the rent on time."
+  },
+  {
+    "verb": "maksaa",
+    "image": "https://free-images.com/sm/2021/meeting_memo_time_time_1.jpg",
+    "text": ["He {} verot joka vuosi."],
+    "keys": ["maksavat"],
+    "translation": "to pay / They pay taxes every year."
+  }
+]

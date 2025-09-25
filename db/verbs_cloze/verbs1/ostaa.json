@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["Minä {} uuden takin kaupasta."],
+    "keys": ["ostan"],
+    "translation": "to buy / I buy a new coat from the store."
+  },
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["Sinä {} kahvia torilta."],
+    "keys": ["ostat"],
+    "translation": "to buy / You buy coffee at the market."
+  },
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["Hän {} lipun konserttiin."],
+    "keys": ["ostaa"],
+    "translation": "to buy / He/She buys a ticket for the concert."
+  },
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["Me {} vihanneksia torilta."],
+    "keys": ["ostamme"],
+    "translation": "to buy / We buy vegetables at the market."
+  },
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["Te {} talon maaseudulta."],
+    "keys": ["ostat­te"],
+    "translation": "to buy / You (plural) buy a house in the countryside."
+  },
+  {
+    "verb": "ostaa",
+    "image": "https://free-images.com/sm/dd9c/egypt_called_rothmans_fruit.jpg",
+    "text": ["He {} kirjoja kirjakaupasta."],
+    "keys": ["ostavat"],
+    "translation": "to buy / They buy books from the bookstore."
+  }
+]

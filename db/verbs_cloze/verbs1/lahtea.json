@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["Minä {} kouluun aikaisin aamulla."],
+    "keys": ["lähden"],
+    "translation": "to leave, to depart / I leave for school early in the morning."
+  },
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["Sinä {} matkalle viikonloppuna."],
+    "keys": ["lähdet"],
+    "translation": "to leave, to depart / You leave for a trip on the weekend."
+  },
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["Hän {} bussilla töihin."],
+    "keys": ["lähtee"],
+    "translation": "to leave, to depart / He/She leaves for work by bus."
+  },
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["Me {} ulos syömään illalla."],
+    "keys": ["lähdemme"],
+    "translation": "to leave, to depart / We go out to eat in the evening."
+  },
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["Te {} lomalle huomenna."],
+    "keys": ["lähdette"],
+    "translation": "to leave, to depart / You (plural) leave for vacation tomorrow."
+  },
+  {
+    "verb": "lähteä",
+    "image": "https://img.freepik.com/free-vector/businessman-running-exit_23-2147507057.jpg",
+    "text": ["He {} junalla Helsinkiin."],
+    "keys": ["lähtevät"],
+    "translation": "to leave, to depart / They leave for Helsinki by train."
+  }
+]

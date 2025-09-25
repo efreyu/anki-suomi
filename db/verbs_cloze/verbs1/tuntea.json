@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["Minä {} tämän kaupungin hyvin."],
+    "keys": ["tunnen"],
+    "translation": "to know, to be familiar with / I know this city well."
+  },
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["Sinä {} hänet lapsuudesta asti."],
+    "keys": ["tunnet"],
+    "translation": "to know, to be familiar with / You know him/her since childhood."
+  },
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["Hän {} suurta iloa."],
+    "keys": ["tuntee"],
+    "translation": "to feel, to know / He/She feels great joy."
+  },
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["Me {} monta ihmistä täällä."],
+    "keys": ["tunnemme"],
+    "translation": "to know, to be familiar with / We know many people here."
+  },
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["Te {} paikan hyvin tarkasti."],
+    "keys": ["tunnette"],
+    "translation": "to know, to be familiar with / You (plural) know the place very well."
+  },
+  {
+    "verb": "tuntea",
+    "image": "https://free-images.com/sm/b11f/cat_happy_hands_consensus.jpg",
+    "text": ["He {} surua uutisen jälkeen."],
+    "keys": ["tuntevat"],
+    "translation": "to feel / They feel sorrow after the news."
+  }
+]

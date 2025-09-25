@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["Minä {} selitystä tilanteesta."],
+    "keys": ["vaadin"],
+    "translation": "to demand, to require / I demand an explanation of the situation."
+  },
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["Sinä {} parempaa palvelua."],
+    "keys": ["vaadit"],
+    "translation": "to demand, to require / You demand better service."
+  },
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["Hän {} paljon työtä projektissa."],
+    "keys": ["vaatii"],
+    "translation": "to demand, to require / He/She requires a lot of work in the project."
+  },
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["Me {} muutosta sääntöihin."],
+    "keys": ["vaadimme"],
+    "translation": "to demand, to require / We demand a change in the rules."
+  },
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["Te {} lisäaikaa tehtävälle."],
+    "keys": ["vaaditte"],
+    "translation": "to demand, to require / You (plural) demand more time for the task."
+  },
+  {
+    "verb": "vaatia",
+    "image": "https://free-images.com/sm/7446/angry_man_point_finger.jpg",
+    "text": ["He {} oikeutta ja tasa-arvoa."],
+    "keys": ["vaativat"],
+    "translation": "to demand, to require / They demand justice and equality."
+  }
+]

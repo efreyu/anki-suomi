@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["Minä {} opettajalta kysymyksen."],
+    "keys": ["kysyn"],
+    "translation": "to ask / I ask the teacher a question."
+  },
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["Sinä {} neuvoa ystävältä."],
+    "keys": ["kysyt"],
+    "translation": "to ask / You ask advice from a friend."
+  },
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["Hän {} tien nimeä ohikulkijalta."],
+    "keys": ["kysyy"],
+    "translation": "to ask / He/She asks the passerby the name of the street."
+  },
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["Me {} lupaa vanhemmilta."],
+    "keys": ["kysymme"],
+    "translation": "to ask / We ask permission from our parents."
+  },
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["Te {} hintaa kaupassa."],
+    "keys": ["kysytte"],
+    "translation": "to ask / You (plural) ask the price in the store."
+  },
+  {
+    "verb": "kysyä",
+    "image": "https://free-images.com/sm/3bf3/2015_08_06_uae_6.jpg",
+    "text": ["He {} paljon kysymyksiä kokouksessa."],
+    "keys": ["kysyvät"],
+    "translation": "to ask / They ask many questions at the meeting."
+  }
+]

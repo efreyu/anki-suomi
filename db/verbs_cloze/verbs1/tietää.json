@@ -1,0 +1,44 @@
+[
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["Minä {} vastauksen kysymykseen."],
+    "keys": ["tiedän"],
+    "translation": "to know / I know the answer to the question."
+  },
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["Sinä {} oikean tien kotiin."],
+    "keys": ["tiedät"],
+    "translation": "to know / You know the right way home."
+  },
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["Hän {} totuuden asiasta."],
+    "keys": ["tietää"],
+    "translation": "to know / He/She knows the truth about the matter."
+  },
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["Me {} suunnitelman yksityiskohdat."],
+    "keys": ["tiedämme"],
+    "translation": "to know / We know the details of the plan."
+  },
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["Te {} paljon historiasta."],
+    "keys": ["tiedätte"],
+    "translation": "to know / You (plural) know a lot about history."
+  },
+  {
+    "verb": "tietää",
+    "image": "https://free-images.com/sm/c246/psychology_head_thoughts_males.jpg",
+    "text": ["He {} mitä tehdä seuraavaksi."],
+    "keys": ["tietävät"],
+    "translation": "to know / They know what to do next."
+  }
+]

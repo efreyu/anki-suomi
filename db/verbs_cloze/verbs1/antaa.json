@@ -1,7 +1,7 @@
 [
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["Minä {} sinulle lahjan."],
     "keys": ["annan"],
     "translation": "to give / I give you a gift.",
@@ -9,7 +9,7 @@
   },
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["Sinä {} koiralle ruokaa."],
     "keys": ["annat"],
     "translation": "to give / You give food to the dog.",
@@ -17,7 +17,7 @@
   },
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["Hän {} ystävälleen kirjan."],
     "keys": ["antaa"],
     "translation": "to give / He/She gives a book to a friend.",
@@ -25,7 +25,7 @@
   },
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["Me {} lapsille makeisia."],
     "keys": ["annamme"],
     "translation": "to give / We give candy to the children.",
@@ -33,7 +33,7 @@
   },
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["Te {} minulle neuvoja."],
     "keys": ["annatte"],
     "translation": "to give / You (plural) give me advice.",
@@ -41,7 +41,7 @@
   },
   {
     "verb": "antaa",
-    "image": "",
+    "image": "https://free-images.com/sm/ea7b/give_accept_euro_10.jpg",
     "text": ["He {} opettajalle kukkia."],
     "keys": ["antavat"],
     "translation": "to give / They give flowers to the teacher.",
