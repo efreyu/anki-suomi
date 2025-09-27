@@ -6,6 +6,7 @@ from gtts.tts import gTTSError
 from PIL import Image
 import os
 import hashlib
+from pathlib import Path
 
 def sanitize_filename(filename):
     """Normalize and replace special characters for ASCII-safe filenames."""
@@ -53,3 +54,9 @@ def short_hash(text: str, length: int = 8) -> str:
 
     full_hash = hashlib.sha256(text.encode("utf-8")).hexdigest()
     return full_hash[:length]
+
+def load_text(path: str) -> str:
+    if not os.path.isfile(path):
+        raise FileNotFoundError(f"No such file: '{path}'")
+    with open(path, 'r', encoding='utf-8') as file:
+        return file.read()

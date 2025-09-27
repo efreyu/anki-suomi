@@ -11,6 +11,10 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
     # Create the model for the Anki cards
     model_id = 3414565112
 
+    front_html = utils.load_text('templates/verbs_cloze/front.html')
+    back_html = utils.load_text('templates/verbs_cloze/back.html')
+    css_text = utils.load_text('templates/verbs_cloze/styles.css')
+
     model = genanki.Model(
         model_id,
         'Verb Cloze with Image and Audio',
@@ -26,26 +30,11 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
         templates=[
             {
                 'name': 'Verb Conjugation Cloze Card',
-                'qfmt': """
-            <div style="text-align: center;">
-                <h2>{{Verb}}</h2><br>
-                {{#Image}}<div>{{Image}}</div>{{/Image}}<br>
-                <div>{{cloze:Text}}</div>
-            </div>
-            """,
-                'afmt': """
-            <div style="text-align: center;">
-                {{cloze:Text}}<br>
-                <br>
-                {{Translation}}<br>
-                <br>
-                {{Node}}<br>
-                {{Audio}}<br>
-                {{KPT}}
-            </div>
-            """,
+                'qfmt': front_html,
+                'afmt': back_html,
             },
         ],
+        css=css_text,
         model_type=genanki.Model.CLOZE
     )
 
@@ -66,6 +55,7 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
     verbs = []
 
     json_files = glob.glob(json_dir)
+    # json_files = json_files[:1]
     for json_file in json_files:
         print(f"Processing file: {json_file}")
 
