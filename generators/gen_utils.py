@@ -27,7 +27,7 @@ def generate_audio(text, filename, language='fi', retries=3, delay=5):
     attempt = 0
     while attempt < retries:
         try:
-            tts = gTTS(text, lang=language)
+            tts = gTTS(text, lang=language, slow=True)
             tts.save(filename)
             return  # Success, exit the function
         except (gTTSError, Exception) as e:

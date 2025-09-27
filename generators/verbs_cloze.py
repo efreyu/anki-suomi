@@ -55,7 +55,11 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
     verbs = []
 
     json_files = glob.glob(json_dir)
+    skip_media = False
+
+    # skip_media = True
     # json_files = json_files[:1]
+
     for json_file in json_files:
         print(f"Processing file: {json_file}")
 
@@ -70,7 +74,7 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
             sanitized_image_filename = ""
 
             # Handle optional image
-            if 'image' in verb_data:
+            if 'image' in verb_data and not skip_media:
                 image_url = verb_data['image']
                 if len(image_url):
                     sanitized_image_filename = os.path.basename(image_url)
@@ -91,10 +95,12 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
                 result_parts.append(txt.format(cloze))
 
             result = "<br/>".join(result_parts)
-            sanitized_audio_filename = utils.sanitize_filename(f"{verb}_{utils.short_hash(audio_parts, 8)}.mp3")
-            audio_path = os.path.join(media_folder, sanitized_audio_filename)
-            utils.generate_audio(audio_parts.strip(), audio_path)
-            media_files.append(audio_path)
+            sanitized_audio_filename = ""
+            if not skip_media:
+                sanitized_audio_filename = utils.sanitize_filename(f"{verb}_{utils.short_hash(audio_parts, 8)}.mp3")
+                audio_path = os.path.join(media_folder, sanitized_audio_filename)
+                utils.generate_audio(audio_parts.strip(), audio_path)
+                media_files.append(audio_path)
 
             note_field = ""
             if 'note' in verb_data:
@@ -113,7 +119,7 @@ def gen_verbs_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Verbs.a
                     translation,
                     note_field,
                     kpt_field,
-                    f"[sound:{sanitized_audio_filename}]",        # Audio
+                    f"[sound:{sanitized_audio_filename}]" if len(sanitized_audio_filename) > 0 else ""
                 ],
                 guid=utils.short_hash(audio_parts, 8)  # Unique identifier based on audio content
             )
