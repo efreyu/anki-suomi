@@ -1,7 +1,7 @@
 [
   {
     "verb": "auttaa",
-    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "image": "https://free-images.com/sm/5ba9/hands_writing_diary_journal.jpg",
     "text": ["Minä {} sinua läksyissä."],
     "keys": ["autan"],
     "translation": "to help / I help you with homework.",
@@ -9,7 +9,7 @@
   },
   {
     "verb": "auttaa",
-    "image": "https://free-images.com/sm/28b2/help_matches_red_background.jpg",
+    "image": "https://free-images.com/sm/7b34/hotel_room_double_bed.jpg",
     "text": ["Sinä {} minua siivoamaan huonetta."],
     "keys": ["autat"],
     "translation": "to help / You help me clean the room.",

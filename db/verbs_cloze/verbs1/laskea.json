@@ -1,42 +1,42 @@
 [
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/1d67/wallet_money_euro_purse.jpg",
     "text": ["Minä {} rahoja lompakossa."],
     "keys": ["lasken"],
     "translation": "to count, to calculate / I count money in the wallet."
   },
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/00f4/math_number_school_symbol.jpg",
     "text": ["Sinä {} matematiikan tehtävän nopeasti."],
     "keys": ["lasket"],
     "translation": "to count, to calculate / You calculate the math exercise quickly."
   },
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/e096/stairs_curve_stairs_steps.jpg",
     "text": ["Hän {} portaita alas."],
     "keys": ["laskee"],
     "translation": "to go down, to descend / He/She goes down the stairs."
   },
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/983a/boat_for_fishing_docked.jpg",
     "text": ["Me {} venettä veteen."],
     "keys": ["laskemme"],
     "translation": "to lower, to let down / We lower the boat into the water."
   },
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/cd9d/heating_temperature_controller_243276.jpg",
     "text": ["Te {} lämpötilaa huoneessa."],
     "keys": ["laskette"],
     "translation": "to lower, to reduce / You (plural) lower the temperature in the room."
   },
   {
     "verb": "laskea",
-    "image": "https://free-images.com/sm/2c8d/calculator_hand_calculate_count.jpg",
+    "image": "https://free-images.com/sm/a246/ski_run_ski_area_0.jpg",
     "text": ["He {} mäkeä suksilla."],
     "keys": ["laskevat"],
     "translation": "to go down, to descend / They ski down the hill."

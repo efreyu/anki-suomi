@@ -1,35 +1,35 @@
 [
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
+    "image": "https://free-images.com/sm/3de3/london_brighton_veteran_car_152.jpg",
     "text": ["Minä {} autoa joka päivä."],
     "keys": ["ajan"],
     "translation": "to drive, to ride / I drive a car every day."
   },
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
+    "image": "https://free-images.com/sm/81d3/cycling_bicycle_shop_shop.jpg",
     "text": ["Sinä {} polkupyörällä kouluun."],
     "keys": ["ajat"],
     "translation": "to drive, to ride / You ride a bicycle to school."
   },
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
+    "image": "https://free-images.com/sm/3108/bus_vehicle_london_bus.jpg",
     "text": ["Hän {} bussilla töihin."],
     "keys": ["ajaa"],
     "translation": "to drive, to ride / He/She goes to work by bus."
   },
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
+    "image": "https://free-images.com/sm/d68c/motorcycle_driver_on_street.jpg",
     "text": ["Me {} moottoripyörällä kesällä."],
     "keys": ["ajamme"],
     "translation": "to drive, to ride / We ride a motorcycle in the summer."
   },
   {
     "verb": "ajaa",
-    "image": "https://free-images.com/sm/2912/drive_safely_signs_in.jpg",
+    "image": "https://free-images.com/sm/521f/chamisso_island_from_puffin.jpg",
     "text": ["Te {} veneellä saarille."],
     "keys": ["ajatte"],
     "translation": "to drive, to ride / You (plural) go by boat to the islands."

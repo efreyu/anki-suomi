@@ -1,7 +1,7 @@
 [
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/893f/glasses_read_learn_book_2.jpg",
     "text": ["Minä {} oppia suomea."],
     "keys": ["alan"],
     "translation": "to begin, to start / I begin to learn Finnish.",
@@ -9,7 +9,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/f889/letters_air_letter_air.jpg",
     "text": ["Sinä {} kirjoittaa kirjettä."],
     "keys": ["alat"],
     "translation": "to begin, to start / You begin to write a letter.",
@@ -17,7 +17,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/59d4/laugh_mannequin_face_red.jpg",
     "text": ["Hän {} nauraa yhtäkkiä."],
     "keys": ["alkaa"],
     "translation": "to begin, to start / He/She begins to laugh suddenly.",
@@ -25,7 +25,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/e7b0/everyday_routine_tv_watching.jpg",
     "text": ["Me {} katsoa elokuvaa."],
     "keys": ["alamme"],
     "translation": "to begin, to start / We begin to watch a movie.",
@@ -33,7 +33,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/ae35/singers_microphone_sing_concert.jpg",
     "text": ["Te {} laulaa yhdessä."],
     "keys": ["alatte"],
     "translation": "to begin, to start / You (plural) begin to sing together.",
@@ -41,7 +41,7 @@
   },
   {
     "verb": "alkaa",
-    "image": "https://free-images.com/sm/461c/line_start_start_line.jpg",
+    "image": "https://free-images.com/sm/3f2e/football_duel_ball_footballers_0.jpg",
     "text": ["He {} pelata jalkapalloa."],
     "keys": ["alkavat"],
     "translation": "to begin, to start / They begin to play football.",
