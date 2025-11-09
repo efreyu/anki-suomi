@@ -5,23 +5,8 @@ import sys
 import shutil
 import generators.gen_utils as utils
 
-def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_id):
+def gen_cards(json_file, model_name, deck_name, apkg_filename, deck_type, model_id, deck_id):
 
-    """
-    Making card structure that contains numbers with images and audio
-    Question: Number and Image
-    {{Number}} {{Number in English}} {{Image}}
-    Answer: Number in Finnish
-    <table>
-    <tr>
-    <td>{{Number}}</td>
-    <td>{{Number in Finnish}}</td>
-    <td>{{Audio}}</td>
-    <td>{{Image}}</td>
-    </tr>
-    ...
-    </table>
-    """
     if deck_type == 'regular':
         deck_id = deck_id + 1
     else:
@@ -47,7 +32,7 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
     if deck_type == 'regular':
         model = genanki.Model(
             model_id,
-            'Numbers Table with Image and Audio',
+            model_name,
             fields=[
                 {'name': 'Question'},
                 {'name': 'Image'},
@@ -58,7 +43,7 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
             ],
             templates=[
                 {
-                    'name': 'Numbers Card',
+                    'name': model_name + ' Card',
                     'qfmt': """
                         <div>{{Question}}</div>
                         {{#Image}}<div><hr>{{Image}}</div>{{/Image}}
@@ -89,7 +74,7 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
     else: # reverse
         model = genanki.Model(
             model_id,
-            'Numbers Table with Image and Audio',
+            model_name,
             fields=[
                 {'name': 'Question'},
                 {'name': 'Audio'},
@@ -100,7 +85,7 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
             ],
             templates=[
                 {
-                    'name': 'Numbers Card',
+                    'name': model_name + ' Card',
                     'qfmt': """
                         <div>{{Question}}</div><br/>
                         {{Audio}}<br/>
@@ -148,7 +133,6 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
 
     # Add cards to the deck
     for number_data in numbers:
-        number = number_data['number']
         translation = number_data['translation']
         question = ''
         if deck_type == 'regular':
@@ -178,7 +162,8 @@ def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_i
         # Generate conjugations and audio
         finnish = number_data['finnish']
 
-        sanitized_audio_filename = utils.sanitize_filename(f"{number}_number_{finnish}.mp3")
+        filename = utils.short_hash(finnish, 16)
+        sanitized_audio_filename = utils.sanitize_filename(f"{filename}.mp3")
         audio_path = os.path.join(media_folder, sanitized_audio_filename)
         utils.generate_audio(finnish, audio_path)
         media_files.append(audio_path)

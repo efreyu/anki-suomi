@@ -49,7 +49,7 @@ def resize_image_proportionally(image_path: str, max_width: int = 150, max_heigh
         img.save(image_path)
 
 def short_hash(text: str, length: int = 8) -> str:
-    if not (6 <= length <= 8):
+    if not (6 <= length <= 20):
         raise ValueError("Length must be between 6 and 8")
 
     full_hash = hashlib.sha256(text.encode("utf-8")).hexdigest()
