@@ -5,7 +5,7 @@ import sys
 import shutil
 import generators.gen_utils as utils
 
-def gen_numbers(json_file, deck_name, apkg_filename='Finnish_Numbers.apkg'):
+def gen_numbers(json_file, deck_name, apkg_filename, deck_type, model_id, deck_id):
 
     """
     Making card structure that contains numbers with images and audio
@@ -22,68 +22,112 @@ def gen_numbers(json_file, deck_name, apkg_filename='Finnish_Numbers.apkg'):
     ...
     </table>
     """
-
+    if deck_type == 'regular':
+        deck_id = deck_id + 1
+    else:
+        deck_id = deck_id + 2
     # Create the model for the Anki cards
-    model_id = 1234567890
-    model = genanki.Model(
-        model_id,
-        'Numbers Table with Image and Audio',
-        fields=[
-            {'name': 'Question'},
-            {'name': 'Image'},
-            {'name': 'Finnish'},
-            {'name': 'Translate'},
-            {'name': 'Note'},
-            {'name': 'Audio'}
-        ],
-        templates=[
-            {
-                'name': 'Numbers Card',
-                'qfmt': """
-                    <div>{{Question}}</div>
-                    {{#Image}}<div><hr>{{Image}}</div>{{/Image}}
-                """,
-                'afmt': """
-                    {{FrontSide}}
-                    <br>
-                    <hr>
-                    <table style="margin: 0 auto;">
-                      <tr>
-                        <td>{{Finnish}}</td>
-                      </tr>
-                      <tr>
-                        <td>{{Translate}}</td>
-                      </tr>
-                      <tr>
-                        <td>{{Note}}</td>
-                      </tr>
-                      <tr>
-                        <td>{{Audio}}</td>
-                      </tr>
-                    </table>
-                """,
-            },
-        ],
-        css="""
-.card {
-  font-family: arial;
-  font-size: 20px;
-  text-align: center;
-  color: black;
-  background-color: white;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  height: auto;
-}
-        """
-    )
+    model = {}
+    css = """
+                .card {
+                  font-family: arial;
+                  font-size: 20px;
+                  text-align: center;
+                  color: black;
+                  background-color: white;
+                }
+                img {
+                  display: block;
+                  margin-left: auto;
+                  margin-right: auto;
+                  max-width: 100%;
+                  height: auto;
+                }
+            """
+    if deck_type == 'regular':
+        model = genanki.Model(
+            model_id,
+            'Numbers Table with Image and Audio',
+            fields=[
+                {'name': 'Question'},
+                {'name': 'Image'},
+                {'name': 'Finnish'},
+                {'name': 'Translate'},
+                {'name': 'Note'},
+                {'name': 'Audio'}
+            ],
+            templates=[
+                {
+                    'name': 'Numbers Card',
+                    'qfmt': """
+                        <div>{{Question}}</div>
+                        {{#Image}}<div><hr>{{Image}}</div>{{/Image}}
+                    """,
+                    'afmt': """
+                        {{FrontSide}}
+                        <br>
+                        <hr>
+                        <table style="margin: 0 auto;">
+                          <tr>
+                            <td>{{Finnish}}</td>
+                          </tr>
+                          <tr>
+                            <td><i>{{Translate}}</i></td>
+                          </tr>
+                          <tr>
+                            <td><b>{{Note}}</b></td>
+                          </tr>
+                          <tr>
+                            <td>{{Audio}}</td>
+                          </tr>
+                        </table>
+                    """,
+                },
+            ],
+            css=css
+        )
+    else: # reverse
+        model = genanki.Model(
+            model_id,
+            'Numbers Table with Image and Audio',
+            fields=[
+                {'name': 'Question'},
+                {'name': 'Audio'},
+                {'name': 'Image'},
+                {'name': 'Finnish'},
+                {'name': 'Translate'},
+                {'name': 'Note'}
+            ],
+            templates=[
+                {
+                    'name': 'Numbers Card',
+                    'qfmt': """
+                        <div>{{Question}}</div><br/>
+                        {{Audio}}<br/>
+                    """,
+                    'afmt': """
+                        {{FrontSide}}
+                        {{#Image}}<div><hr>{{Image}}</div>{{/Image}}
+                        <br>
+                        <hr>
+                        <table style="margin: 0 auto;">
+                          <tr>
+                            <td>{{Finnish}}</td>
+                          </tr>
+                          <tr>
+                            <td><i>{{Translate}}</i></td>
+                          </tr>
+                          <tr>
+                            <td><b>{{Note}}</b></td>
+                          </tr>
+                        </table>
+                    """,
+                },
+            ],
+            css=css
+        )
 
     # Create the deck
-    deck_id = 987654321
     deck = genanki.Deck(
         deck_id,
         deck_name,
@@ -105,7 +149,12 @@ img {
     # Add cards to the deck
     for number_data in numbers:
         number = number_data['number']
-        question = f"Translate the number '{number}'"
+        translation = number_data['translation']
+        question = ''
+        if deck_type == 'regular':
+            question = f"Translate the sentence '{translation}'"
+        else:
+            question = f"Listen and translate"
         sanitized_image_filename = ""
 
         # Handle optional image
@@ -128,7 +177,6 @@ img {
 
         # Generate conjugations and audio
         finnish = number_data['finnish']
-        translation = number_data['translation']
 
         sanitized_audio_filename = utils.sanitize_filename(f"{number}_number_{finnish}.mp3")
         audio_path = os.path.join(media_folder, sanitized_audio_filename)
@@ -140,18 +188,32 @@ img {
             item_note = number_data['note']
 
         # Add note
-        note = genanki.Note(
-            model=model,
-            fields=[
-                question,                   # Question
-                f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
-                finnish,
-                translation,
-                item_note,
-                f"[sound:{sanitized_audio_filename}]",        # Audio
-            ],
-        )
-        deck.add_note(note)
+        if deck_type == 'regular':
+            note = genanki.Note(
+                model=model,
+                fields=[
+                    question,                   # Question
+                    f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
+                    finnish,
+                    translation,
+                    item_note,
+                    f"[sound:{sanitized_audio_filename}]",        # Audio
+                ],
+            )
+            deck.add_note(note)
+        else:
+            note = genanki.Note(
+                model=model,
+                fields=[
+                    question,                   # Question
+                    f"[sound:{sanitized_audio_filename}]",        # Audio
+                    f'<img src="{sanitized_image_filename}"/>' if len(sanitized_image_filename) > 0 else "",   # Image
+                    finnish,
+                    translation,
+                    item_note
+                ],
+            )
+            deck.add_note(note)
 
     # Create the package and include media files
     package = genanki.Package(deck)
