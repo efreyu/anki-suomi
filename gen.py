@@ -31,11 +31,11 @@ generators = [
     # {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs5.json', 'Finnish::Verbtypes::Verbtype5', 'Finnish_Verbs_5.apkg']},
     # {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs6.json', 'Finnish::Verbtypes::Verbtype6', 'Finnish_Verbs_6.apkg']},
     # {"name": "generate_verbs", "call": gen_verbs.gen_verbs, "expected": True, "args": ['db/general_verbs/verbs7.json', 'Finnish::Verbtypes::Verbtype7', 'Finnish_Verbs_7.apkg']},
-    # {"name": "numbers", "call": gen_numbers.gen_numbers, "expected": True, "args": ['db/numbers/numbers1.json', 'Finnish::Numbers::Numbers101', 'Finnish_Numbers_1.apkg']},
+    {"name": "numbers", "call": gen_numbers.gen_numbers, "expected": True, "args": ['db/numbers/numbers1.json', 'Finnish::Numerot::Kirjakielinen1', 'Finnish_Numbers_1.apkg']},
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog1.json', 'Finnish::Lessons::Lesson27::Olga', 'Finnish_Lessons27_Olga.apkg']},
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog2.json', 'Finnish::Lessons::Lesson27::Alex', 'Finnish_Lessons27_Alex.apkg']},
     # {"name": "dialogs", "call": gen_dialogs.gen_dialogs, "expected": True, "args": ['db/lessons/27-lesson/dialog3.json', 'Finnish::Lessons::Lesson27::Pedro', 'Finnish_Lessons27_Pedro.apkg']},
-    {"name": "cloze_verbs", "call": gen_cloze_verbs.gen_verbs_cloze, "expected": True, "args": [987654321, 'db/verbs_cloze/verbs1/*.json', 'Finnish::Verbtypes Cloze::Verbtype1', 'Finnish_Verbs_Cloze_1.apkg']},
+    # {"name": "cloze_verbs", "call": gen_cloze_verbs.gen_verbs_cloze, "expected": True, "args": [987654321, 'db/verbs_cloze/verbs1/*.json', 'Finnish::Verbtypes Cloze::Verbtype1', 'Finnish_Verbs_Cloze_1.apkg']},
 ]
 
 def main():
