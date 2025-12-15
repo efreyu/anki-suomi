@@ -1,6 +1,7 @@
 [
   {
     "word": "ruma",
+    "image": "https://free-images.com/md/c5c1/mask_ugly_halloween_crazy.jpg",
     "text": ["Tämä on {}."],
     "keys": ["ruma"],
     "translation": "This is ugly.",
@@ -8,6 +9,7 @@
   },
   {
     "word": "kaunis",
+    "image": "https://free-images.com/md/2305/beautiful_yellow_flower_1.jpg",
     "text": ["Tämä on {}."],
     "keys": ["kaunis"],
     "translation": "This is beautiful.",
@@ -15,6 +17,7 @@
   },
   {
     "word": "komea",
+    "image": "https://free-images.com/md/b3b8/craft_wood_craft_wood.jpg",
     "text": ["Hän on {}."],
     "keys": ["komea"],
     "translation": "He is handsome.",
@@ -22,6 +25,7 @@
   },
   {
     "word": "terve",
+    "image": "https://free-images.com/sm/b470/healthy_apple_fruits_orange.jpg",
     "text": ["Minä olen {}."],
     "keys": ["terve"],
     "translation": "I am healthy.",
@@ -29,6 +33,7 @@
   },
   {
     "word": "sairas",
+    "image": "https://free-images.com/sm/f345/sick_dog_elkhound_funnel.jpg",
     "text": ["Minä olen {}."],
     "keys": ["sairas"],
     "translation": "I am sick.",
@@ -36,6 +41,7 @@
   },
   {
     "word": "leveä",
+    "image": "https://free-images.com/sm/70c2/road_infinite_asphalt_wide.jpg",
     "text": ["Tie on {}."],
     "keys": ["leveä"],
     "translation": "The road is wide.",
@@ -43,13 +49,15 @@
   },
   {
     "word": "kapea",
+    "image": "https://free-images.com/md/9dd4/forest_trees_nature_wood_5.jpg",
     "text": ["Polku on {}."],
     "keys": ["kapea"],
-    "translation": "The path is narrow.",
+    "translation": "The path is narrow. Тропа узкая.",
     "note": "Polku on kapea."
   },
   {
     "word": "kotimainen",
+    "image": "https://free-images.com/sm/4af3/squeaky_cheese.jpg",
     "text": ["Tämä ruoka on {}."],
     "keys": ["kotimainen"],
     "translation": "This food is domestic (local).",
@@ -57,13 +65,15 @@
   },
   {
     "word": "ulkomaalainen",
-    "text": ["Hän on {}."],
+    "image": "https://free-images.com/sm/9423/coin_foreign_silver_wood.jpg",
+    "text": ["Tämä kolikko on {}."],
     "keys": ["ulkomaalainen"],
-    "translation": "He/She is foreign.",
-    "note": "Ulkomaalainen = иностранный/иностранец (по контексту)."
+    "translation": "This coin is foreign.",
+    "note": "Ulkomaalainen = иностранный. Используется и для предметов: Tämä kolikko on ulkomaalainen."
   },
   {
     "word": "hoikka",
+    "image": "https://free-images.com/sm/e815/bird_slim_dull_brown.jpg",
     "text": ["Hän on {}."],
     "keys": ["hoikka"],
     "translation": "He/She is slim.",
@@ -71,6 +81,7 @@
   },
   {
     "word": "laiha",
+    "image": "https://free-images.com/sm/82c4/diet_measure_measuring_tape.jpg",
     "text": ["Hän on {}."],
     "keys": ["laiha"],
     "translation": "He/She is thin.",
@@ -78,6 +89,7 @@
   },
   {
     "word": "tukeva",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["tukeva"],
     "translation": "He/She is sturdy (stocky).",
@@ -85,6 +97,7 @@
   },
   {
     "word": "lihava",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["lihava"],
     "translation": "He/She is fat.",
@@ -92,6 +105,7 @@
   },
   {
     "word": "kova",
+    "image": "",
     "text": ["Kivi on {}."],
     "keys": ["kova"],
     "translation": "The stone is hard.",
@@ -99,6 +113,7 @@
   },
   {
     "word": "pehmeä",
+    "image": "",
     "text": ["Tyyny on {}."],
     "keys": ["pehmeä"],
     "translation": "The pillow is soft.",
@@ -106,6 +121,7 @@
   },
   {
     "word": "siisti",
+    "image": "",
     "text": ["Huone on {}."],
     "keys": ["siisti"],
     "translation": "The room is tidy/clean.",
@@ -113,6 +129,7 @@
   },
   {
     "word": "sotkuinen",
+    "image": "",
     "text": ["Pöytä on {}."],
     "keys": ["sotkuinen"],
     "translation": "The table is messy.",
@@ -120,6 +137,7 @@
   },
   {
     "word": "kuiva",
+    "image": "",
     "text": ["Pyyhe on {}."],
     "keys": ["kuiva"],
     "translation": "The towel is dry.",
@@ -127,6 +145,7 @@
   },
   {
     "word": "märkä",
+    "image": "",
     "text": ["Paita on {}."],
     "keys": ["märkä"],
     "translation": "The shirt is wet.",
@@ -134,6 +153,7 @@
   },
   {
     "word": "paksu",
+    "image": "",
     "text": ["Kirja on {}."],
     "keys": ["paksu"],
     "translation": "The book is thick.",
@@ -141,6 +161,7 @@
   },
   {
     "word": "ohut",
+    "image": "",
     "text": ["Paperi on {}."],
     "keys": ["ohut"],
     "translation": "The paper is thin.",
@@ -148,6 +169,7 @@
   },
   {
     "word": "vahva",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["vahva"],
     "translation": "He/She is strong.",
@@ -155,6 +177,7 @@
   },
   {
     "word": "viisas",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["viisas"],
     "translation": "He/She is wise.",
@@ -162,6 +185,7 @@
   },
   {
     "word": "heikko",
+    "image": "",
     "text": ["Minä olen {}."],
     "keys": ["heikko"],
     "translation": "I am weak.",
@@ -169,6 +193,7 @@
   },
   {
     "word": "raskas",
+    "image": "",
     "text": ["Laukku on {}."],
     "keys": ["raskas"],
     "translation": "The bag is heavy.",
@@ -176,6 +201,7 @@
   },
   {
     "word": "kevyt",
+    "image": "",
     "text": ["Laukku on {}."],
     "keys": ["kevyt"],
     "translation": "The bag is light.",
@@ -183,6 +209,7 @@
   },
   {
     "word": "tyhmä",
+    "image": "",
     "text": ["Se on {}."],
     "keys": ["tyhmä"],
     "translation": "That is stupid.",
@@ -190,6 +217,7 @@
   },
   {
     "word": "älykäs",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["älykäs"],
     "translation": "He/She is smart.",
@@ -197,6 +225,7 @@
   },
   {
     "word": "vaalea",
+    "image": "",
     "text": ["Väri on {}."],
     "keys": ["vaalea"],
     "translation": "The color is light (pale).",
@@ -204,6 +233,7 @@
   },
   {
     "word": "pimeä",
+    "image": "",
     "text": ["Täällä on {}."],
     "keys": ["pimeä"],
     "translation": "It is dark here.",
@@ -211,6 +241,7 @@
   },
   {
     "word": "tumma",
+    "image": "",
     "text": ["Väri on {}."],
     "keys": ["tumma"],
     "translation": "The color is dark.",
@@ -218,6 +249,7 @@
   },
   {
     "word": "valoisa",
+    "image": "",
     "text": ["Huone on {}."],
     "keys": ["valoisa"],
     "translation": "The room is bright.",
@@ -225,6 +257,7 @@
   },
   {
     "word": "nuori",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["nuori"],
     "translation": "He/She is young.",
@@ -232,6 +265,7 @@
   },
   {
     "word": "vanha",
+    "image": "",
     "text": ["Talo on {}."],
     "keys": ["vanha"],
     "translation": "The house is old.",
@@ -239,6 +273,7 @@
   },
   {
     "word": "lyhyt",
+    "image": "",
     "text": ["Kynä on {}."],
     "keys": ["lyhyt"],
     "translation": "The pencil is short.",
@@ -246,6 +281,7 @@
   },
   {
     "word": "pitkä",
+    "image": "",
     "text": ["Katu on {}."],
     "keys": ["pitkä"],
     "translation": "The street is long.",
@@ -253,6 +289,7 @@
   },
   {
     "word": "uusi",
+    "image": "",
     "text": ["Auto on {}."],
     "keys": ["uusi"],
     "translation": "The car is new.",
@@ -260,6 +297,7 @@
   },
   {
     "word": "kylmä",
+    "image": "",
     "text": ["Vesi on {}."],
     "keys": ["kylmä"],
     "translation": "The water is cold.",
@@ -267,6 +305,7 @@
   },
   {
     "word": "kuuma",
+    "image": "",
     "text": ["Keitto on {}."],
     "keys": ["kuuma"],
     "translation": "The soup is hot.",
@@ -274,6 +313,7 @@
   },
   {
     "word": "lämmin",
+    "image": "",
     "text": ["Tee on {}."],
     "keys": ["lämmin"],
     "translation": "The tea is warm.",
@@ -281,6 +321,7 @@
   },
   {
     "word": "viileä",
+    "image": "",
     "text": ["Ilma on {}."],
     "keys": ["viileä"],
     "translation": "The air is cool.",
@@ -288,6 +329,7 @@
   },
   {
     "word": "halpa",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["halpa"],
     "translation": "This is cheap.",
@@ -295,6 +337,7 @@
   },
   {
     "word": "kallis",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["kallis"],
     "translation": "This is expensive.",
@@ -302,6 +345,7 @@
   },
   {
     "word": "pieni",
+    "image": "",
     "text": ["Kissa on {}."],
     "keys": ["pieni"],
     "translation": "The cat is small.",
@@ -309,6 +353,7 @@
   },
   {
     "word": "suuri",
+    "image": "",
     "text": ["Talo on {}."],
     "keys": ["suuri"],
     "translation": "The house is huge.",
@@ -316,6 +361,7 @@
   },
   {
     "word": "iso",
+    "image": "",
     "text": ["Koira on {}."],
     "keys": ["iso"],
     "translation": "The dog is big.",
@@ -323,6 +369,7 @@
   },
   {
     "word": "täysi",
+    "image": "",
     "text": ["Lasi on {}."],
     "keys": ["täysi"],
     "translation": "The glass is full.",
@@ -330,6 +377,7 @@
   },
   {
     "word": "tyhjä",
+    "image": "",
     "text": ["Lasi on {}."],
     "keys": ["tyhjä"],
     "translation": "The glass is empty.",
@@ -337,6 +385,7 @@
   },
   {
     "word": "kohtelias",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["kohtelias"],
     "translation": "He/She is polite.",
@@ -344,6 +393,7 @@
   },
   {
     "word": "epäkohtelias",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["epäkohtelias"],
     "translation": "He/She is rude.",
@@ -351,6 +401,7 @@
   },
   {
     "word": "iloinen",
+    "image": "",
     "text": ["Minä olen {}."],
     "keys": ["iloinen"],
     "translation": "I am happy.",
@@ -358,6 +409,7 @@
   },
   {
     "word": "surullinen",
+    "image": "",
     "text": ["Minä olen {}."],
     "keys": ["surullinen"],
     "translation": "I am sad.",
@@ -365,6 +417,7 @@
   },
   {
     "word": "vihainen",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["vihainen"],
     "translation": "He/She is angry.",
@@ -372,6 +425,7 @@
   },
   {
     "word": "rauhallinen",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["rauhallinen"],
     "translation": "He/She is calm.",
@@ -379,6 +433,7 @@
   },
   {
     "word": "mielenkiintoinen",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["mielenkiintoinen"],
     "translation": "This is interesting.",
@@ -386,6 +441,7 @@
   },
   {
     "word": "tylsä",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["tylsä"],
     "translation": "This is boring.",
@@ -393,6 +449,7 @@
   },
   {
     "word": "likainen",
+    "image": "",
     "text": ["Kädet ovat {}."],
     "keys": ["likaiset"],
     "translation": "The hands are dirty.",
@@ -400,6 +457,7 @@
   },
   {
     "word": "puhdas",
+    "image": "",
     "text": ["Kädet ovat {}."],
     "keys": ["puhtaat"],
     "translation": "The hands are clean.",
@@ -407,6 +465,7 @@
   },
   {
     "word": "hiljainen",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["hiljainen"],
     "translation": "He/She is quiet.",
@@ -414,6 +473,7 @@
   },
   {
     "word": "puhelias",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["puhelias"],
     "translation": "He/She is talkative.",
@@ -421,6 +481,7 @@
   },
   {
     "word": "rikas",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["rikas"],
     "translation": "He/She is rich.",
@@ -428,6 +489,7 @@
   },
   {
     "word": "köyhä",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["köyhä"],
     "translation": "He/She is poor.",
@@ -435,6 +497,7 @@
   },
   {
     "word": "nopea",
+    "image": "",
     "text": ["Auto on {}."],
     "keys": ["nopea"],
     "translation": "The car is fast.",
@@ -442,6 +505,7 @@
   },
   {
     "word": "hidas",
+    "image": "",
     "text": ["Auto on {}."],
     "keys": ["hidas"],
     "translation": "The car is slow.",
@@ -449,6 +513,7 @@
   },
   {
     "word": "sateinen",
+    "image": "",
     "text": ["Tänään on {}."],
     "keys": ["sateinen"],
     "translation": "Today is rainy.",
@@ -456,6 +521,7 @@
   },
   {
     "word": "aurinkoinen",
+    "image": "",
     "text": ["Tänään on {}."],
     "keys": ["aurinkoinen"],
     "translation": "Today is sunny.",
@@ -463,6 +529,7 @@
   },
   {
     "word": "helppo",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["helppo"],
     "translation": "This is easy.",
@@ -470,6 +537,7 @@
   },
   {
     "word": "vaikea",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["vaikea"],
     "translation": "This is difficult.",
@@ -477,6 +545,7 @@
   },
   {
     "word": "korkea",
+    "image": "",
     "text": ["Rakennus on {}."],
     "keys": ["korkea"],
     "translation": "The building is tall.",
@@ -484,6 +553,7 @@
   },
   {
     "word": "matala",
+    "image": "",
     "text": ["Pöytä on {}."],
     "keys": ["matala"],
     "translation": "The table is low.",
@@ -491,6 +561,7 @@
   },
   {
     "word": "laiska",
+    "image": "",
     "text": ["Minä olen {}."],
     "keys": ["laiska"],
     "translation": "I am lazy.",
@@ -498,6 +569,7 @@
   },
   {
     "word": "ahkera",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["ahkera"],
     "translation": "He/She is hardworking.",
@@ -505,6 +577,7 @@
   },
   {
     "word": "hauska",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["hauska"],
     "translation": "He/She is funny/fun.",
@@ -512,6 +585,7 @@
   },
   {
     "word": "terävä",
+    "image": "",
     "text": ["Veitsi on {}."],
     "keys": ["terävä"],
     "translation": "The knife is sharp.",
@@ -519,6 +593,7 @@
   },
   {
     "word": "auki",
+    "image": "",
     "text": ["Ovi on {}."],
     "keys": ["auki"],
     "translation": "The door is open.",
@@ -526,6 +601,7 @@
   },
   {
     "word": "kiinni",
+    "image": "",
     "text": ["Ovi on {}."],
     "keys": ["kiinni"],
     "translation": "The door is closed.",
@@ -533,6 +609,7 @@
   },
   {
     "word": "paha",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["paha"],
     "translation": "This is bad.",
@@ -540,6 +617,7 @@
   },
   {
     "word": "tavallinen",
+    "image": "",
     "text": ["Tämä on {}."],
     "keys": ["tavallinen"],
     "translation": "This is ordinary.",
@@ -547,6 +625,7 @@
   },
   {
     "word": "seksikäs",
+    "image": "",
     "text": ["Hän on {}."],
     "keys": ["seksikäs"],
     "translation": "He/She is sexy.",
