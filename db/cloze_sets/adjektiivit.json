@@ -1,0 +1,555 @@
+[
+  {
+    "word": "ruma",
+    "text": ["Tämä on {}."],
+    "keys": ["ruma"],
+    "translation": "This is ugly.",
+    "note": "Прилагательное в сказуемом обычно стоит в именительном: X on ruma."
+  },
+  {
+    "word": "kaunis",
+    "text": ["Tämä on {}."],
+    "keys": ["kaunis"],
+    "translation": "This is beautiful.",
+    "note": "X on kaunis (простое описание)."
+  },
+  {
+    "word": "komea",
+    "text": ["Hän on {}."],
+    "keys": ["komea"],
+    "translation": "He is handsome.",
+    "note": "Часто про мужчин: Hän on komea."
+  },
+  {
+    "word": "terve",
+    "text": ["Minä olen {}."],
+    "keys": ["terve"],
+    "translation": "I am healthy.",
+    "note": "Minä olen terve."
+  },
+  {
+    "word": "sairas",
+    "text": ["Minä olen {}."],
+    "keys": ["sairas"],
+    "translation": "I am sick.",
+    "note": "Minä olen sairas."
+  },
+  {
+    "word": "leveä",
+    "text": ["Tie on {}."],
+    "keys": ["leveä"],
+    "translation": "The road is wide.",
+    "note": "Tie on leveä."
+  },
+  {
+    "word": "kapea",
+    "text": ["Polku on {}."],
+    "keys": ["kapea"],
+    "translation": "The path is narrow.",
+    "note": "Polku on kapea."
+  },
+  {
+    "word": "kotimainen",
+    "text": ["Tämä ruoka on {}."],
+    "keys": ["kotimainen"],
+    "translation": "This food is domestic (local).",
+    "note": "Kotimainen = отечественный/местный."
+  },
+  {
+    "word": "ulkomaalainen",
+    "text": ["Hän on {}."],
+    "keys": ["ulkomaalainen"],
+    "translation": "He/She is foreign.",
+    "note": "Ulkomaalainen = иностранный/иностранец (по контексту)."
+  },
+  {
+    "word": "hoikka",
+    "text": ["Hän on {}."],
+    "keys": ["hoikka"],
+    "translation": "He/She is slim.",
+    "note": "Hoikka = стройный (нейтрально)."
+  },
+  {
+    "word": "laiha",
+    "text": ["Hän on {}."],
+    "keys": ["laiha"],
+    "translation": "He/She is thin.",
+    "note": "Laiha может звучать грубее, чем hoikka."
+  },
+  {
+    "word": "tukeva",
+    "text": ["Hän on {}."],
+    "keys": ["tukeva"],
+    "translation": "He/She is sturdy (stocky).",
+    "note": "Tukeva = коренастый/плотный (обычно мягче)."
+  },
+  {
+    "word": "lihava",
+    "text": ["Hän on {}."],
+    "keys": ["lihava"],
+    "translation": "He/She is fat.",
+    "note": "Lihava часто воспринимается как обидное."
+  },
+  {
+    "word": "kova",
+    "text": ["Kivi on {}."],
+    "keys": ["kova"],
+    "translation": "The stone is hard.",
+    "note": "Kova = твёрдый."
+  },
+  {
+    "word": "pehmeä",
+    "text": ["Tyyny on {}."],
+    "keys": ["pehmeä"],
+    "translation": "The pillow is soft.",
+    "note": "Pehmeä = мягкий."
+  },
+  {
+    "word": "siisti",
+    "text": ["Huone on {}."],
+    "keys": ["siisti"],
+    "translation": "The room is tidy/clean.",
+    "note": "Siisti = чистый/аккуратный; также ‘крутой’ в разговорной речи."
+  },
+  {
+    "word": "sotkuinen",
+    "text": ["Pöytä on {}."],
+    "keys": ["sotkuinen"],
+    "translation": "The table is messy.",
+    "note": "Sotkuinen = грязный/захламлённый."
+  },
+  {
+    "word": "kuiva",
+    "text": ["Pyyhe on {}."],
+    "keys": ["kuiva"],
+    "translation": "The towel is dry.",
+    "note": "Kuiva = сухой."
+  },
+  {
+    "word": "märkä",
+    "text": ["Paita on {}."],
+    "keys": ["märkä"],
+    "translation": "The shirt is wet.",
+    "note": "Märkä = мокрый."
+  },
+  {
+    "word": "paksu",
+    "text": ["Kirja on {}."],
+    "keys": ["paksu"],
+    "translation": "The book is thick.",
+    "note": "Paksu часто про предметы: толстый."
+  },
+  {
+    "word": "ohut",
+    "text": ["Paperi on {}."],
+    "keys": ["ohut"],
+    "translation": "The paper is thin.",
+    "note": "Ohut = тонкий."
+  },
+  {
+    "word": "vahva",
+    "text": ["Hän on {}."],
+    "keys": ["vahva"],
+    "translation": "He/She is strong.",
+    "note": "Vahva = сильный."
+  },
+  {
+    "word": "viisas",
+    "text": ["Hän on {}."],
+    "keys": ["viisas"],
+    "translation": "He/She is wise.",
+    "note": "Viisas = мудрый."
+  },
+  {
+    "word": "heikko",
+    "text": ["Minä olen {}."],
+    "keys": ["heikko"],
+    "translation": "I am weak.",
+    "note": "Heikko = слабый."
+  },
+  {
+    "word": "raskas",
+    "text": ["Laukku on {}."],
+    "keys": ["raskas"],
+    "translation": "The bag is heavy.",
+    "note": "Raskas = тяжёлый."
+  },
+  {
+    "word": "kevyt",
+    "text": ["Laukku on {}."],
+    "keys": ["kevyt"],
+    "translation": "The bag is light.",
+    "note": "Kevyt = лёгкий (по весу)."
+  },
+  {
+    "word": "tyhmä",
+    "text": ["Se on {}."],
+    "keys": ["tyhmä"],
+    "translation": "That is stupid.",
+    "note": "Tyhmä = тупой/глупый (может быть грубо)."
+  },
+  {
+    "word": "älykäs",
+    "text": ["Hän on {}."],
+    "keys": ["älykäs"],
+    "translation": "He/She is smart.",
+    "note": "Älykäs = умный."
+  },
+  {
+    "word": "vaalea",
+    "text": ["Väri on {}."],
+    "keys": ["vaalea"],
+    "translation": "The color is light (pale).",
+    "note": "Vaalea = светлый (про оттенок)."
+  },
+  {
+    "word": "pimeä",
+    "text": ["Täällä on {}."],
+    "keys": ["pimeä"],
+    "translation": "It is dark here.",
+    "note": "Pimeä обычно про пространство: Täällä on pimeä."
+  },
+  {
+    "word": "tumma",
+    "text": ["Väri on {}."],
+    "keys": ["tumma"],
+    "translation": "The color is dark.",
+    "note": "Tumma = тёмный (про оттенок)."
+  },
+  {
+    "word": "valoisa",
+    "text": ["Huone on {}."],
+    "keys": ["valoisa"],
+    "translation": "The room is bright.",
+    "note": "Valoisa = светлый (про пространство)."
+  },
+  {
+    "word": "nuori",
+    "text": ["Hän on {}."],
+    "keys": ["nuori"],
+    "translation": "He/She is young.",
+    "note": "Nuori = молодой."
+  },
+  {
+    "word": "vanha",
+    "text": ["Talo on {}."],
+    "keys": ["vanha"],
+    "translation": "The house is old.",
+    "note": "Vanha = старый."
+  },
+  {
+    "word": "lyhyt",
+    "text": ["Kynä on {}."],
+    "keys": ["lyhyt"],
+    "translation": "The pencil is short.",
+    "note": "Lyhyt = короткий/низкий (по контексту)."
+  },
+  {
+    "word": "pitkä",
+    "text": ["Katu on {}."],
+    "keys": ["pitkä"],
+    "translation": "The street is long.",
+    "note": "Pitkä = длинный/долгий/высокий (по контексту)."
+  },
+  {
+    "word": "uusi",
+    "text": ["Auto on {}."],
+    "keys": ["uusi"],
+    "translation": "The car is new.",
+    "note": "Uusi = новый."
+  },
+  {
+    "word": "kylmä",
+    "text": ["Vesi on {}."],
+    "keys": ["kylmä"],
+    "translation": "The water is cold.",
+    "note": "Kylmä = холодный."
+  },
+  {
+    "word": "kuuma",
+    "text": ["Keitto on {}."],
+    "keys": ["kuuma"],
+    "translation": "The soup is hot.",
+    "note": "Kuuma = горячий."
+  },
+  {
+    "word": "lämmin",
+    "text": ["Tee on {}."],
+    "keys": ["lämmin"],
+    "translation": "The tea is warm.",
+    "note": "Lämmin = тёплый."
+  },
+  {
+    "word": "viileä",
+    "text": ["Ilma on {}."],
+    "keys": ["viileä"],
+    "translation": "The air is cool.",
+    "note": "Viileä = прохладный."
+  },
+  {
+    "word": "halpa",
+    "text": ["Tämä on {}."],
+    "keys": ["halpa"],
+    "translation": "This is cheap.",
+    "note": "Halpa = дешёвый."
+  },
+  {
+    "word": "kallis",
+    "text": ["Tämä on {}."],
+    "keys": ["kallis"],
+    "translation": "This is expensive.",
+    "note": "Kallis = дорогой."
+  },
+  {
+    "word": "pieni",
+    "text": ["Kissa on {}."],
+    "keys": ["pieni"],
+    "translation": "The cat is small.",
+    "note": "Pieni = маленький."
+  },
+  {
+    "word": "suuri",
+    "text": ["Talo on {}."],
+    "keys": ["suuri"],
+    "translation": "The house is huge.",
+    "note": "Suuri = большой/огромный."
+  },
+  {
+    "word": "iso",
+    "text": ["Koira on {}."],
+    "keys": ["iso"],
+    "translation": "The dog is big.",
+    "note": "Iso = большой (разговорнее)."
+  },
+  {
+    "word": "täysi",
+    "text": ["Lasi on {}."],
+    "keys": ["täysi"],
+    "translation": "The glass is full.",
+    "note": "Täysi = полный."
+  },
+  {
+    "word": "tyhjä",
+    "text": ["Lasi on {}."],
+    "keys": ["tyhjä"],
+    "translation": "The glass is empty.",
+    "note": "Tyhjä = пустой."
+  },
+  {
+    "word": "kohtelias",
+    "text": ["Hän on {}."],
+    "keys": ["kohtelias"],
+    "translation": "He/She is polite.",
+    "note": "Kohtelias = вежливый."
+  },
+  {
+    "word": "epäkohtelias",
+    "text": ["Hän on {}."],
+    "keys": ["epäkohtelias"],
+    "translation": "He/She is rude.",
+    "note": "Epäkohtelias = невежливый/грубый."
+  },
+  {
+    "word": "iloinen",
+    "text": ["Minä olen {}."],
+    "keys": ["iloinen"],
+    "translation": "I am happy.",
+    "note": "Iloinen = радостный."
+  },
+  {
+    "word": "surullinen",
+    "text": ["Minä olen {}."],
+    "keys": ["surullinen"],
+    "translation": "I am sad.",
+    "note": "Surullinen = грустный."
+  },
+  {
+    "word": "vihainen",
+    "text": ["Hän on {}."],
+    "keys": ["vihainen"],
+    "translation": "He/She is angry.",
+    "note": "Vihainen = сердитый/злой."
+  },
+  {
+    "word": "rauhallinen",
+    "text": ["Hän on {}."],
+    "keys": ["rauhallinen"],
+    "translation": "He/She is calm.",
+    "note": "Rauhallinen = спокойный."
+  },
+  {
+    "word": "mielenkiintoinen",
+    "text": ["Tämä on {}."],
+    "keys": ["mielenkiintoinen"],
+    "translation": "This is interesting.",
+    "note": "Mielenkiintoinen = интересный."
+  },
+  {
+    "word": "tylsä",
+    "text": ["Tämä on {}."],
+    "keys": ["tylsä"],
+    "translation": "This is boring.",
+    "note": "Tylsä = скучный."
+  },
+  {
+    "word": "likainen",
+    "text": ["Kädet ovat {}."],
+    "keys": ["likaiset"],
+    "translation": "The hands are dirty.",
+    "note": "Во множественном числе сказуемое согласуется: kädet ovat likaiset."
+  },
+  {
+    "word": "puhdas",
+    "text": ["Kädet ovat {}."],
+    "keys": ["puhtaat"],
+    "translation": "The hands are clean.",
+    "note": "Мн.ч.: puhdas → puhtaat."
+  },
+  {
+    "word": "hiljainen",
+    "text": ["Hän on {}."],
+    "keys": ["hiljainen"],
+    "translation": "He/She is quiet.",
+    "note": "Hiljainen = тихий/молчаливый."
+  },
+  {
+    "word": "puhelias",
+    "text": ["Hän on {}."],
+    "keys": ["puhelias"],
+    "translation": "He/She is talkative.",
+    "note": "Puhelias = болтливый."
+  },
+  {
+    "word": "rikas",
+    "text": ["Hän on {}."],
+    "keys": ["rikas"],
+    "translation": "He/She is rich.",
+    "note": "Rikas = богатый."
+  },
+  {
+    "word": "köyhä",
+    "text": ["Hän on {}."],
+    "keys": ["köyhä"],
+    "translation": "He/She is poor.",
+    "note": "Köyhä = бедный."
+  },
+  {
+    "word": "nopea",
+    "text": ["Auto on {}."],
+    "keys": ["nopea"],
+    "translation": "The car is fast.",
+    "note": "Nopea = быстрый."
+  },
+  {
+    "word": "hidas",
+    "text": ["Auto on {}."],
+    "keys": ["hidas"],
+    "translation": "The car is slow.",
+    "note": "Hidas = медленный."
+  },
+  {
+    "word": "sateinen",
+    "text": ["Tänään on {}."],
+    "keys": ["sateinen"],
+    "translation": "Today is rainy.",
+    "note": "Про погоду: Tänään on sateinen."
+  },
+  {
+    "word": "aurinkoinen",
+    "text": ["Tänään on {}."],
+    "keys": ["aurinkoinen"],
+    "translation": "Today is sunny.",
+    "note": "Aurinkoinen = солнечный."
+  },
+  {
+    "word": "helppo",
+    "text": ["Tämä on {}."],
+    "keys": ["helppo"],
+    "translation": "This is easy.",
+    "note": "Helppo = лёгкий/простой."
+  },
+  {
+    "word": "vaikea",
+    "text": ["Tämä on {}."],
+    "keys": ["vaikea"],
+    "translation": "This is difficult.",
+    "note": "Vaikea = сложный."
+  },
+  {
+    "word": "korkea",
+    "text": ["Rakennus on {}."],
+    "keys": ["korkea"],
+    "translation": "The building is tall.",
+    "note": "Korkea часто про неодушевлённые: высокий."
+  },
+  {
+    "word": "matala",
+    "text": ["Pöytä on {}."],
+    "keys": ["matala"],
+    "translation": "The table is low.",
+    "note": "Matala = низкий (про предметы)."
+  },
+  {
+    "word": "laiska",
+    "text": ["Minä olen {}."],
+    "keys": ["laiska"],
+    "translation": "I am lazy.",
+    "note": "Laiska = ленивый."
+  },
+  {
+    "word": "ahkera",
+    "text": ["Hän on {}."],
+    "keys": ["ahkera"],
+    "translation": "He/She is hardworking.",
+    "note": "Ahkera = трудолюбивый."
+  },
+  {
+    "word": "hauska",
+    "text": ["Hän on {}."],
+    "keys": ["hauska"],
+    "translation": "He/She is funny/fun.",
+    "note": "Hauska = весёлый/забавный."
+  },
+  {
+    "word": "terävä",
+    "text": ["Veitsi on {}."],
+    "keys": ["terävä"],
+    "translation": "The knife is sharp.",
+    "note": "Terävä = острый."
+  },
+  {
+    "word": "auki",
+    "text": ["Ovi on {}."],
+    "keys": ["auki"],
+    "translation": "The door is open.",
+    "note": "Auki обычно как состояние: Ovi on auki."
+  },
+  {
+    "word": "kiinni",
+    "text": ["Ovi on {}."],
+    "keys": ["kiinni"],
+    "translation": "The door is closed.",
+    "note": "Kiinni = закрыто (состояние)."
+  },
+  {
+    "word": "paha",
+    "text": ["Tämä on {}."],
+    "keys": ["paha"],
+    "translation": "This is bad.",
+    "note": "Paha = плохой; также ‘злой’ по контексту."
+  },
+  {
+    "word": "tavallinen",
+    "text": ["Tämä on {}."],
+    "keys": ["tavallinen"],
+    "translation": "This is ordinary.",
+    "note": "Tavallinen = обычный."
+  },
+  {
+    "word": "seksikäs",
+    "text": ["Hän on {}."],
+    "keys": ["seksikäs"],
+    "translation": "He/She is sexy.",
+    "note": "Seksikäs — разговорное слово; используй аккуратно."
+  }
+]
