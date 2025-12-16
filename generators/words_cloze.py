@@ -11,9 +11,9 @@ def gen_words_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Words.a
     # Create the model for the Anki cards
     model_id = 3414565112
 
-    front_html = utils.load_text('templates/verbs_cloze/front.html')
-    back_html = utils.load_text('templates/verbs_cloze/back.html')
-    css_text = utils.load_text('templates/verbs_cloze/styles.css')
+    front_html = utils.load_text('templates/words_cloze/front.html')
+    back_html = utils.load_text('templates/words_cloze/back.html')
+    css_text = utils.load_text('templates/words_cloze/styles.css')
 
     model = genanki.Model(
         model_id,
@@ -74,7 +74,7 @@ def gen_words_cloze(deck_id, json_dir, deck_name, apkg_filename='Finnish_Words.a
             sanitized_image_filename = ""
 
             # Handle optional image
-            if 'image' in word_data and not skip_media:
+            if 'image' in word_data and len(word_data['image']) > 0 and not skip_media:
                 image_url = word_data['image']
                 if len(image_url):
                     sanitized_image_filename = os.path.basename(image_url)

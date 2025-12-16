@@ -1,0 +1,155 @@
+/* =========
+  Base tokens
+========= */
+:root {
+    --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+
+    --fs-xxl: 28px;
+    --fs-xl: 24px;
+    --fs-lg: 20px;
+    --fs-md: 18px;
+    --fs-sm: 16px;
+
+    --c-fg: #ffffff;        /* text */
+    --c-fg-dim: #ffffff;    /* secondary text */
+    --c-bg: #ffffff;        /* card bg */
+    --c-accent: #2563eb;    /* links/accents */
+    --c-border: #e5e7eb;    /* borders */
+    --c-code-bg: #f8fafc;   /* inline/code bg */
+
+    --radius: 14px;
+    --gap: 10px;
+    --line: 1.45;
+}
+
+/* =========
+  Layout
+========= */
+.card {
+    font-family: var(--font-sans);
+    font-size: var(--fs-lg);
+    line-height: var(--line);
+    color: var(--c-fg);
+    background: var(--c-bg);
+    text-align: left;
+
+    /* приятная «карточка» без лишней визуалки */
+    padding: 22px;
+    border-radius: var(--radius);
+}
+
+/* ограничиваем ширину для лучшей читаемости */
+.container {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+/* заголовок вопроса / термина */
+.h1 {
+    font-size: var(--fs-xxl);
+    font-weight: 700;
+    margin: 0 0 8px 0;
+}
+
+/* подзаголовок/перевод/подсказка */
+.sub {
+    font-size: var(--fs-md);
+    color: var(--c-fg-dim);
+    margin-bottom: 14px;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background: var(--c-border);
+    margin: 16px 0;
+}
+
+.section {
+    margin-top: 12px;
+}
+
+.label {
+    font-size: var(--fs-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--c-fg-dim);
+    margin-bottom: 4px;
+}
+
+/* списки */
+ul, ol {
+    padding-left: 20px;
+    margin: 6px 0 6px 0;
+}
+
+/* ссылки */
+a {
+    color: var(--c-accent);
+    text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* инлайновый код и блоки кода */
+code, pre code {
+    font-family: var(--font-mono);
+    font-size: 0.95em;
+}
+code {
+    background: var(--c-code-bg);
+    padding: 0 4px;
+    border-radius: 6px;
+}
+pre {
+    background: var(--c-code-bg);
+    padding: 10px;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+/* «плашки» для заметок/примеров */
+.note, .example {
+    border: 1px solid var(--c-border);
+    border-radius: 12px;
+    padding: 10px 12px;
+    margin-top: 10px;
+}
+.note { background: rgba(0,0,0,0.02); }
+.example { background: rgba(37, 99, 235, 0.06); }
+
+/* теги */
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+}
+.tag {
+    font-size: var(--fs-sm);
+    color: var(--c-fg-dim);
+    border: 1px dashed var(--c-border);
+    border-radius: 999px;
+    padding: 2px 8px;
+}
+
+/* кнопка-подсказка */
+.hint-toggle {
+    cursor: pointer;
+    font-size: var(--fs-sm);
+    color: var(--c-accent);
+    user-select: none;
+}
+.hint-content {
+    display: none;
+    margin-top: 6px;
+}
+.hint-content.show {
+    display: block;
+}
+
+/* адаптив */
+@media (max-width: 420px) {
+    .card { font-size: var(--fs-md); padding: 18px; }
+    .h1 { font-size: var(--fs-xl); }
+}
