@@ -89,7 +89,7 @@
   },
   {
     "word": "tukeva",
-    "image": "",
+    "image": "https://free-images.com/sm/41ff/sturdy_thick_bark_natural.jpg",
     "text": ["Hän on {}."],
     "keys": ["tukeva"],
     "translation": "He/She is sturdy (stocky).",
@@ -97,7 +97,7 @@
   },
   {
     "word": "lihava",
-    "image": "",
+    "image": "https://free-images.com/sm/4764/confrontation_fat_fight_men.jpg",
     "text": ["Hän on {}."],
     "keys": ["lihava"],
     "translation": "He/She is fat.",
@@ -105,7 +105,7 @@
   },
   {
     "word": "kova",
-    "image": "",
+    "image": "https://free-images.com/sm/d8a4/hard_rocks.jpg",
     "text": ["Kivi on {}."],
     "keys": ["kova"],
     "translation": "The stone is hard.",
@@ -113,7 +113,7 @@
   },
   {
     "word": "pehmeä",
-    "image": "",
+    "image": "https://free-images.com/sm/7b3d/soft_toy_stuffed_animal.jpg",
     "text": ["Tyyny on {}."],
     "keys": ["pehmeä"],
     "translation": "The pillow is soft.",
@@ -121,7 +121,7 @@
   },
   {
     "word": "siisti",
-    "image": "",
+    "image": "https://free-images.com/sm/c878/hotel_bed_clean_tidy.jpg",
     "text": ["Huone on {}."],
     "keys": ["siisti"],
     "translation": "The room is tidy/clean.",
@@ -129,7 +129,7 @@
   },
   {
     "word": "sotkuinen",
-    "image": "",
+    "image": "https://free-images.com/sm/8362/chaos_clutter_mess_things.jpg",
     "text": ["Pöytä on {}."],
     "keys": ["sotkuinen"],
     "translation": "The table is messy.",
@@ -137,7 +137,7 @@
   },
   {
     "word": "kuiva",
-    "image": "",
+    "image": "https://free-images.com/sm/f7c1/towels_bath_towels_bath.jpg",
     "text": ["Pyyhe on {}."],
     "keys": ["kuiva"],
     "translation": "The towel is dry.",
@@ -145,7 +145,7 @@
   },
   {
     "word": "märkä",
-    "image": "",
+    "image": "https://free-images.com/sm/3ebf/agust_fannar_asgeirsson_shower.jpg",
     "text": ["Paita on {}."],
     "keys": ["märkä"],
     "translation": "The shirt is wet.",
@@ -153,7 +153,7 @@
   },
   {
     "word": "paksu",
-    "image": "",
+    "image": "https://free-images.com/sm/2d25/book_book_pages_book.jpg",
     "text": ["Kirja on {}."],
     "keys": ["paksu"],
     "translation": "The book is thick.",
@@ -161,7 +161,7 @@
   },
   {
     "word": "ohut",
-    "image": "",
+    "image": "https://free-images.com/sm/e6c9/paper_flowers_arts_crafts.jpg",
     "text": ["Paperi on {}."],
     "keys": ["ohut"],
     "translation": "The paper is thin.",
@@ -169,7 +169,7 @@
   },
   {
     "word": "vahva",
-    "image": "",
+    "image": "https://free-images.com/sm/7b10/strong_muscle_athlete_studio.jpg",
     "text": ["Hän on {}."],
     "keys": ["vahva"],
     "translation": "He/She is strong.",
@@ -177,7 +177,7 @@
   },
   {
     "word": "viisas",
-    "image": "",
+    "image": "https://free-images.com/sm/73fc/buddhism_old_wise_buddhist.jpg",
     "text": ["Hän on {}."],
     "keys": ["viisas"],
     "translation": "He/She is wise.",
@@ -185,7 +185,7 @@
   },
   {
     "word": "heikko",
-    "image": "",
+    "image": "https://free-images.com/sm/47e1/lamb_animal_ill_weak.jpg",
     "text": ["Minä olen {}."],
     "keys": ["heikko"],
     "translation": "I am weak.",
@@ -193,7 +193,7 @@
   },
   {
     "word": "raskas",
-    "image": "",
+    "image": "https://free-images.com/md/26dd/bags_travel_bag_blue.jpg",
     "text": ["Laukku on {}."],
     "keys": ["raskas"],
     "translation": "The bag is heavy.",
@@ -201,7 +201,7 @@
   },
   {
     "word": "kevyt",
-    "image": "",
+    "image": "https://free-images.com/md/54c7/sony_a7r_camera_mirrorless_4.jpg",
     "text": ["Laukku on {}."],
     "keys": ["kevyt"],
     "translation": "The bag is light.",
@@ -209,7 +209,7 @@
   },
   {
     "word": "tyhmä",
-    "image": "",
+    "image": "https://free-images.com/sm/abe5/the_ostrich_head_grimace.jpg",
     "text": ["Se on {}."],
     "keys": ["tyhmä"],
     "translation": "That is stupid.",
@@ -217,7 +217,7 @@
   },
   {
     "word": "älykäs",
-    "image": "",
+    "image": "https://free-images.com/sm/e38b/smart_watch_apple_technology.jpg",
     "text": ["Hän on {}."],
     "keys": ["älykäs"],
     "translation": "He/She is smart.",
@@ -225,7 +225,7 @@
   },
   {
     "word": "vaalea",
-    "image": "",
+    "image": "https://free-images.com/sm/174b/white_bengal_tiger_tiger.jpg",
     "text": ["Väri on {}."],
     "keys": ["vaalea"],
     "translation": "The color is light (pale).",
@@ -233,7 +233,7 @@
   },
   {
     "word": "pimeä",
-    "image": "",
+    "image": "https://free-images.com/sm/cd8e/dark_city_fog_dark.jpg",
     "text": ["Täällä on {}."],
     "keys": ["pimeä"],
     "translation": "It is dark here.",
@@ -241,7 +241,7 @@
   },
   {
     "word": "tumma",
-    "image": "",
+    "image": "https://free-images.com/sm/d502/dark_roasted_coffee_beans.jpg",
     "text": ["Väri on {}."],
     "keys": ["tumma"],
     "translation": "The color is dark.",
@@ -249,7 +249,7 @@
   },
   {
     "word": "valoisa",
-    "image": "",
+    "image": "https://free-images.com/sm/8c8a/big_comfortable_living_room.jpg",
     "text": ["Huone on {}."],
     "keys": ["valoisa"],
     "translation": "The room is bright.",
@@ -257,7 +257,7 @@
   },
   {
     "word": "nuori",
-    "image": "",
+    "image": "https://free-images.com/sm/1566/young_cute_boy_with.jpg",
     "text": ["Hän on {}."],
     "keys": ["nuori"],
     "translation": "He/She is young.",
@@ -265,7 +265,7 @@
   },
   {
     "word": "vanha",
-    "image": "",
+    "image": "https://free-images.com/sm/1962/house_old_photo_old.jpg",
     "text": ["Talo on {}."],
     "keys": ["vanha"],
     "translation": "The house is old.",
@@ -273,7 +273,7 @@
   },
   {
     "word": "lyhyt",
-    "image": "",
+    "image": "https://free-images.com/sm/8e10/short_realistic_pencil_png.jpg",
     "text": ["Kynä on {}."],
     "keys": ["lyhyt"],
     "translation": "The pencil is short.",
@@ -281,7 +281,7 @@
   },
   {
     "word": "pitkä",
-    "image": "",
+    "image": "https://free-images.com/sm/3183/road_street_horizon_long.jpg",
     "text": ["Katu on {}."],
     "keys": ["pitkä"],
     "translation": "The street is long.",
@@ -289,7 +289,7 @@
   },
   {
     "word": "uusi",
-    "image": "",
+    "image": "https://free-images.com/tn/b4d1/audi_a5_quattro_coup.jpg",
     "text": ["Auto on {}."],
     "keys": ["uusi"],
     "translation": "The car is new.",
@@ -297,7 +297,7 @@
   },
   {
     "word": "kylmä",
-    "image": "",
+    "image": "https://free-images.com/sm/483c/water_lake_cold_nature.jpg",
     "text": ["Vesi on {}."],
     "keys": ["kylmä"],
     "translation": "The water is cold.",
@@ -305,7 +305,7 @@
   },
   {
     "word": "kuuma",
-    "image": "",
+    "image": "https://free-images.com/sm/4d7f/soup_zupka_chi_c5_0.jpg",
     "text": ["Keitto on {}."],
     "keys": ["kuuma"],
     "translation": "The soup is hot.",
@@ -313,7 +313,7 @@
   },
   {
     "word": "lämmin",
-    "image": "",
+    "image": "https://free-images.com/sm/1a7f/tea_warm_cup_hot_1.jpg",
     "text": ["Tee on {}."],
     "keys": ["lämmin"],
     "translation": "The tea is warm.",
@@ -321,7 +321,7 @@
   },
   {
     "word": "viileä",
-    "image": "",
+    "image": "https://free-images.com/md/ca44/cloud_streets_over_timor.jpg",
     "text": ["Ilma on {}."],
     "keys": ["viileä"],
     "translation": "The air is cool.",
@@ -329,7 +329,7 @@
   },
   {
     "word": "halpa",
-    "image": "",
+    "image": "https://free-images.com/sm/8d1f/mobile_phone_money_banknotes.jpg",
     "text": ["Tämä on {}."],
     "keys": ["halpa"],
     "translation": "This is cheap.",
@@ -337,7 +337,7 @@
   },
   {
     "word": "kallis",
-    "image": "",
+    "image": "https://free-images.com/sm/3ff7/jewellery_golden_gold_jewelry.jpg",
     "text": ["Tämä on {}."],
     "keys": ["kallis"],
     "translation": "This is expensive.",
@@ -345,7 +345,7 @@
   },
   {
     "word": "pieni",
-    "image": "",
+    "image": "https://free-images.com/sm/f5ae/cat_small_cat_puppy.jpg",
     "text": ["Kissa on {}."],
     "keys": ["pieni"],
     "translation": "The cat is small.",
@@ -353,7 +353,7 @@
   },
   {
     "word": "suuri",
-    "image": "",
+    "image": "https://free-images.com/sm/7ef4/estate_biltmore_building_america.jpg",
     "text": ["Talo on {}."],
     "keys": ["suuri"],
     "translation": "The house is huge.",
@@ -361,7 +361,7 @@
   },
   {
     "word": "iso",
-    "image": "",
+    "image": "https://free-images.com/sm/b1de/dog_big_dog_golden.jpg",
     "text": ["Koira on {}."],
     "keys": ["iso"],
     "translation": "The dog is big.",
@@ -369,7 +369,7 @@
   },
   {
     "word": "täysi",
-    "image": "",
+    "image": "https://free-images.com/md/5875/beer_peroni_glass_full.jpg",
     "text": ["Lasi on {}."],
     "keys": ["täysi"],
     "translation": "The glass is full.",
@@ -377,7 +377,7 @@
   },
   {
     "word": "tyhjä",
-    "image": "",
+    "image": "https://free-images.com/md/ff5e/hollow_empty_glass.jpg",
     "text": ["Lasi on {}."],
     "keys": ["tyhjä"],
     "translation": "The glass is empty.",
@@ -385,7 +385,7 @@
   },
   {
     "word": "kohtelias",
-    "image": "",
+    "image": "https://free-images.com/sm/9c96/paddington_bear_station_statue.jpg",
     "text": ["Hän on {}."],
     "keys": ["kohtelias"],
     "translation": "He/She is polite.",
@@ -393,7 +393,7 @@
   },
   {
     "word": "epäkohtelias",
-    "image": "",
+    "image": "https://free-images.com/sm/741b/graffitti_sprayer_street_art.jpg",
     "text": ["Hän on {}."],
     "keys": ["epäkohtelias"],
     "translation": "He/She is rude.",
@@ -401,7 +401,7 @@
   },
   {
     "word": "iloinen",
-    "image": "",
+    "image": "https://free-images.com/sm/c677/happy_afternoon_golden_retriever.jpg",
     "text": ["Minä olen {}."],
     "keys": ["iloinen"],
     "translation": "I am happy.",
@@ -409,7 +409,7 @@
   },
   {
     "word": "surullinen",
-    "image": "",
+    "image": "https://free-images.com/sm/02c5/sad_broken_glass_sadness.jpg",
     "text": ["Minä olen {}."],
     "keys": ["surullinen"],
     "translation": "I am sad.",
@@ -417,7 +417,7 @@
   },
   {
     "word": "vihainen",
-    "image": "",
+    "image": "https://free-images.com/sm/bfb8/angry_birds_balloon_bird.jpg",
     "text": ["Hän on {}."],
     "keys": ["vihainen"],
     "translation": "He/She is angry.",
@@ -425,7 +425,7 @@
   },
   {
     "word": "rauhallinen",
-    "image": "",
+    "image": "https://free-images.com/sm/75e0/keep_calm_draw_pencils.jpg",
     "text": ["Hän on {}."],
     "keys": ["rauhallinen"],
     "translation": "He/She is calm.",
@@ -433,7 +433,7 @@
   },
   {
     "word": "mielenkiintoinen",
-    "image": "",
+    "image": "https://free-images.com/sm/3556/project_365_15_150114.jpg",
     "text": ["Tämä on {}."],
     "keys": ["mielenkiintoinen"],
     "translation": "This is interesting.",
@@ -441,7 +441,7 @@
   },
   {
     "word": "tylsä",
-    "image": "",
+    "image": "https://free-images.com/sm/2bc2/child_boring_insipid_sad.jpg",
     "text": ["Tämä on {}."],
     "keys": ["tylsä"],
     "translation": "This is boring.",
@@ -449,7 +449,7 @@
   },
   {
     "word": "likainen",
-    "image": "",
+    "image": "https://free-images.com/md/bed3/dirty_cash_register_controls.jpg",
     "text": ["Kädet ovat {}."],
     "keys": ["likaiset"],
     "translation": "The hands are dirty.",
@@ -457,7 +457,7 @@
   },
   {
     "word": "puhdas",
-    "image": "",
+    "image": "https://free-images.com/sm/03dc/clean_make_clean_cleaning.jpg",
     "text": ["Kädet ovat {}."],
     "keys": ["puhtaat"],
     "translation": "The hands are clean.",
@@ -465,7 +465,7 @@
   },
   {
     "word": "hiljainen",
-    "image": "",
+    "image": "https://free-images.com/sm/7506/pst_quiet_be_pssst.jpg",
     "text": ["Hän on {}."],
     "keys": ["hiljainen"],
     "translation": "He/She is quiet.",
@@ -473,7 +473,7 @@
   },
   {
     "word": "puhelias",
-    "image": "",
+    "image": "https://free-images.com/sm/7a5e/kermit_frog_green_doll_2.jpg",
     "text": ["Hän on {}."],
     "keys": ["puhelias"],
     "translation": "He/She is talkative.",
@@ -481,7 +481,7 @@
   },
   {
     "word": "rikas",
-    "image": "",
+    "image": "https://free-images.com/sm/ca9a/diamond_black_rich_brilliant.jpg",
     "text": ["Hän on {}."],
     "keys": ["rikas"],
     "translation": "He/She is rich.",
@@ -489,7 +489,7 @@
   },
   {
     "word": "köyhä",
-    "image": "",
+    "image": "https://free-images.com/sm/567c/poor_housing_river_nile.jpg",
     "text": ["Hän on {}."],
     "keys": ["köyhä"],
     "translation": "He/She is poor.",
@@ -497,7 +497,7 @@
   },
   {
     "word": "nopea",
-    "image": "",
+    "image": "https://free-images.com/sm/5299/fast_speed_racing_speedway.jpg",
     "text": ["Auto on {}."],
     "keys": ["nopea"],
     "translation": "The car is fast.",
@@ -505,7 +505,7 @@
   },
   {
     "word": "hidas",
-    "image": "",
+    "image": "https://free-images.com/sm/7931/snail_slow_moving_shell_0.jpg",
     "text": ["Auto on {}."],
     "keys": ["hidas"],
     "translation": "The car is slow.",
@@ -513,7 +513,7 @@
   },
   {
     "word": "sateinen",
-    "image": "",
+    "image": "https://free-images.com/md/7569/rain_water_drops_rainy_0.jpg",
     "text": ["Tänään on {}."],
     "keys": ["sateinen"],
     "translation": "Today is rainy.",
@@ -521,7 +521,7 @@
   },
   {
     "word": "aurinkoinen",
-    "image": "",
+    "image": "https://free-images.com/md/54bc/sunflower_sunny_landscape_spring.jpg",
     "text": ["Tänään on {}."],
     "keys": ["aurinkoinen"],
     "translation": "Today is sunny.",
@@ -529,7 +529,7 @@
   },
   {
     "word": "helppo",
-    "image": "",
+    "image": "https://free-images.com/sm/b718/magic_cube_hand_puzzle.jpg",
     "text": ["Tämä on {}."],
     "keys": ["helppo"],
     "translation": "This is easy.",
@@ -537,7 +537,7 @@
   },
   {
     "word": "vaikea",
-    "image": "",
+    "image": "https://free-images.com/sm/5502/magic_cube_hand_puzzle_0.jpg",
     "text": ["Tämä on {}."],
     "keys": ["vaikea"],
     "translation": "This is difficult.",
@@ -545,7 +545,7 @@
   },
   {
     "word": "korkea",
-    "image": "",
+    "image": "https://free-images.com/sm/4224/building_tall_buildings_fog.jpg",
     "text": ["Rakennus on {}."],
     "keys": ["korkea"],
     "translation": "The building is tall.",
@@ -553,7 +553,7 @@
   },
   {
     "word": "matala",
-    "image": "",
+    "image": "https://free-images.com/md/e392/antique_table_lamp.jpg",
     "text": ["Pöytä on {}."],
     "keys": ["matala"],
     "translation": "The table is low.",
@@ -561,7 +561,7 @@
   },
   {
     "word": "laiska",
-    "image": "",
+    "image": "https://free-images.com/sm/6994/lazy_unaus_seated_eating.jpg",
     "text": ["Minä olen {}."],
     "keys": ["laiska"],
     "translation": "I am lazy.",
@@ -569,7 +569,7 @@
   },
   {
     "word": "ahkera",
-    "image": "",
+    "image": "https://free-images.com/sm/8ef6/ingathering_strawberry_hardwork_607121.jpg",
     "text": ["Hän on {}."],
     "keys": ["ahkera"],
     "translation": "He/She is hardworking.",
@@ -577,7 +577,7 @@
   },
   {
     "word": "hauska",
-    "image": "",
+    "image": "https://free-images.com/sm/fa18/funny_halloween_pumpkin_ornament.jpg",
     "text": ["Hän on {}."],
     "keys": ["hauska"],
     "translation": "He/She is funny/fun.",
@@ -585,7 +585,7 @@
   },
   {
     "word": "terävä",
-    "image": "",
+    "image": "https://free-images.com/sm/7d9a/knife_kitchen_knife_sharp.jpg",
     "text": ["Veitsi on {}."],
     "keys": ["terävä"],
     "translation": "The knife is sharp.",
@@ -593,7 +593,7 @@
   },
   {
     "word": "auki",
-    "image": "",
+    "image": "https://free-images.com/sm/a3d6/door_open_wooden_next.jpg",
     "text": ["Ovi on {}."],
     "keys": ["auki"],
     "translation": "The door is open.",
@@ -601,7 +601,7 @@
   },
   {
     "word": "kiinni",
-    "image": "",
+    "image": "https://free-images.com/md/c93b/door_wall_closed_old.jpg",
     "text": ["Ovi on {}."],
     "keys": ["kiinni"],
     "translation": "The door is closed.",
@@ -609,7 +609,7 @@
   },
   {
     "word": "paha",
-    "image": "",
+    "image": "https://free-images.com/sm/d4d0/bad_gastein_horn_shield.jpg",
     "text": ["Tämä on {}."],
     "keys": ["paha"],
     "translation": "This is bad.",
@@ -617,7 +617,7 @@
   },
   {
     "word": "tavallinen",
-    "image": "",
+    "image": "https://free-images.com/sm/464b/dvd_disk_cd_computer.jpg",
     "text": ["Tämä on {}."],
     "keys": ["tavallinen"],
     "translation": "This is ordinary.",
@@ -625,7 +625,7 @@
   },
   {
     "word": "seksikäs",
-    "image": "",
+    "image": "https://free-images.com/sm/eb65/sexy_red_lips_happy.jpg",
     "text": ["Hän on {}."],
     "keys": ["seksikäs"],
     "translation": "He/She is sexy.",
